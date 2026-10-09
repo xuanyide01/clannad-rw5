@@ -1,0 +1,19 @@
+{
+  "version": "0.1.0",
+  "versionCode": 3,
+  "packageBytes": 24598675,
+  "expandedBytes": 32454362,
+  "sha256": "0b2caba62c5a015ab48b6258e290aa2a2201ae9d53da438f636bb1b64d5794c5",
+  "physicalDeviceTested": false,
+  "automatedTestsPassed": 13,
+  "traversals": 390,
+  "interactiveChoiceLoops": 10,
+  "sourceFilesMatch": 1528,
+  "unchangedEarlierCommonFiles": 1741,
+  "native30SlotsSaveTest": "native-test-results/pre-font-slots-report.json",
+  "nativeFinalHashReports": [
+    "persistence",
+    "font",
+    "portraits"
+  ]
+}

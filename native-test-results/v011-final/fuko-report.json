@@ -1,0 +1,17 @@
+{
+  "version": "0.1.1",
+  "packageSha256": "487404d9f44d736a3be7ab0ec4fb4e8214ef7d7cf8264441f6fbc57c9283c053",
+  "physicalDeviceTested": false,
+  "options": [
+    "用鼻子喝饮料 Lv1",
+    "丢到别的地方 Lv1",
+    "替换聊天对象 Lv1"
+  ],
+  "selectedIndex": 1,
+  "expectedNextFrame": [
+    1003,
+    94
+  ],
+  "expectedText": "我抓住风子的肩膀，开始拖着她走。",
+  "result": "passed"
+}

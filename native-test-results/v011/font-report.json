@@ -1,0 +1,23 @@
+{
+  "version": "0.1.1",
+  "packageSha256": "fdbe1dcfd834713ac12404b0f476b0bfa90f75260844a4c51da9883c04c7cb98",
+  "physicalDeviceTested": false,
+  "target": {
+    "route": 4,
+    "routeName": "伊吹风子",
+    "chapterIndex": 33,
+    "chapter": 1518,
+    "visibleFrames": 16,
+    "position": [
+      1518,
+      27
+    ],
+    "text": "「他是祐介。」",
+    "speaker": "风子"
+  },
+  "sizes": [
+    24,
+    28
+  ],
+  "result": "passed"
+}

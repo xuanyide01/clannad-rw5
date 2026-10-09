@@ -1,0 +1,1 @@
+[{"op":"text","speaker":"","text":"竖起耳朵…倾听有没有人起床出屋。"},{"op":"text","speaker":"","text":"………。"},{"op":"text","speaker":"","text":"也不知道过了多久…。"},{"op":"text","speaker":"","text":"在万籁俱寂中，我沉睡过去。"},{"op":"background","image":"kuro"},{"op":"bodies","images":[]},{"op":"jumpScene","scene":6511,"entry":0},{"op":"return"}]

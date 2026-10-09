@@ -1,0 +1,13 @@
+{
+  "version": "0.1.1",
+  "packageSha256": "fdbe1dcfd834713ac12404b0f476b0bfa90f75260844a4c51da9883c04c7cb98",
+  "physicalDeviceTested": false,
+  "title": "original STT_BG10 with Ushio",
+  "gallery": {
+    "groups": 68,
+    "images": 174,
+    "differencesSwitch": true
+  },
+  "lockedAfterStoryDoesNotStart": true,
+  "result": "passed"
+}

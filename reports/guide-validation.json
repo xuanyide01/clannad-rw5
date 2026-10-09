@@ -1,0 +1,114 @@
+{
+  "source": "https://kazamatsuri.org/clannad-walkthrough/",
+  "edition": "user-supplied Steam Chinese SceneZH.pck",
+  "result": "passed",
+  "flagsGeneratedByPlaying": true,
+  "progressSavedAcrossPlaythroughs": true,
+  "chunkSize": 512,
+  "paths": [
+    {
+      "route": "misae",
+      "finalScene": 9999,
+      "choices": 24,
+      "originalFlag": 13,
+      "lightCount": 0,
+      "restoredAfterEveryChoice": true
+    },
+    {
+      "route": "tomoyo",
+      "finalScene": 2514,
+      "choices": 57,
+      "originalFlag": 3,
+      "lightCount": 2,
+      "restoredAfterEveryChoice": true
+    },
+    {
+      "route": "yukine",
+      "finalScene": 5430,
+      "choices": 34,
+      "originalFlag": 6,
+      "lightCount": 3,
+      "restoredAfterEveryChoice": true
+    },
+    {
+      "route": "kotomi",
+      "finalScene": 4800,
+      "choices": 44,
+      "originalFlag": 5,
+      "lightCount": 4,
+      "restoredAfterEveryChoice": true
+    },
+    {
+      "route": "kyou",
+      "finalScene": 3514,
+      "choices": 36,
+      "originalFlag": 4,
+      "lightCount": 5,
+      "restoredAfterEveryChoice": true
+    },
+    {
+      "route": "kappei",
+      "finalScene": 7600,
+      "choices": 32,
+      "originalFlag": 12,
+      "lightCount": 6,
+      "restoredAfterEveryChoice": true
+    },
+    {
+      "route": "mei",
+      "finalScene": 7400,
+      "choices": 35,
+      "originalFlag": 9,
+      "lightCount": 7,
+      "restoredAfterEveryChoice": true
+    },
+    {
+      "route": "fuko",
+      "finalScene": 1518,
+      "choices": 70,
+      "originalFlag": 2,
+      "lightCount": 7,
+      "restoredAfterEveryChoice": true
+    },
+    {
+      "route": "koumura",
+      "finalScene": 7300,
+      "choices": 56,
+      "originalFlag": 15,
+      "lightCount": 7,
+      "restoredAfterEveryChoice": true
+    },
+    {
+      "route": "nagisa",
+      "finalScene": 6514,
+      "choices": 74,
+      "originalFlag": 1,
+      "lightCount": 7,
+      "restoredAfterEveryChoice": true
+    },
+    {
+      "route": "after",
+      "finalScene": 6802,
+      "choices": 23,
+      "originalFlag": 35,
+      "lightCount": 12,
+      "restoredAfterEveryChoice": true
+    },
+    {
+      "route": "akio",
+      "finalScene": 7200,
+      "choices": 11,
+      "originalFlag": 7,
+      "lightCount": 13,
+      "restoredAfterEveryChoice": true
+    },
+    {
+      "route": "trueEnd",
+      "finalScene": 6803,
+      "choices": 22,
+      "originalFlag": 45,
+      "lightCount": 13,
+      "restoredAfterEveryChoice": true
+    }
+  ]
+}

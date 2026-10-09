@@ -1,0 +1,56 @@
+{
+  "file": "com.codex.clannad.rw5.debug.0.1.3.rpk",
+  "version": "0.1.3",
+  "bytes": 24613132,
+  "expandedBytes": 32490395,
+  "entries": 1752,
+  "sha256": "c2125e3169ac42ab171772f7344244e6e63268eb1475cf5d766188df7e227283",
+  "certificateSha256": "4e8e1ee24968b0dad6d0956a7e14d848b38b22a203f39c389a45d8737bdc4585",
+  "zipCRCValid": true,
+  "outerSignatureValid": true,
+  "innerSignatureValid": true,
+  "allFileDigestsValid": true,
+  "signedFiles": 1533,
+  "device": "REDMI Watch 5",
+  "physicalDeviceTested": true,
+  "applicationIcon": {
+    "game": "clannad",
+    "width": 192,
+    "height": 192,
+    "pngColorType": 6,
+    "transparentCorners": true,
+    "centerOpaque": true,
+    "bytes": 70008,
+    "sha256": "8c547dca50a954d5a3fbb6d204b4b1893041cbbeb4d9d4e0bdd38f8d02e149d6",
+    "source": "clannad-steam-library.jpg",
+    "builtInImagegenUsed": false,
+    "originalArtworkDirectCrop": true
+  },
+  "allStoryImagesFontsAndOtherResourcesUnchanged": true,
+  "changedCommonResources": [
+    "common/logo.png"
+  ],
+  "compiledGamePageUnchanged": true,
+  "binEqualsRpk": true,
+  "native": {
+    "runtime": "official vela-watch-5.0",
+    "freshInstallationPassed": true,
+    "coldLaunchPassed": true,
+    "iconManifestPath": "/common/logo.png",
+    "actualPhysicalLauncherRenderingTested": true
+  },
+  "status": "Physical installation and icon display confirmed by maintainer; no other bugs reported in tested use.",
+  "hardwareTestPassed": true,
+  "physicalDeviceFeedback": {
+    "date": "2026-10-09",
+    "source": "maintainer physical-device feedback in this conversation",
+    "device": "REDMI Watch 5",
+    "version": "0.1.3",
+    "sha256": "c2125e3169ac42ab171772f7344244e6e63268eb1475cf5d766188df7e227283",
+    "installationPassed": true,
+    "applicationIconDisplayedNormally": true,
+    "otherBugsReported": false,
+    "verbatimFeedback": "3个游戏都已通过上机测试，安装正常，图标正常，暂未发现其他bug。",
+    "scope": "Installation, application icon and the functions exercised by the maintainer; not an exhaustive route or firmware compatibility test."
+  }
+}

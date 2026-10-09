@@ -1,0 +1,100 @@
+[
+  {
+    "route": 0,
+    "routeName": "共通篇",
+    "chapterIndex": 0,
+    "chapter": 414,
+    "visibleFrames": 149,
+    "position": [
+      414,
+      191
+    ],
+    "bodies": [
+      "cgsh24b"
+    ]
+  },
+  {
+    "route": 2,
+    "routeName": "藤林杏 / 椋",
+    "chapterIndex": 0,
+    "chapter": 3001,
+    "visibleFrames": 5,
+    "position": [
+      3001,
+      5
+    ],
+    "bodies": [
+      "cgus10k"
+    ]
+  },
+  {
+    "route": 3,
+    "routeName": "一之濑琴美",
+    "chapterIndex": 1,
+    "chapter": 4417,
+    "visibleFrames": 9,
+    "position": [
+      4417,
+      14
+    ],
+    "bodies": [
+      "cgkt10b"
+    ]
+  },
+  {
+    "route": 4,
+    "routeName": "伊吹风子",
+    "chapterIndex": 2,
+    "chapter": 1003,
+    "visibleFrames": 2,
+    "position": [
+      1003,
+      3
+    ],
+    "bodies": [
+      "cgfu19a"
+    ]
+  },
+  {
+    "route": 5,
+    "routeName": "坂上智代",
+    "chapterIndex": 0,
+    "chapter": 2415,
+    "visibleFrames": 10,
+    "position": [
+      2415,
+      11
+    ],
+    "bodies": [
+      "cgsh10"
+    ]
+  },
+  {
+    "route": 8,
+    "routeName": "宫泽有纪宁",
+    "chapterIndex": 0,
+    "chapter": 5418,
+    "visibleFrames": 11,
+    "position": [
+      5418,
+      60
+    ],
+    "bodies": [
+      "cgyk10a"
+    ]
+  },
+  {
+    "route": 10,
+    "routeName": "相乐美佐枝",
+    "chapterIndex": 0,
+    "chapter": 7500,
+    "visibleFrames": 3,
+    "position": [
+      7500,
+      6
+    ],
+    "bodies": [
+      "cgms21"
+    ]
+  }
+]

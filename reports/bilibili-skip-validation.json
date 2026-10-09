@@ -1,0 +1,119 @@
+{
+  "result": "passed",
+  "paths": [
+    {
+      "name": "misae",
+      "choices": 23,
+      "flag": 13,
+      "finalScene": 9999,
+      "statesMatch": true
+    },
+    {
+      "name": "tomoyo",
+      "choices": 61,
+      "flag": 3,
+      "finalScene": 2514,
+      "statesMatch": true
+    },
+    {
+      "name": "yukine",
+      "choices": 44,
+      "flag": 6,
+      "finalScene": 5430,
+      "statesMatch": true
+    },
+    {
+      "name": "kotomi",
+      "choices": 42,
+      "flag": 5,
+      "finalScene": 4800,
+      "statesMatch": true
+    },
+    {
+      "name": "kyou",
+      "choices": 36,
+      "flag": 4,
+      "finalScene": 3514,
+      "statesMatch": true
+    },
+    {
+      "name": "kappei",
+      "choices": 26,
+      "flag": 12,
+      "finalScene": 7600,
+      "statesMatch": true
+    },
+    {
+      "name": "mei",
+      "choices": 24,
+      "flag": 9,
+      "finalScene": 7400,
+      "statesMatch": true
+    },
+    {
+      "name": "fuko",
+      "choices": 71,
+      "flag": 2,
+      "finalScene": 1518,
+      "statesMatch": true
+    },
+    {
+      "name": "koumura",
+      "choices": 54,
+      "flag": 15,
+      "finalScene": 7300,
+      "statesMatch": true
+    },
+    {
+      "name": "nagisa",
+      "choices": 59,
+      "flag": 1,
+      "finalScene": 6514,
+      "statesMatch": true
+    },
+    {
+      "name": "sunohara",
+      "choices": 50,
+      "flag": 122,
+      "finalScene": 666,
+      "statesMatch": true
+    },
+    {
+      "name": "baseball",
+      "choices": 49,
+      "flag": 119,
+      "finalScene": 9999,
+      "statesMatch": true
+    },
+    {
+      "name": "saitou",
+      "choices": 44,
+      "flag": 121,
+      "finalScene": 444,
+      "statesMatch": true
+    },
+    {
+      "name": "after",
+      "choices": 23,
+      "flag": 35,
+      "finalScene": 6802,
+      "statesMatch": true
+    },
+    {
+      "name": "akio",
+      "choices": 11,
+      "flag": 7,
+      "finalScene": 7200,
+      "statesMatch": true
+    },
+    {
+      "name": "trueEnd",
+      "choices": 22,
+      "flag": 45,
+      "finalScene": 6803,
+      "statesMatch": true
+    }
+  ],
+  "allChoicesRequirePlayerInput": true,
+  "saveRestoreAfterEveryChoice": true
+}
