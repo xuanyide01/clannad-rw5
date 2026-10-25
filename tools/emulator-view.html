@@ -11,4 +11,4 @@ screen.addEventListener('pointerup',async e=>{if(!down)return;const end=point(e)
 screen.addEventListener('dragstart',e=>e.preventDefault());screen.addEventListener('pointercancel',()=>down=null);
 async function refresh(){if(updating)return;updating=true;try{const r=await fetch('/screen?t='+Date.now());if(!r.ok){const d=await r.json();throw new Error(d.error)}const blob=await r.blob(),url=URL.createObjectURL(blob),previous=screen.src;screen.src=url;if(previous.startsWith('blob:'))URL.revokeObjectURL(previous);if(status.textContent.startsWith('正在')||status.textContent.includes('registered'))status.textContent='模拟器已连接，可以点击屏幕。'}catch(e){status.textContent=e.message}finally{updating=false}}
 setInterval(refresh,500);refresh();
-</script></html>
+</script><script src="/emulator-audio-client.js"></script></html>

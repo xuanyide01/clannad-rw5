@@ -1,0 +1,78 @@
+{
+  "passed": true,
+  "initialPlays": 3,
+  "guardedStops": 2,
+  "unexpectedEOF": 0,
+  "observations": [
+    {
+      "elapsed": 0,
+      "plays": 1,
+      "stops": 0,
+      "playing": true,
+      "revision": 1,
+      "position": 11.52,
+      "duration": 74.927,
+      "updatedAt": 1792916143765
+    },
+    {
+      "elapsed": 20,
+      "plays": 1,
+      "stops": 0,
+      "playing": true,
+      "revision": 1,
+      "position": 31.616,
+      "duration": 74.927,
+      "updatedAt": 1792916163900
+    },
+    {
+      "elapsed": 40,
+      "plays": 1,
+      "stops": 0,
+      "playing": true,
+      "revision": 1,
+      "position": 52.864,
+      "duration": 74.927,
+      "updatedAt": 1792916185062
+    },
+    {
+      "elapsed": 60,
+      "plays": 1,
+      "stops": 0,
+      "playing": true,
+      "revision": 1,
+      "position": 72.96,
+      "duration": 74.927,
+      "updatedAt": 1792916205247
+    },
+    {
+      "elapsed": 80,
+      "plays": 2,
+      "stops": 1,
+      "playing": true,
+      "revision": 2,
+      "position": 18.56,
+      "duration": 74.927,
+      "updatedAt": 1792916225093
+    },
+    {
+      "elapsed": 100,
+      "plays": 2,
+      "stops": 1,
+      "playing": true,
+      "revision": 2,
+      "position": 38.784,
+      "duration": 74.927,
+      "updatedAt": 1792916245238
+    },
+    {
+      "elapsed": 120,
+      "plays": 2,
+      "stops": 1,
+      "playing": true,
+      "revision": 2,
+      "position": 58.88,
+      "duration": 74.927,
+      "updatedAt": 1792916265357
+    }
+  ]
+}

@@ -1,0 +1,3735 @@
+{
+  "passed": true,
+  "sourceBytes": 24660652,
+  "bytesBeforeR1": 24989849,
+  "allUncompressedPayloadBytesIdentical": true,
+  "storedFiles": 803,
+  "deflatedFiles": 744,
+  "storedProtectedBinaryFiles": 397,
+  "allPngPcmAndFontsStored": true,
+  "largestDeflatedBytes": 262226,
+  "deflatedUncompressedBytes": 12093698,
+  "deflatedEntries": [
+    {
+      "name": "manifest-watch.json",
+      "bytes": 609,
+      "compressed": 288
+    },
+    {
+      "name": "manifest.json",
+      "bytes": 595,
+      "compressed": 355
+    },
+    {
+      "name": "app.js",
+      "bytes": 1067,
+      "compressed": 591
+    },
+    {
+      "name": "pages/index/index.js",
+      "bytes": 262226,
+      "compressed": 33713
+    },
+    {
+      "name": "common/gallery.txt",
+      "bytes": 13214,
+      "compressed": 1349
+    },
+    {
+      "name": "common/images/aka.jpg",
+      "bytes": 737,
+      "compressed": 184
+    },
+    {
+      "name": "common/images/bg001n2.jpg",
+      "bytes": 8847,
+      "compressed": 8798
+    },
+    {
+      "name": "common/images/bg002.jpg",
+      "bytes": 10655,
+      "compressed": 10591
+    },
+    {
+      "name": "common/images/bg002y.jpg",
+      "bytes": 10851,
+      "compressed": 10798
+    },
+    {
+      "name": "common/images/bg003.jpg",
+      "bytes": 9205,
+      "compressed": 9151
+    },
+    {
+      "name": "common/images/bg003h.jpg",
+      "bytes": 9086,
+      "compressed": 9031
+    },
+    {
+      "name": "common/images/bg003n1.jpg",
+      "bytes": 9437,
+      "compressed": 9364
+    },
+    {
+      "name": "common/images/bg003n1h.jpg",
+      "bytes": 9316,
+      "compressed": 9248
+    },
+    {
+      "name": "common/images/bg003y.jpg",
+      "bytes": 9904,
+      "compressed": 9828
+    },
+    {
+      "name": "common/images/bg004a.jpg",
+      "bytes": 9184,
+      "compressed": 9129
+    },
+    {
+      "name": "common/images/bg004an1.jpg",
+      "bytes": 9427,
+      "compressed": 9368
+    },
+    {
+      "name": "common/images/bg004c.jpg",
+      "bytes": 9416,
+      "compressed": 9359
+    },
+    {
+      "name": "common/images/bg005.jpg",
+      "bytes": 10824,
+      "compressed": 10775
+    },
+    {
+      "name": "common/images/bg005a.jpg",
+      "bytes": 10368,
+      "compressed": 10314
+    },
+    {
+      "name": "common/images/bg005n1.jpg",
+      "bytes": 11340,
+      "compressed": 11280
+    },
+    {
+      "name": "common/images/bg005n2.jpg",
+      "bytes": 5337,
+      "compressed": 5267
+    },
+    {
+      "name": "common/images/bg006.jpg",
+      "bytes": 7439,
+      "compressed": 7314
+    },
+    {
+      "name": "common/images/bg006n1.jpg",
+      "bytes": 8008,
+      "compressed": 7872
+    },
+    {
+      "name": "common/images/bg006n2.jpg",
+      "bytes": 4377,
+      "compressed": 4264
+    },
+    {
+      "name": "common/images/bg007y.jpg",
+      "bytes": 15093,
+      "compressed": 15039
+    },
+    {
+      "name": "common/images/bg009.jpg",
+      "bytes": 9886,
+      "compressed": 9830
+    },
+    {
+      "name": "common/images/bg011r.jpg",
+      "bytes": 8787,
+      "compressed": 8736
+    },
+    {
+      "name": "common/images/bg015b.jpg",
+      "bytes": 16932,
+      "compressed": 16883
+    },
+    {
+      "name": "common/images/bg015c.jpg",
+      "bytes": 12505,
+      "compressed": 12443
+    },
+    {
+      "name": "common/images/bg017.jpg",
+      "bytes": 9363,
+      "compressed": 9299
+    },
+    {
+      "name": "common/images/bg017y.jpg",
+      "bytes": 10497,
+      "compressed": 10449
+    },
+    {
+      "name": "common/images/bg018.jpg",
+      "bytes": 9339,
+      "compressed": 9283
+    },
+    {
+      "name": "common/images/bg018w.jpg",
+      "bytes": 10949,
+      "compressed": 10901
+    },
+    {
+      "name": "common/images/bg027.jpg",
+      "bytes": 10896,
+      "compressed": 10839
+    },
+    {
+      "name": "common/images/bg028.jpg",
+      "bytes": 13050,
+      "compressed": 13000
+    },
+    {
+      "name": "common/images/bg030.jpg",
+      "bytes": 11462,
+      "compressed": 11413
+    },
+    {
+      "name": "common/images/bg033r.jpg",
+      "bytes": 9700,
+      "compressed": 9651
+    },
+    {
+      "name": "common/images/bg039r.jpg",
+      "bytes": 10153,
+      "compressed": 10084
+    },
+    {
+      "name": "common/images/bg043b.jpg",
+      "bytes": 1436,
+      "compressed": 1132
+    },
+    {
+      "name": "common/images/bg044a.jpg",
+      "bytes": 9281,
+      "compressed": 9220
+    },
+    {
+      "name": "common/images/bg044an2.jpg",
+      "bytes": 5249,
+      "compressed": 5195
+    },
+    {
+      "name": "common/images/bg044b.jpg",
+      "bytes": 9331,
+      "compressed": 9283
+    },
+    {
+      "name": "common/images/bg044d.jpg",
+      "bytes": 9107,
+      "compressed": 9058
+    },
+    {
+      "name": "common/images/bg044n1h.jpg",
+      "bytes": 9551,
+      "compressed": 9500
+    },
+    {
+      "name": "common/images/bg044n2.jpg",
+      "bytes": 5201,
+      "compressed": 5150
+    },
+    {
+      "name": "common/images/bg044z.jpg",
+      "bytes": 6656,
+      "compressed": 6596
+    },
+    {
+      "name": "common/images/bg051a.jpg",
+      "bytes": 13409,
+      "compressed": 13359
+    },
+    {
+      "name": "common/images/bg051g.jpg",
+      "bytes": 8069,
+      "compressed": 8000
+    },
+    {
+      "name": "common/images/bg051h.jpg",
+      "bytes": 8244,
+      "compressed": 8183
+    },
+    {
+      "name": "common/images/bg051k.jpg",
+      "bytes": 3357,
+      "compressed": 2956
+    },
+    {
+      "name": "common/images/bg051l.jpg",
+      "bytes": 3407,
+      "compressed": 3001
+    },
+    {
+      "name": "common/images/bg051s.jpg",
+      "bytes": 12767,
+      "compressed": 12676
+    },
+    {
+      "name": "common/images/bg053.jpg",
+      "bytes": 8349,
+      "compressed": 8301
+    },
+    {
+      "name": "common/images/bg056.jpg",
+      "bytes": 5284,
+      "compressed": 5218
+    },
+    {
+      "name": "common/images/bg063.jpg",
+      "bytes": 6926,
+      "compressed": 6873
+    },
+    {
+      "name": "common/images/bg064y.jpg",
+      "bytes": 9523,
+      "compressed": 9460
+    },
+    {
+      "name": "common/images/bg065y.jpg",
+      "bytes": 5468,
+      "compressed": 5413
+    },
+    {
+      "name": "common/images/bg080.jpg",
+      "bytes": 4134,
+      "compressed": 4080
+    },
+    {
+      "name": "common/images/bg080c.jpg",
+      "bytes": 2585,
+      "compressed": 2534
+    },
+    {
+      "name": "common/images/bg080n.jpg",
+      "bytes": 2069,
+      "compressed": 2011
+    },
+    {
+      "name": "common/images/bg081.jpg",
+      "bytes": 3163,
+      "compressed": 3092
+    },
+    {
+      "name": "common/images/bg082.jpg",
+      "bytes": 3387,
+      "compressed": 3330
+    },
+    {
+      "name": "common/images/bg085.jpg",
+      "bytes": 5563,
+      "compressed": 5513
+    },
+    {
+      "name": "common/images/bg086.jpg",
+      "bytes": 10366,
+      "compressed": 10304
+    },
+    {
+      "name": "common/images/bg087.jpg",
+      "bytes": 4309,
+      "compressed": 4243
+    },
+    {
+      "name": "common/images/bg090.jpg",
+      "bytes": 2649,
+      "compressed": 2565
+    },
+    {
+      "name": "common/images/bg102n2.jpg",
+      "bytes": 7119,
+      "compressed": 7063
+    },
+    {
+      "name": "common/images/bg138r.jpg",
+      "bytes": 9706,
+      "compressed": 9657
+    },
+    {
+      "name": "common/images/bg144.jpg",
+      "bytes": 9477,
+      "compressed": 9420
+    },
+    {
+      "name": "common/images/bg144ah.jpg",
+      "bytes": 9446,
+      "compressed": 9387
+    },
+    {
+      "name": "common/images/bg144an2.jpg",
+      "bytes": 5284,
+      "compressed": 5222
+    },
+    {
+      "name": "common/images/bg144ay.jpg",
+      "bytes": 9812,
+      "compressed": 9763
+    },
+    {
+      "name": "common/images/bg144b.jpg",
+      "bytes": 9637,
+      "compressed": 9586
+    },
+    {
+      "name": "common/images/bg144by.jpg",
+      "bytes": 9861,
+      "compressed": 9812
+    },
+    {
+      "name": "common/images/bg144d.jpg",
+      "bytes": 9411,
+      "compressed": 9362
+    },
+    {
+      "name": "common/images/bg144dh.jpg",
+      "bytes": 9278,
+      "compressed": 9220
+    },
+    {
+      "name": "common/images/bg144n1.jpg",
+      "bytes": 9824,
+      "compressed": 9771
+    },
+    {
+      "name": "common/images/bg144n2.jpg",
+      "bytes": 5242,
+      "compressed": 5189
+    },
+    {
+      "name": "common/images/bg202.jpg",
+      "bytes": 11333,
+      "compressed": 11273
+    },
+    {
+      "name": "common/images/bg203.jpg",
+      "bytes": 9501,
+      "compressed": 9446
+    },
+    {
+      "name": "common/images/bg203a.jpg",
+      "bytes": 9596,
+      "compressed": 9544
+    },
+    {
+      "name": "common/images/bg244at.jpg",
+      "bytes": 9548,
+      "compressed": 9495
+    },
+    {
+      "name": "common/images/bg244ay.jpg",
+      "bytes": 9728,
+      "compressed": 9674
+    },
+    {
+      "name": "common/images/bg244b.jpg",
+      "bytes": 9579,
+      "compressed": 9530
+    },
+    {
+      "name": "common/images/bg244bm.jpg",
+      "bytes": 8773,
+      "compressed": 8718
+    },
+    {
+      "name": "common/images/bg280.jpg",
+      "bytes": 3505,
+      "compressed": 3442
+    },
+    {
+      "name": "common/images/bg282.jpg",
+      "bytes": 3282,
+      "compressed": 3222
+    },
+    {
+      "name": "common/images/bg300.jpg",
+      "bytes": 1961,
+      "compressed": 1890
+    },
+    {
+      "name": "common/images/bg302.jpg",
+      "bytes": 10348,
+      "compressed": 10295
+    },
+    {
+      "name": "common/images/bg305.jpg",
+      "bytes": 8867,
+      "compressed": 8749
+    },
+    {
+      "name": "common/images/bg308.jpg",
+      "bytes": 5451,
+      "compressed": 5311
+    },
+    {
+      "name": "common/images/bg312.jpg",
+      "bytes": 5861,
+      "compressed": 5813
+    },
+    {
+      "name": "common/images/bg314.jpg",
+      "bytes": 3037,
+      "compressed": 2969
+    },
+    {
+      "name": "common/images/bg315.jpg",
+      "bytes": 2315,
+      "compressed": 2257
+    },
+    {
+      "name": "common/images/cgsi10.jpg",
+      "bytes": 4915,
+      "compressed": 4541
+    },
+    {
+      "name": "common/images/ed1_01.jpg",
+      "bytes": 3402,
+      "compressed": 2962
+    },
+    {
+      "name": "common/images/ed1_02.jpg",
+      "bytes": 2773,
+      "compressed": 2441
+    },
+    {
+      "name": "common/images/ed1_03.jpg",
+      "bytes": 2997,
+      "compressed": 2557
+    },
+    {
+      "name": "common/images/ed1_04.jpg",
+      "bytes": 2693,
+      "compressed": 2371
+    },
+    {
+      "name": "common/images/ed3_01.jpg",
+      "bytes": 7446,
+      "compressed": 7381
+    },
+    {
+      "name": "common/images/ed3_02.jpg",
+      "bytes": 6731,
+      "compressed": 6655
+    },
+    {
+      "name": "common/images/ed3_03.jpg",
+      "bytes": 5599,
+      "compressed": 5542
+    },
+    {
+      "name": "common/images/ed3_04.jpg",
+      "bytes": 5688,
+      "compressed": 5601
+    },
+    {
+      "name": "common/images/ed3_05.jpg",
+      "bytes": 5498,
+      "compressed": 5429
+    },
+    {
+      "name": "common/images/ed3_06.jpg",
+      "bytes": 5948,
+      "compressed": 5834
+    },
+    {
+      "name": "common/images/ed3_07.jpg",
+      "bytes": 6956,
+      "compressed": 6901
+    },
+    {
+      "name": "common/images/ed3_08.jpg",
+      "bytes": 7722,
+      "compressed": 7597
+    },
+    {
+      "name": "common/images/ed3_09.jpg",
+      "bytes": 6059,
+      "compressed": 5984
+    },
+    {
+      "name": "common/images/ed3_10.jpg",
+      "bytes": 5122,
+      "compressed": 5037
+    },
+    {
+      "name": "common/images/ed3_11.jpg",
+      "bytes": 5770,
+      "compressed": 5695
+    },
+    {
+      "name": "common/images/ed3_12.jpg",
+      "bytes": 3977,
+      "compressed": 3817
+    },
+    {
+      "name": "common/images/ed3_13.jpg",
+      "bytes": 3242,
+      "compressed": 3021
+    },
+    {
+      "name": "common/images/ed3_14.jpg",
+      "bytes": 6338,
+      "compressed": 6229
+    },
+    {
+      "name": "common/images/ed3_15.jpg",
+      "bytes": 5150,
+      "compressed": 5003
+    },
+    {
+      "name": "common/images/ed4_01.jpg",
+      "bytes": 5240,
+      "compressed": 5160
+    },
+    {
+      "name": "common/images/ed4_02.jpg",
+      "bytes": 2858,
+      "compressed": 2564
+    },
+    {
+      "name": "common/images/fgcd01.jpg",
+      "bytes": 7504,
+      "compressed": 7348
+    },
+    {
+      "name": "common/images/fgcd01_zh.jpg",
+      "bytes": 7395,
+      "compressed": 7234
+    },
+    {
+      "name": "common/images/fgcd02.jpg",
+      "bytes": 7611,
+      "compressed": 7479
+    },
+    {
+      "name": "common/images/fgcd02_zh.jpg",
+      "bytes": 7762,
+      "compressed": 7608
+    },
+    {
+      "name": "common/images/fgcd03.jpg",
+      "bytes": 7890,
+      "compressed": 7749
+    },
+    {
+      "name": "common/images/fgcd03_zh.jpg",
+      "bytes": 8133,
+      "compressed": 8000
+    },
+    {
+      "name": "common/images/fgcd04.jpg",
+      "bytes": 7874,
+      "compressed": 7729
+    },
+    {
+      "name": "common/images/fgcd04_zh.jpg",
+      "bytes": 8202,
+      "compressed": 8083
+    },
+    {
+      "name": "common/images/fgcd05.jpg",
+      "bytes": 8023,
+      "compressed": 7890
+    },
+    {
+      "name": "common/images/fgcd05_zh.jpg",
+      "bytes": 8210,
+      "compressed": 8066
+    },
+    {
+      "name": "common/images/fgcd06.jpg",
+      "bytes": 9549,
+      "compressed": 9413
+    },
+    {
+      "name": "common/images/fgcd06_zh.jpg",
+      "bytes": 9643,
+      "compressed": 9563
+    },
+    {
+      "name": "common/images/fgcd07.jpg",
+      "bytes": 7498,
+      "compressed": 7314
+    },
+    {
+      "name": "common/images/fgcd07_zh.jpg",
+      "bytes": 7522,
+      "compressed": 7347
+    },
+    {
+      "name": "common/images/fgfu08a.jpg",
+      "bytes": 8233,
+      "compressed": 8093
+    },
+    {
+      "name": "common/images/fgfu08b.jpg",
+      "bytes": 5363,
+      "compressed": 5064
+    },
+    {
+      "name": "common/images/fgfu10.jpg",
+      "bytes": 4796,
+      "compressed": 4737
+    },
+    {
+      "name": "common/images/fgkt09a.jpg",
+      "bytes": 12322,
+      "compressed": 12171
+    },
+    {
+      "name": "common/images/fgkt09b.jpg",
+      "bytes": 12352,
+      "compressed": 12207
+    },
+    {
+      "name": "common/images/fgkt09c.jpg",
+      "bytes": 12246,
+      "compressed": 12105
+    },
+    {
+      "name": "common/images/fgkt10a.jpg",
+      "bytes": 8950,
+      "compressed": 8857
+    },
+    {
+      "name": "common/images/fgkt10b.jpg",
+      "bytes": 8949,
+      "compressed": 8864
+    },
+    {
+      "name": "common/images/fgkt11.jpg",
+      "bytes": 5351,
+      "compressed": 5082
+    },
+    {
+      "name": "common/images/fgky10c.jpg",
+      "bytes": 9385,
+      "compressed": 9303
+    },
+    {
+      "name": "common/images/fgms01.jpg",
+      "bytes": 733,
+      "compressed": 174
+    },
+    {
+      "name": "common/images/fgms35.jpg",
+      "bytes": 1094,
+      "compressed": 576
+    },
+    {
+      "name": "common/images/fgms35_zh.jpg",
+      "bytes": 971,
+      "compressed": 447
+    },
+    {
+      "name": "common/images/fgms36.jpg",
+      "bytes": 1098,
+      "compressed": 586
+    },
+    {
+      "name": "common/images/fgms36_zh.jpg",
+      "bytes": 1180,
+      "compressed": 671
+    },
+    {
+      "name": "common/images/fgms37.jpg",
+      "bytes": 1988,
+      "compressed": 1521
+    },
+    {
+      "name": "common/images/fgms37_zh.jpg",
+      "bytes": 1294,
+      "compressed": 796
+    },
+    {
+      "name": "common/images/fgms38.jpg",
+      "bytes": 1358,
+      "compressed": 866
+    },
+    {
+      "name": "common/images/fgms38_zh.jpg",
+      "bytes": 1299,
+      "compressed": 804
+    },
+    {
+      "name": "common/images/fgms39.jpg",
+      "bytes": 2124,
+      "compressed": 1660
+    },
+    {
+      "name": "common/images/fgms39_zh.jpg",
+      "bytes": 1631,
+      "compressed": 1168
+    },
+    {
+      "name": "common/images/fgms40.jpg",
+      "bytes": 1340,
+      "compressed": 844
+    },
+    {
+      "name": "common/images/fgms40_zh.jpg",
+      "bytes": 1256,
+      "compressed": 760
+    },
+    {
+      "name": "common/images/fgms41.jpg",
+      "bytes": 1584,
+      "compressed": 1107
+    },
+    {
+      "name": "common/images/fgms41_zh.jpg",
+      "bytes": 1322,
+      "compressed": 828
+    },
+    {
+      "name": "common/images/fgms43.jpg",
+      "bytes": 1760,
+      "compressed": 1286
+    },
+    {
+      "name": "common/images/fgms43_zh.jpg",
+      "bytes": 1567,
+      "compressed": 1099
+    },
+    {
+      "name": "common/images/fgms44.jpg",
+      "bytes": 1034,
+      "compressed": 512
+    },
+    {
+      "name": "common/images/fgms44_zh.jpg",
+      "bytes": 935,
+      "compressed": 403
+    },
+    {
+      "name": "common/images/fgms45.jpg",
+      "bytes": 1568,
+      "compressed": 1087
+    },
+    {
+      "name": "common/images/fgms45_zh.jpg",
+      "bytes": 1262,
+      "compressed": 761
+    },
+    {
+      "name": "common/images/fgms46.jpg",
+      "bytes": 1832,
+      "compressed": 1356
+    },
+    {
+      "name": "common/images/fgms46_zh.jpg",
+      "bytes": 1405,
+      "compressed": 915
+    },
+    {
+      "name": "common/images/fgms47.jpg",
+      "bytes": 2047,
+      "compressed": 1574
+    },
+    {
+      "name": "common/images/fgms47_zh.jpg",
+      "bytes": 1570,
+      "compressed": 1095
+    },
+    {
+      "name": "common/images/fgms48.jpg",
+      "bytes": 2003,
+      "compressed": 1535
+    },
+    {
+      "name": "common/images/fgms48_zh.jpg",
+      "bytes": 1809,
+      "compressed": 1343
+    },
+    {
+      "name": "common/images/fgms49.jpg",
+      "bytes": 1582,
+      "compressed": 1110
+    },
+    {
+      "name": "common/images/fgms49_zh.jpg",
+      "bytes": 1401,
+      "compressed": 913
+    },
+    {
+      "name": "common/images/fgms50.jpg",
+      "bytes": 743,
+      "compressed": 201
+    },
+    {
+      "name": "common/images/fgms51.jpg",
+      "bytes": 743,
+      "compressed": 202
+    },
+    {
+      "name": "common/images/fgng07a.jpg",
+      "bytes": 10286,
+      "compressed": 10237
+    },
+    {
+      "name": "common/images/fgng16.jpg",
+      "bytes": 4152,
+      "compressed": 4033
+    },
+    {
+      "name": "common/images/fgng17a.jpg",
+      "bytes": 4212,
+      "compressed": 3824
+    },
+    {
+      "name": "common/images/fgng17b.jpg",
+      "bytes": 4234,
+      "compressed": 3849
+    },
+    {
+      "name": "common/images/fgng17d.jpg",
+      "bytes": 4233,
+      "compressed": 3849
+    },
+    {
+      "name": "common/images/fgng18a.jpg",
+      "bytes": 6097,
+      "compressed": 5922
+    },
+    {
+      "name": "common/images/fgng18b.jpg",
+      "bytes": 6111,
+      "compressed": 5939
+    },
+    {
+      "name": "common/images/fgng19.jpg",
+      "bytes": 9966,
+      "compressed": 9916
+    },
+    {
+      "name": "common/images/fgsb06.jpg",
+      "bytes": 4833,
+      "compressed": 4685
+    },
+    {
+      "name": "common/images/fgsb10.jpg",
+      "bytes": 3791,
+      "compressed": 3678
+    },
+    {
+      "name": "common/images/fgsb13b.jpg",
+      "bytes": 5393,
+      "compressed": 5316
+    },
+    {
+      "name": "common/images/fgyk01a.jpg",
+      "bytes": 3274,
+      "compressed": 3156
+    },
+    {
+      "name": "common/images/ktc01_02.jpg",
+      "bytes": 3147,
+      "compressed": 3092
+    },
+    {
+      "name": "common/images/ktc01_03.jpg",
+      "bytes": 3233,
+      "compressed": 3157
+    },
+    {
+      "name": "common/images/ktc01_04.jpg",
+      "bytes": 3308,
+      "compressed": 3256
+    },
+    {
+      "name": "common/images/ktc02_01.jpg",
+      "bytes": 373,
+      "compressed": 172
+    },
+    {
+      "name": "common/images/ktc02_02.jpg",
+      "bytes": 343,
+      "compressed": 172
+    },
+    {
+      "name": "common/images/ktc02_03.jpg",
+      "bytes": 373,
+      "compressed": 172
+    },
+    {
+      "name": "common/images/ktc02_04.jpg",
+      "bytes": 437,
+      "compressed": 329
+    },
+    {
+      "name": "common/images/ktc02_05.jpg",
+      "bytes": 373,
+      "compressed": 172
+    },
+    {
+      "name": "common/images/ktc02_06.jpg",
+      "bytes": 403,
+      "compressed": 172
+    },
+    {
+      "name": "common/images/ktc02_07.jpg",
+      "bytes": 401,
+      "compressed": 280
+    },
+    {
+      "name": "common/images/ktc02_08.jpg",
+      "bytes": 373,
+      "compressed": 172
+    },
+    {
+      "name": "common/images/ktc02_09.jpg",
+      "bytes": 452,
+      "compressed": 351
+    },
+    {
+      "name": "common/images/ktc02_10.jpg",
+      "bytes": 313,
+      "compressed": 172
+    },
+    {
+      "name": "common/images/ktc02_11.jpg",
+      "bytes": 373,
+      "compressed": 172
+    },
+    {
+      "name": "common/images/ktc02_12.jpg",
+      "bytes": 373,
+      "compressed": 172
+    },
+    {
+      "name": "common/images/ktc02_13.jpg",
+      "bytes": 1088,
+      "compressed": 969
+    },
+    {
+      "name": "common/images/ktc03_02.jpg",
+      "bytes": 2620,
+      "compressed": 2547
+    },
+    {
+      "name": "common/images/ktc03_03.jpg",
+      "bytes": 2984,
+      "compressed": 2900
+    },
+    {
+      "name": "common/images/ktc03_04.jpg",
+      "bytes": 2973,
+      "compressed": 2897
+    },
+    {
+      "name": "common/images/ktc04_02.jpg",
+      "bytes": 3003,
+      "compressed": 2928
+    },
+    {
+      "name": "common/images/ktc05_04.jpg",
+      "bytes": 2889,
+      "compressed": 2826
+    },
+    {
+      "name": "common/images/ktc05_05.jpg",
+      "bytes": 3600,
+      "compressed": 3526
+    },
+    {
+      "name": "common/images/ktc05_06.jpg",
+      "bytes": 3018,
+      "compressed": 2960
+    },
+    {
+      "name": "common/images/ktc06_01.jpg",
+      "bytes": 3177,
+      "compressed": 3098
+    },
+    {
+      "name": "common/images/kuro.jpg",
+      "bytes": 285,
+      "compressed": 149
+    },
+    {
+      "name": "common/images/sccec00.jpg",
+      "bytes": 343,
+      "compressed": 172
+    },
+    {
+      "name": "common/images/sccec10.jpg",
+      "bytes": 666,
+      "compressed": 584
+    },
+    {
+      "name": "common/images/sdta0414.jpg",
+      "bytes": 6358,
+      "compressed": 6071
+    },
+    {
+      "name": "common/images/sdta0415.jpg",
+      "bytes": 6369,
+      "compressed": 6084
+    },
+    {
+      "name": "common/images/sdta0416.jpg",
+      "bytes": 6450,
+      "compressed": 6167
+    },
+    {
+      "name": "common/images/sdta0417.jpg",
+      "bytes": 6297,
+      "compressed": 6005
+    },
+    {
+      "name": "common/images/sdta0418.jpg",
+      "bytes": 6407,
+      "compressed": 6121
+    },
+    {
+      "name": "common/images/sdta0419.jpg",
+      "bytes": 6344,
+      "compressed": 6054
+    },
+    {
+      "name": "common/images/sdta0420.jpg",
+      "bytes": 6222,
+      "compressed": 5937
+    },
+    {
+      "name": "common/images/sdta0421.jpg",
+      "bytes": 6436,
+      "compressed": 6147
+    },
+    {
+      "name": "common/images/sdta0422.jpg",
+      "bytes": 6520,
+      "compressed": 6241
+    },
+    {
+      "name": "common/images/sdta0423.jpg",
+      "bytes": 6610,
+      "compressed": 6311
+    },
+    {
+      "name": "common/images/sdta0424.jpg",
+      "bytes": 6489,
+      "compressed": 6203
+    },
+    {
+      "name": "common/images/sdta0425.jpg",
+      "bytes": 6508,
+      "compressed": 6227
+    },
+    {
+      "name": "common/images/sdta0426.jpg",
+      "bytes": 6481,
+      "compressed": 6194
+    },
+    {
+      "name": "common/images/sdta0427.jpg",
+      "bytes": 6199,
+      "compressed": 5906
+    },
+    {
+      "name": "common/images/sdta0428.jpg",
+      "bytes": 6583,
+      "compressed": 6304
+    },
+    {
+      "name": "common/images/sdta0429.jpg",
+      "bytes": 6326,
+      "compressed": 6042
+    },
+    {
+      "name": "common/images/sdta0430.jpg",
+      "bytes": 6550,
+      "compressed": 6263
+    },
+    {
+      "name": "common/images/sdta0501.jpg",
+      "bytes": 5939,
+      "compressed": 5649
+    },
+    {
+      "name": "common/images/sdta0502.jpg",
+      "bytes": 6089,
+      "compressed": 5801
+    },
+    {
+      "name": "common/images/sdta0503.jpg",
+      "bytes": 5946,
+      "compressed": 5658
+    },
+    {
+      "name": "common/images/sdta0504.jpg",
+      "bytes": 5877,
+      "compressed": 5584
+    },
+    {
+      "name": "common/images/sdta0505.jpg",
+      "bytes": 6046,
+      "compressed": 5756
+    },
+    {
+      "name": "common/images/sdta0506.jpg",
+      "bytes": 6133,
+      "compressed": 5841
+    },
+    {
+      "name": "common/images/sdta0507.jpg",
+      "bytes": 6053,
+      "compressed": 5768
+    },
+    {
+      "name": "common/images/sdta0508.jpg",
+      "bytes": 6167,
+      "compressed": 5873
+    },
+    {
+      "name": "common/images/sdta0509.jpg",
+      "bytes": 6114,
+      "compressed": 5824
+    },
+    {
+      "name": "common/images/sdta0510.jpg",
+      "bytes": 6239,
+      "compressed": 5950
+    },
+    {
+      "name": "common/images/sdta0511.jpg",
+      "bytes": 5957,
+      "compressed": 5668
+    },
+    {
+      "name": "common/images/sdta0512.jpg",
+      "bytes": 6337,
+      "compressed": 6049
+    },
+    {
+      "name": "common/images/sdta0513.jpg",
+      "bytes": 6367,
+      "compressed": 6075
+    },
+    {
+      "name": "common/images/sdta0514.jpg",
+      "bytes": 6366,
+      "compressed": 6079
+    },
+    {
+      "name": "common/images/sdta0515.jpg",
+      "bytes": 6347,
+      "compressed": 6058
+    },
+    {
+      "name": "common/images/sdta0516.jpg",
+      "bytes": 6349,
+      "compressed": 6050
+    },
+    {
+      "name": "common/images/sdta0517.jpg",
+      "bytes": 6249,
+      "compressed": 5955
+    },
+    {
+      "name": "common/images/sdta0518.jpg",
+      "bytes": 6131,
+      "compressed": 5850
+    },
+    {
+      "name": "common/images/sdtb0405.jpg",
+      "bytes": 6250,
+      "compressed": 5960
+    },
+    {
+      "name": "common/images/sdtb0406.jpg",
+      "bytes": 6232,
+      "compressed": 5943
+    },
+    {
+      "name": "common/images/sdtb0407.jpg",
+      "bytes": 6155,
+      "compressed": 5870
+    },
+    {
+      "name": "common/images/sdtb0408.jpg",
+      "bytes": 6260,
+      "compressed": 5971
+    },
+    {
+      "name": "common/images/sdtb0410.jpg",
+      "bytes": 6330,
+      "compressed": 6041
+    },
+    {
+      "name": "common/images/sdtb0412.jpg",
+      "bytes": 6421,
+      "compressed": 6127
+    },
+    {
+      "name": "common/images/sdtb0414.jpg",
+      "bytes": 6440,
+      "compressed": 6152
+    },
+    {
+      "name": "common/images/sdtb0505.jpg",
+      "bytes": 6095,
+      "compressed": 5810
+    },
+    {
+      "name": "common/images/sdtb0506.jpg",
+      "bytes": 6194,
+      "compressed": 5903
+    },
+    {
+      "name": "common/images/sdtb0507.jpg",
+      "bytes": 6023,
+      "compressed": 5738
+    },
+    {
+      "name": "common/images/sdtb0508.jpg",
+      "bytes": 6141,
+      "compressed": 5840
+    },
+    {
+      "name": "common/images/sdtb0509.jpg",
+      "bytes": 6007,
+      "compressed": 5712
+    },
+    {
+      "name": "common/images/sdtb0510.jpg",
+      "bytes": 6361,
+      "compressed": 6070
+    },
+    {
+      "name": "common/images/sdtb0511.jpg",
+      "bytes": 6214,
+      "compressed": 5924
+    },
+    {
+      "name": "common/images/sdtb0512.jpg",
+      "bytes": 6371,
+      "compressed": 6084
+    },
+    {
+      "name": "common/images/sdtb0513.jpg",
+      "bytes": 6411,
+      "compressed": 6121
+    },
+    {
+      "name": "common/images/sdtb0514.jpg",
+      "bytes": 6320,
+      "compressed": 6032
+    },
+    {
+      "name": "common/images/sdtb0515.jpg",
+      "bytes": 6323,
+      "compressed": 6034
+    },
+    {
+      "name": "common/images/sdtb0516.jpg",
+      "bytes": 6133,
+      "compressed": 5842
+    },
+    {
+      "name": "common/images/sdtb0517.jpg",
+      "bytes": 6319,
+      "compressed": 6026
+    },
+    {
+      "name": "common/images/sdtb0518.jpg",
+      "bytes": 6418,
+      "compressed": 6131
+    },
+    {
+      "name": "common/images/sdtb0519.jpg",
+      "bytes": 6440,
+      "compressed": 6148
+    },
+    {
+      "name": "common/images/sdtb0520.jpg",
+      "bytes": 6479,
+      "compressed": 6179
+    },
+    {
+      "name": "common/images/sdtb0521.jpg",
+      "bytes": 6348,
+      "compressed": 6059
+    },
+    {
+      "name": "common/images/sdtb0522.jpg",
+      "bytes": 6457,
+      "compressed": 6157
+    },
+    {
+      "name": "common/images/sdtb0523.jpg",
+      "bytes": 6279,
+      "compressed": 5991
+    },
+    {
+      "name": "common/images/sdtb0524.jpg",
+      "bytes": 6509,
+      "compressed": 6218
+    },
+    {
+      "name": "common/images/sfusm00.jpg",
+      "bytes": 343,
+      "compressed": 172
+    },
+    {
+      "name": "common/images/sfwec00.jpg",
+      "bytes": 1428,
+      "compressed": 1269
+    },
+    {
+      "name": "common/images/sfwec01.jpg",
+      "bytes": 1419,
+      "compressed": 1271
+    },
+    {
+      "name": "common/images/sfwec02.jpg",
+      "bytes": 1412,
+      "compressed": 1254
+    },
+    {
+      "name": "common/images/sfwec10.jpg",
+      "bytes": 2132,
+      "compressed": 1982
+    },
+    {
+      "name": "common/images/sfwec20.jpg",
+      "bytes": 373,
+      "compressed": 172
+    },
+    {
+      "name": "common/images/shget00.jpg",
+      "bytes": 3706,
+      "compressed": 3641
+    },
+    {
+      "name": "common/images/shget01.jpg",
+      "bytes": 3732,
+      "compressed": 3671
+    },
+    {
+      "name": "common/images/shget02.jpg",
+      "bytes": 3696,
+      "compressed": 3633
+    },
+    {
+      "name": "common/images/shget21.jpg",
+      "bytes": 338,
+      "compressed": 240
+    },
+    {
+      "name": "common/images/shget26.jpg",
+      "bytes": 573,
+      "compressed": 488
+    },
+    {
+      "name": "common/images/shget31.jpg",
+      "bytes": 396,
+      "compressed": 302
+    },
+    {
+      "name": "common/images/shget32.jpg",
+      "bytes": 459,
+      "compressed": 370
+    },
+    {
+      "name": "common/images/shget35.jpg",
+      "bytes": 1754,
+      "compressed": 1651
+    },
+    {
+      "name": "common/images/siro.jpg",
+      "bytes": 733,
+      "compressed": 175
+    },
+    {
+      "name": "common/images/snten00.jpg",
+      "bytes": 7017,
+      "compressed": 6903
+    },
+    {
+      "name": "common/images/spapa00.jpg",
+      "bytes": 313,
+      "compressed": 172
+    },
+    {
+      "name": "common/images/spscjob00.jpg",
+      "bytes": 4637,
+      "compressed": 4484
+    },
+    {
+      "name": "common/images/spscjob01.jpg",
+      "bytes": 2644,
+      "compressed": 2406
+    },
+    {
+      "name": "common/images/spscjob02.jpg",
+      "bytes": 2192,
+      "compressed": 2026
+    },
+    {
+      "name": "common/images/spscjob03.jpg",
+      "bytes": 2933,
+      "compressed": 2788
+    },
+    {
+      "name": "common/images/spscjob04.jpg",
+      "bytes": 2836,
+      "compressed": 2660
+    },
+    {
+      "name": "common/images/spscjob05.jpg",
+      "bytes": 2139,
+      "compressed": 1978
+    },
+    {
+      "name": "common/images/spsckey00.jpg",
+      "bytes": 2783,
+      "compressed": 2727
+    },
+    {
+      "name": "common/images/spsckey10.jpg",
+      "bytes": 4573,
+      "compressed": 4414
+    },
+    {
+      "name": "common/images/spsckey20.jpg",
+      "bytes": 1301,
+      "compressed": 1127
+    },
+    {
+      "name": "common/images/spsckey30.jpg",
+      "bytes": 2131,
+      "compressed": 1900
+    },
+    {
+      "name": "common/images/spscln00.jpg",
+      "bytes": 582,
+      "compressed": 258
+    },
+    {
+      "name": "common/images/spscln01.jpg",
+      "bytes": 573,
+      "compressed": 234
+    },
+    {
+      "name": "common/images/spsclt00.jpg",
+      "bytes": 622,
+      "compressed": 370
+    },
+    {
+      "name": "common/images/spsclt01.jpg",
+      "bytes": 655,
+      "compressed": 436
+    },
+    {
+      "name": "common/images/spscnm00.jpg",
+      "bytes": 2928,
+      "compressed": 2553
+    },
+    {
+      "name": "common/images/spscnm01.jpg",
+      "bytes": 6714,
+      "compressed": 6376
+    },
+    {
+      "name": "common/images/spscnm02.jpg",
+      "bytes": 7923,
+      "compressed": 7678
+    },
+    {
+      "name": "common/images/spscnm03.jpg",
+      "bytes": 6687,
+      "compressed": 6349
+    },
+    {
+      "name": "common/images/spscnm04.jpg",
+      "bytes": 2518,
+      "compressed": 2164
+    },
+    {
+      "name": "common/images/spscnm05.jpg",
+      "bytes": 3250,
+      "compressed": 2895
+    },
+    {
+      "name": "common/images/sr_als_1.jpg",
+      "bytes": 360,
+      "compressed": 173
+    },
+    {
+      "name": "common/images/sr_als_2.jpg",
+      "bytes": 373,
+      "compressed": 172
+    },
+    {
+      "name": "common/images/sr_als_3.jpg",
+      "bytes": 523,
+      "compressed": 172
+    },
+    {
+      "name": "common/images/sr_als_4.jpg",
+      "bytes": 553,
+      "compressed": 173
+    },
+    {
+      "name": "common/images/sr_als_5.jpg",
+      "bytes": 643,
+      "compressed": 174
+    },
+    {
+      "name": "common/images/sr_als_name.jpg",
+      "bytes": 508,
+      "compressed": 172
+    },
+    {
+      "name": "common/images/sr_c_copy.jpg",
+      "bytes": 331,
+      "compressed": 172
+    },
+    {
+      "name": "common/images/sr_keylogo.jpg",
+      "bytes": 1227,
+      "compressed": 1099
+    },
+    {
+      "name": "common/images/sr_yakyu_00.jpg",
+      "bytes": 5847,
+      "compressed": 5609
+    },
+    {
+      "name": "common/images/sr_yakyu_01.jpg",
+      "bytes": 4324,
+      "compressed": 4160
+    },
+    {
+      "name": "common/images/sshren10.jpg",
+      "bytes": 9769,
+      "compressed": 9682
+    },
+    {
+      "name": "common/images/stmcmb00.jpg",
+      "bytes": 6117,
+      "compressed": 5993
+    },
+    {
+      "name": "common/images/stmcmb02.jpg",
+      "bytes": 1752,
+      "compressed": 1344
+    },
+    {
+      "name": "common/images/stmcmb04.jpg",
+      "bytes": 1908,
+      "compressed": 1857
+    },
+    {
+      "name": "common/images/stt_bg00.jpg",
+      "bytes": 10222,
+      "compressed": 10171
+    },
+    {
+      "name": "common/images/stt_bg10.jpg",
+      "bytes": 11043,
+      "compressed": 10985
+    },
+    {
+      "name": "common/images/szori00.jpg",
+      "bytes": 1851,
+      "compressed": 492
+    },
+    {
+      "name": "common/images/szori01.jpg",
+      "bytes": 2713,
+      "compressed": 2524
+    },
+    {
+      "name": "common/images/szori02.jpg",
+      "bytes": 2729,
+      "compressed": 2565
+    },
+    {
+      "name": "common/images/szzd20.jpg",
+      "bytes": 343,
+      "compressed": 172
+    },
+    {
+      "name": "common/NotoSansCJK-OFL.txt",
+      "bytes": 4301,
+      "compressed": 1821
+    },
+    {
+      "name": "common/story/1/0.txt",
+      "bytes": 2380,
+      "compressed": 588
+    },
+    {
+      "name": "common/story/1001/0.txt",
+      "bytes": 2785,
+      "compressed": 891
+    },
+    {
+      "name": "common/story/1002/0.txt",
+      "bytes": 9979,
+      "compressed": 2295
+    },
+    {
+      "name": "common/story/1003/0.txt",
+      "bytes": 21726,
+      "compressed": 4697
+    },
+    {
+      "name": "common/story/1004/0.txt",
+      "bytes": 34769,
+      "compressed": 6363
+    },
+    {
+      "name": "common/story/1004/1.txt",
+      "bytes": 16106,
+      "compressed": 3543
+    },
+    {
+      "name": "common/story/1005/0.txt",
+      "bytes": 34130,
+      "compressed": 6167
+    },
+    {
+      "name": "common/story/1005/1.txt",
+      "bytes": 3907,
+      "compressed": 1182
+    },
+    {
+      "name": "common/story/1006/0.txt",
+      "bytes": 19303,
+      "compressed": 3506
+    },
+    {
+      "name": "common/story/1008/0.txt",
+      "bytes": 10626,
+      "compressed": 2439
+    },
+    {
+      "name": "common/story/1009/0.txt",
+      "bytes": 18556,
+      "compressed": 4283
+    },
+    {
+      "name": "common/story/1417/0.txt",
+      "bytes": 13389,
+      "compressed": 3076
+    },
+    {
+      "name": "common/story/1418/0.txt",
+      "bytes": 18434,
+      "compressed": 3929
+    },
+    {
+      "name": "common/story/1421/0.txt",
+      "bytes": 10382,
+      "compressed": 2382
+    },
+    {
+      "name": "common/story/1422/0.txt",
+      "bytes": 7731,
+      "compressed": 2228
+    },
+    {
+      "name": "common/story/1423/0.txt",
+      "bytes": 25901,
+      "compressed": 5232
+    },
+    {
+      "name": "common/story/1426/0.txt",
+      "bytes": 32959,
+      "compressed": 6296
+    },
+    {
+      "name": "common/story/1426/1.txt",
+      "bytes": 33492,
+      "compressed": 6027
+    },
+    {
+      "name": "common/story/1426/2.txt",
+      "bytes": 17700,
+      "compressed": 4038
+    },
+    {
+      "name": "common/story/1427/0.txt",
+      "bytes": 32898,
+      "compressed": 5884
+    },
+    {
+      "name": "common/story/1427/1.txt",
+      "bytes": 7387,
+      "compressed": 1856
+    },
+    {
+      "name": "common/story/1428/0.txt",
+      "bytes": 34226,
+      "compressed": 6515
+    },
+    {
+      "name": "common/story/1428/1.txt",
+      "bytes": 33765,
+      "compressed": 6727
+    },
+    {
+      "name": "common/story/1428/2.txt",
+      "bytes": 33717,
+      "compressed": 6364
+    },
+    {
+      "name": "common/story/1428/3.txt",
+      "bytes": 15069,
+      "compressed": 3377
+    },
+    {
+      "name": "common/story/1429/0.txt",
+      "bytes": 32880,
+      "compressed": 6441
+    },
+    {
+      "name": "common/story/1429/1.txt",
+      "bytes": 2537,
+      "compressed": 924
+    },
+    {
+      "name": "common/story/1430/0.txt",
+      "bytes": 31939,
+      "compressed": 5393
+    },
+    {
+      "name": "common/story/1430/1.txt",
+      "bytes": 32142,
+      "compressed": 6250
+    },
+    {
+      "name": "common/story/1430/2.txt",
+      "bytes": 7222,
+      "compressed": 1853
+    },
+    {
+      "name": "common/story/1501/0.txt",
+      "bytes": 32829,
+      "compressed": 6465
+    },
+    {
+      "name": "common/story/1501/1.txt",
+      "bytes": 4331,
+      "compressed": 1304
+    },
+    {
+      "name": "common/story/1502/0.txt",
+      "bytes": 29499,
+      "compressed": 6075
+    },
+    {
+      "name": "common/story/1503/0.txt",
+      "bytes": 32231,
+      "compressed": 6084
+    },
+    {
+      "name": "common/story/1503/1.txt",
+      "bytes": 28417,
+      "compressed": 5008
+    },
+    {
+      "name": "common/story/1504/0.txt",
+      "bytes": 11463,
+      "compressed": 2713
+    },
+    {
+      "name": "common/story/1505/0.txt",
+      "bytes": 10704,
+      "compressed": 2579
+    },
+    {
+      "name": "common/story/1506/0.txt",
+      "bytes": 17329,
+      "compressed": 4022
+    },
+    {
+      "name": "common/story/1507/0.txt",
+      "bytes": 19881,
+      "compressed": 3967
+    },
+    {
+      "name": "common/story/1508/0.txt",
+      "bytes": 3383,
+      "compressed": 1108
+    },
+    {
+      "name": "common/story/1511/0.txt",
+      "bytes": 33156,
+      "compressed": 6536
+    },
+    {
+      "name": "common/story/1511/1.txt",
+      "bytes": 35933,
+      "compressed": 7044
+    },
+    {
+      "name": "common/story/1512/0.txt",
+      "bytes": 5893,
+      "compressed": 1601
+    },
+    {
+      "name": "common/story/1513/0.txt",
+      "bytes": 16250,
+      "compressed": 3781
+    },
+    {
+      "name": "common/story/1514/0.txt",
+      "bytes": 25438,
+      "compressed": 5195
+    },
+    {
+      "name": "common/story/1515/0.txt",
+      "bytes": 21192,
+      "compressed": 4697
+    },
+    {
+      "name": "common/story/1516/0.txt",
+      "bytes": 33781,
+      "compressed": 6877
+    },
+    {
+      "name": "common/story/1516/1.txt",
+      "bytes": 16273,
+      "compressed": 3565
+    },
+    {
+      "name": "common/story/1517/0.txt",
+      "bytes": 14986,
+      "compressed": 3393
+    },
+    {
+      "name": "common/story/1518/0.txt",
+      "bytes": 32353,
+      "compressed": 6244
+    },
+    {
+      "name": "common/story/1518/1.txt",
+      "bytes": 6742,
+      "compressed": 1342
+    },
+    {
+      "name": "common/story/2415/0.txt",
+      "bytes": 13348,
+      "compressed": 3541
+    },
+    {
+      "name": "common/story/2416/0.txt",
+      "bytes": 33619,
+      "compressed": 7003
+    },
+    {
+      "name": "common/story/2416/1.txt",
+      "bytes": 3229,
+      "compressed": 905
+    },
+    {
+      "name": "common/story/2417/0.txt",
+      "bytes": 32318,
+      "compressed": 6190
+    },
+    {
+      "name": "common/story/2417/1.txt",
+      "bytes": 8212,
+      "compressed": 2029
+    },
+    {
+      "name": "common/story/2418/0.txt",
+      "bytes": 34315,
+      "compressed": 7011
+    },
+    {
+      "name": "common/story/2418/1.txt",
+      "bytes": 3100,
+      "compressed": 926
+    },
+    {
+      "name": "common/story/2419/0.txt",
+      "bytes": 11920,
+      "compressed": 3044
+    },
+    {
+      "name": "common/story/2421/0.txt",
+      "bytes": 35392,
+      "compressed": 7623
+    },
+    {
+      "name": "common/story/2421/1.txt",
+      "bytes": 4884,
+      "compressed": 1413
+    },
+    {
+      "name": "common/story/2422/0.txt",
+      "bytes": 36646,
+      "compressed": 7819
+    },
+    {
+      "name": "common/story/2422/1.txt",
+      "bytes": 29693,
+      "compressed": 6748
+    },
+    {
+      "name": "common/story/2423/0.txt",
+      "bytes": 35910,
+      "compressed": 7572
+    },
+    {
+      "name": "common/story/2423/1.txt",
+      "bytes": 33552,
+      "compressed": 7340
+    },
+    {
+      "name": "common/story/2424/0.txt",
+      "bytes": 32855,
+      "compressed": 6719
+    },
+    {
+      "name": "common/story/2424/1.txt",
+      "bytes": 15078,
+      "compressed": 3569
+    },
+    {
+      "name": "common/story/2425/0.txt",
+      "bytes": 28498,
+      "compressed": 6192
+    },
+    {
+      "name": "common/story/2426/0.txt",
+      "bytes": 24065,
+      "compressed": 5494
+    },
+    {
+      "name": "common/story/2428/0.txt",
+      "bytes": 8974,
+      "compressed": 2559
+    },
+    {
+      "name": "common/story/2430/0.txt",
+      "bytes": 13588,
+      "compressed": 3270
+    },
+    {
+      "name": "common/story/2501/0.txt",
+      "bytes": 24860,
+      "compressed": 5622
+    },
+    {
+      "name": "common/story/2502/0.txt",
+      "bytes": 28699,
+      "compressed": 6186
+    },
+    {
+      "name": "common/story/2503/0.txt",
+      "bytes": 36570,
+      "compressed": 7483
+    },
+    {
+      "name": "common/story/2503/1.txt",
+      "bytes": 5049,
+      "compressed": 1485
+    },
+    {
+      "name": "common/story/2504/0.txt",
+      "bytes": 11301,
+      "compressed": 2740
+    },
+    {
+      "name": "common/story/2505/0.txt",
+      "bytes": 23298,
+      "compressed": 5497
+    },
+    {
+      "name": "common/story/2506/0.txt",
+      "bytes": 34920,
+      "compressed": 7638
+    },
+    {
+      "name": "common/story/2506/1.txt",
+      "bytes": 29995,
+      "compressed": 6357
+    },
+    {
+      "name": "common/story/2507/0.txt",
+      "bytes": 7927,
+      "compressed": 2115
+    },
+    {
+      "name": "common/story/2508/0.txt",
+      "bytes": 14132,
+      "compressed": 3341
+    },
+    {
+      "name": "common/story/2509/0.txt",
+      "bytes": 21115,
+      "compressed": 4770
+    },
+    {
+      "name": "common/story/2510/0.txt",
+      "bytes": 18781,
+      "compressed": 4221
+    },
+    {
+      "name": "common/story/2511/0.txt",
+      "bytes": 31611,
+      "compressed": 5523
+    },
+    {
+      "name": "common/story/2511/1.txt",
+      "bytes": 34289,
+      "compressed": 7111
+    },
+    {
+      "name": "common/story/2511/2.txt",
+      "bytes": 10933,
+      "compressed": 3044
+    },
+    {
+      "name": "common/story/2513/0.txt",
+      "bytes": 10832,
+      "compressed": 2973
+    },
+    {
+      "name": "common/story/2514/0.txt",
+      "bytes": 38689,
+      "compressed": 8271
+    },
+    {
+      "name": "common/story/2514/1.txt",
+      "bytes": 36325,
+      "compressed": 8139
+    },
+    {
+      "name": "common/story/2514/2.txt",
+      "bytes": 29904,
+      "compressed": 6395
+    },
+    {
+      "name": "common/story/3001/0.txt",
+      "bytes": 18077,
+      "compressed": 4016
+    },
+    {
+      "name": "common/story/3415/0.txt",
+      "bytes": 11422,
+      "compressed": 2719
+    },
+    {
+      "name": "common/story/3416/0.txt",
+      "bytes": 27690,
+      "compressed": 6219
+    },
+    {
+      "name": "common/story/3417/0.txt",
+      "bytes": 19286,
+      "compressed": 4557
+    },
+    {
+      "name": "common/story/3418/0.txt",
+      "bytes": 33271,
+      "compressed": 6174
+    },
+    {
+      "name": "common/story/3418/1.txt",
+      "bytes": 10826,
+      "compressed": 2753
+    },
+    {
+      "name": "common/story/3419/0.txt",
+      "bytes": 19191,
+      "compressed": 4246
+    },
+    {
+      "name": "common/story/3421/0.txt",
+      "bytes": 19335,
+      "compressed": 4645
+    },
+    {
+      "name": "common/story/3422/0.txt",
+      "bytes": 33758,
+      "compressed": 7281
+    },
+    {
+      "name": "common/story/3422/1.txt",
+      "bytes": 4664,
+      "compressed": 1333
+    },
+    {
+      "name": "common/story/3423/0.txt",
+      "bytes": 25101,
+      "compressed": 5592
+    },
+    {
+      "name": "common/story/3424/0.txt",
+      "bytes": 33863,
+      "compressed": 7081
+    },
+    {
+      "name": "common/story/3424/1.txt",
+      "bytes": 22364,
+      "compressed": 5479
+    },
+    {
+      "name": "common/story/3425/0.txt",
+      "bytes": 33974,
+      "compressed": 7445
+    },
+    {
+      "name": "common/story/3425/1.txt",
+      "bytes": 33803,
+      "compressed": 6886
+    },
+    {
+      "name": "common/story/3425/2.txt",
+      "bytes": 188,
+      "compressed": 155
+    },
+    {
+      "name": "common/story/3426/0.txt",
+      "bytes": 34639,
+      "compressed": 7949
+    },
+    {
+      "name": "common/story/3426/1.txt",
+      "bytes": 23982,
+      "compressed": 5542
+    },
+    {
+      "name": "common/story/3428/0.txt",
+      "bytes": 32431,
+      "compressed": 6373
+    },
+    {
+      "name": "common/story/3428/1.txt",
+      "bytes": 699,
+      "compressed": 357
+    },
+    {
+      "name": "common/story/3429/0.txt",
+      "bytes": 31029,
+      "compressed": 6913
+    },
+    {
+      "name": "common/story/3430/0.txt",
+      "bytes": 34508,
+      "compressed": 7879
+    },
+    {
+      "name": "common/story/3430/1.txt",
+      "bytes": 641,
+      "compressed": 291
+    },
+    {
+      "name": "common/story/3501/0.txt",
+      "bytes": 26478,
+      "compressed": 6283
+    },
+    {
+      "name": "common/story/3502/0.txt",
+      "bytes": 34591,
+      "compressed": 7527
+    },
+    {
+      "name": "common/story/3502/1.txt",
+      "bytes": 19148,
+      "compressed": 4564
+    },
+    {
+      "name": "common/story/3503/0.txt",
+      "bytes": 34794,
+      "compressed": 7474
+    },
+    {
+      "name": "common/story/3503/1.txt",
+      "bytes": 17938,
+      "compressed": 4397
+    },
+    {
+      "name": "common/story/3504/0.txt",
+      "bytes": 8337,
+      "compressed": 2459
+    },
+    {
+      "name": "common/story/3505/0.txt",
+      "bytes": 36204,
+      "compressed": 8487
+    },
+    {
+      "name": "common/story/3505/1.txt",
+      "bytes": 17871,
+      "compressed": 4522
+    },
+    {
+      "name": "common/story/3506/0.txt",
+      "bytes": 35440,
+      "compressed": 7741
+    },
+    {
+      "name": "common/story/3506/1.txt",
+      "bytes": 12265,
+      "compressed": 3095
+    },
+    {
+      "name": "common/story/3507/0.txt",
+      "bytes": 35854,
+      "compressed": 8006
+    },
+    {
+      "name": "common/story/3507/1.txt",
+      "bytes": 3432,
+      "compressed": 1155
+    },
+    {
+      "name": "common/story/3508/0.txt",
+      "bytes": 22221,
+      "compressed": 5484
+    },
+    {
+      "name": "common/story/3509/0.txt",
+      "bytes": 23893,
+      "compressed": 5418
+    },
+    {
+      "name": "common/story/3510/0.txt",
+      "bytes": 34683,
+      "compressed": 7336
+    },
+    {
+      "name": "common/story/3510/1.txt",
+      "bytes": 1422,
+      "compressed": 549
+    },
+    {
+      "name": "common/story/3511/0.txt",
+      "bytes": 22715,
+      "compressed": 5015
+    },
+    {
+      "name": "common/story/3512/0.txt",
+      "bytes": 24887,
+      "compressed": 5722
+    },
+    {
+      "name": "common/story/3513/0.txt",
+      "bytes": 33981,
+      "compressed": 7475
+    },
+    {
+      "name": "common/story/3513/1.txt",
+      "bytes": 19074,
+      "compressed": 4538
+    },
+    {
+      "name": "common/story/3514/0.txt",
+      "bytes": 34236,
+      "compressed": 7298
+    },
+    {
+      "name": "common/story/3514/1.txt",
+      "bytes": 33917,
+      "compressed": 6815
+    },
+    {
+      "name": "common/story/3514/2.txt",
+      "bytes": 32606,
+      "compressed": 6693
+    },
+    {
+      "name": "common/story/3514/3.txt",
+      "bytes": 33695,
+      "compressed": 7137
+    },
+    {
+      "name": "common/story/3514/4.txt",
+      "bytes": 15711,
+      "compressed": 3349
+    },
+    {
+      "name": "common/story/414/0.txt",
+      "bytes": 28502,
+      "compressed": 6921
+    },
+    {
+      "name": "common/story/415/0.txt",
+      "bytes": 33224,
+      "compressed": 6387
+    },
+    {
+      "name": "common/story/415/1.txt",
+      "bytes": 33871,
+      "compressed": 6966
+    },
+    {
+      "name": "common/story/415/2.txt",
+      "bytes": 27875,
+      "compressed": 5780
+    },
+    {
+      "name": "common/story/416/0.txt",
+      "bytes": 34004,
+      "compressed": 7052
+    },
+    {
+      "name": "common/story/416/1.txt",
+      "bytes": 33157,
+      "compressed": 6943
+    },
+    {
+      "name": "common/story/416/2.txt",
+      "bytes": 10825,
+      "compressed": 2471
+    },
+    {
+      "name": "common/story/417/0.txt",
+      "bytes": 31422,
+      "compressed": 4921
+    },
+    {
+      "name": "common/story/417/1.txt",
+      "bytes": 32971,
+      "compressed": 6967
+    },
+    {
+      "name": "common/story/417/2.txt",
+      "bytes": 5754,
+      "compressed": 1733
+    },
+    {
+      "name": "common/story/418/0.txt",
+      "bytes": 29878,
+      "compressed": 6027
+    },
+    {
+      "name": "common/story/419/0.txt",
+      "bytes": 30835,
+      "compressed": 6392
+    },
+    {
+      "name": "common/story/420/0.txt",
+      "bytes": 9553,
+      "compressed": 2416
+    },
+    {
+      "name": "common/story/421/0.txt",
+      "bytes": 21096,
+      "compressed": 4439
+    },
+    {
+      "name": "common/story/422/0.txt",
+      "bytes": 31207,
+      "compressed": 4812
+    },
+    {
+      "name": "common/story/422/1.txt",
+      "bytes": 15695,
+      "compressed": 3854
+    },
+    {
+      "name": "common/story/423/0.txt",
+      "bytes": 33767,
+      "compressed": 6666
+    },
+    {
+      "name": "common/story/423/1.txt",
+      "bytes": 28198,
+      "compressed": 6062
+    },
+    {
+      "name": "common/story/424/0.txt",
+      "bytes": 33359,
+      "compressed": 6390
+    },
+    {
+      "name": "common/story/424/1.txt",
+      "bytes": 20898,
+      "compressed": 4478
+    },
+    {
+      "name": "common/story/425/0.txt",
+      "bytes": 33073,
+      "compressed": 7093
+    },
+    {
+      "name": "common/story/425/1.txt",
+      "bytes": 34359,
+      "compressed": 7220
+    },
+    {
+      "name": "common/story/425/2.txt",
+      "bytes": 7297,
+      "compressed": 1673
+    },
+    {
+      "name": "common/story/426/0.txt",
+      "bytes": 31347,
+      "compressed": 7275
+    },
+    {
+      "name": "common/story/428/0.txt",
+      "bytes": 33324,
+      "compressed": 7097
+    },
+    {
+      "name": "common/story/428/1.txt",
+      "bytes": 19778,
+      "compressed": 4567
+    },
+    {
+      "name": "common/story/429/0.txt",
+      "bytes": 31462,
+      "compressed": 6095
+    },
+    {
+      "name": "common/story/429/1.txt",
+      "bytes": 33188,
+      "compressed": 7491
+    },
+    {
+      "name": "common/story/429/2.txt",
+      "bytes": 33240,
+      "compressed": 7202
+    },
+    {
+      "name": "common/story/429/3.txt",
+      "bytes": 32242,
+      "compressed": 6618
+    },
+    {
+      "name": "common/story/429/4.txt",
+      "bytes": 31536,
+      "compressed": 6553
+    },
+    {
+      "name": "common/story/4415/0.txt",
+      "bytes": 16714,
+      "compressed": 4123
+    },
+    {
+      "name": "common/story/4417/0.txt",
+      "bytes": 33495,
+      "compressed": 7550
+    },
+    {
+      "name": "common/story/4418/0.txt",
+      "bytes": 36614,
+      "compressed": 8396
+    },
+    {
+      "name": "common/story/4418/1.txt",
+      "bytes": 12302,
+      "compressed": 3261
+    },
+    {
+      "name": "common/story/4419/0.txt",
+      "bytes": 30764,
+      "compressed": 7272
+    },
+    {
+      "name": "common/story/4420/0.txt",
+      "bytes": 35741,
+      "compressed": 8051
+    },
+    {
+      "name": "common/story/4420/1.txt",
+      "bytes": 4643,
+      "compressed": 1431
+    },
+    {
+      "name": "common/story/4421/0.txt",
+      "bytes": 34593,
+      "compressed": 7396
+    },
+    {
+      "name": "common/story/4421/1.txt",
+      "bytes": 18521,
+      "compressed": 4565
+    },
+    {
+      "name": "common/story/4422/0.txt",
+      "bytes": 26856,
+      "compressed": 6109
+    },
+    {
+      "name": "common/story/4423/0.txt",
+      "bytes": 27564,
+      "compressed": 7106
+    },
+    {
+      "name": "common/story/4424/0.txt",
+      "bytes": 24916,
+      "compressed": 5937
+    },
+    {
+      "name": "common/story/4425/0.txt",
+      "bytes": 35291,
+      "compressed": 7944
+    },
+    {
+      "name": "common/story/4425/1.txt",
+      "bytes": 33580,
+      "compressed": 7357
+    },
+    {
+      "name": "common/story/4425/2.txt",
+      "bytes": 3348,
+      "compressed": 1028
+    },
+    {
+      "name": "common/story/4426/0.txt",
+      "bytes": 27731,
+      "compressed": 6392
+    },
+    {
+      "name": "common/story/4427/0.txt",
+      "bytes": 1184,
+      "compressed": 507
+    },
+    {
+      "name": "common/story/4428/0.txt",
+      "bytes": 34414,
+      "compressed": 7819
+    },
+    {
+      "name": "common/story/4428/1.txt",
+      "bytes": 5525,
+      "compressed": 1655
+    },
+    {
+      "name": "common/story/4429/0.txt",
+      "bytes": 10815,
+      "compressed": 3189
+    },
+    {
+      "name": "common/story/4430/0.txt",
+      "bytes": 35031,
+      "compressed": 8148
+    },
+    {
+      "name": "common/story/4430/1.txt",
+      "bytes": 11963,
+      "compressed": 3224
+    },
+    {
+      "name": "common/story/444/0.txt",
+      "bytes": 5071,
+      "compressed": 1317
+    },
+    {
+      "name": "common/story/4501/0.txt",
+      "bytes": 36911,
+      "compressed": 8761
+    },
+    {
+      "name": "common/story/4501/1.txt",
+      "bytes": 17860,
+      "compressed": 4042
+    },
+    {
+      "name": "common/story/4502/0.txt",
+      "bytes": 33779,
+      "compressed": 7717
+    },
+    {
+      "name": "common/story/4502/1.txt",
+      "bytes": 6061,
+      "compressed": 1669
+    },
+    {
+      "name": "common/story/4503/0.txt",
+      "bytes": 15516,
+      "compressed": 4551
+    },
+    {
+      "name": "common/story/4504/0.txt",
+      "bytes": 35588,
+      "compressed": 8349
+    },
+    {
+      "name": "common/story/4504/1.txt",
+      "bytes": 35256,
+      "compressed": 8438
+    },
+    {
+      "name": "common/story/4504/2.txt",
+      "bytes": 2821,
+      "compressed": 1038
+    },
+    {
+      "name": "common/story/4505/0.txt",
+      "bytes": 36975,
+      "compressed": 8773
+    },
+    {
+      "name": "common/story/4505/1.txt",
+      "bytes": 22869,
+      "compressed": 5672
+    },
+    {
+      "name": "common/story/4506/0.txt",
+      "bytes": 29990,
+      "compressed": 7179
+    },
+    {
+      "name": "common/story/4507/0.txt",
+      "bytes": 25192,
+      "compressed": 6270
+    },
+    {
+      "name": "common/story/4508/0.txt",
+      "bytes": 38832,
+      "compressed": 9867
+    },
+    {
+      "name": "common/story/4508/1.txt",
+      "bytes": 38845,
+      "compressed": 8805
+    },
+    {
+      "name": "common/story/4508/2.txt",
+      "bytes": 8798,
+      "compressed": 2529
+    },
+    {
+      "name": "common/story/4509/0.txt",
+      "bytes": 16798,
+      "compressed": 4477
+    },
+    {
+      "name": "common/story/4510/0.txt",
+      "bytes": 11244,
+      "compressed": 3445
+    },
+    {
+      "name": "common/story/4511/0.txt",
+      "bytes": 38009,
+      "compressed": 10110
+    },
+    {
+      "name": "common/story/4511/1.txt",
+      "bytes": 687,
+      "compressed": 397
+    },
+    {
+      "name": "common/story/4512/0.txt",
+      "bytes": 40216,
+      "compressed": 9897
+    },
+    {
+      "name": "common/story/4512/1.txt",
+      "bytes": 19198,
+      "compressed": 4054
+    },
+    {
+      "name": "common/story/4513/0.txt",
+      "bytes": 36724,
+      "compressed": 8539
+    },
+    {
+      "name": "common/story/4513/1.txt",
+      "bytes": 28990,
+      "compressed": 3170
+    },
+    {
+      "name": "common/story/4513/2.txt",
+      "bytes": 1124,
+      "compressed": 287
+    },
+    {
+      "name": "common/story/4800/0.txt",
+      "bytes": 12301,
+      "compressed": 1944
+    },
+    {
+      "name": "common/story/4904/0.txt",
+      "bytes": 21889,
+      "compressed": 4506
+    },
+    {
+      "name": "common/story/4999/0.txt",
+      "bytes": 1351,
+      "compressed": 486
+    },
+    {
+      "name": "common/story/5418/0.txt",
+      "bytes": 23211,
+      "compressed": 4856
+    },
+    {
+      "name": "common/story/5419/0.txt",
+      "bytes": 5445,
+      "compressed": 1681
+    },
+    {
+      "name": "common/story/5421/0.txt",
+      "bytes": 20129,
+      "compressed": 4346
+    },
+    {
+      "name": "common/story/5422/0.txt",
+      "bytes": 25289,
+      "compressed": 5102
+    },
+    {
+      "name": "common/story/5423/0.txt",
+      "bytes": 33206,
+      "compressed": 6746
+    },
+    {
+      "name": "common/story/5424/0.txt",
+      "bytes": 34549,
+      "compressed": 7192
+    },
+    {
+      "name": "common/story/5424/1.txt",
+      "bytes": 34403,
+      "compressed": 7206
+    },
+    {
+      "name": "common/story/5424/2.txt",
+      "bytes": 14410,
+      "compressed": 2814
+    },
+    {
+      "name": "common/story/5425/0.txt",
+      "bytes": 16443,
+      "compressed": 4080
+    },
+    {
+      "name": "common/story/5426/0.txt",
+      "bytes": 34373,
+      "compressed": 7016
+    },
+    {
+      "name": "common/story/5426/1.txt",
+      "bytes": 597,
+      "compressed": 332
+    },
+    {
+      "name": "common/story/5428/0.txt",
+      "bytes": 28737,
+      "compressed": 5958
+    },
+    {
+      "name": "common/story/5430/0.txt",
+      "bytes": 35401,
+      "compressed": 7479
+    },
+    {
+      "name": "common/story/5430/1.txt",
+      "bytes": 35918,
+      "compressed": 7952
+    },
+    {
+      "name": "common/story/5430/2.txt",
+      "bytes": 34401,
+      "compressed": 7411
+    },
+    {
+      "name": "common/story/5430/3.txt",
+      "bytes": 32727,
+      "compressed": 6748
+    },
+    {
+      "name": "common/story/5430/4.txt",
+      "bytes": 37016,
+      "compressed": 8297
+    },
+    {
+      "name": "common/story/5430/5.txt",
+      "bytes": 37409,
+      "compressed": 8753
+    },
+    {
+      "name": "common/story/5430/6.txt",
+      "bytes": 24567,
+      "compressed": 6065
+    },
+    {
+      "name": "common/story/555/0.txt",
+      "bytes": 11932,
+      "compressed": 2613
+    },
+    {
+      "name": "common/story/6416/0.txt",
+      "bytes": 34990,
+      "compressed": 7846
+    },
+    {
+      "name": "common/story/6416/1.txt",
+      "bytes": 27007,
+      "compressed": 5473
+    },
+    {
+      "name": "common/story/6417/0.txt",
+      "bytes": 34268,
+      "compressed": 6949
+    },
+    {
+      "name": "common/story/6417/1.txt",
+      "bytes": 36258,
+      "compressed": 7189
+    },
+    {
+      "name": "common/story/6417/2.txt",
+      "bytes": 5789,
+      "compressed": 1262
+    },
+    {
+      "name": "common/story/6418/0.txt",
+      "bytes": 34937,
+      "compressed": 7365
+    },
+    {
+      "name": "common/story/6418/1.txt",
+      "bytes": 9127,
+      "compressed": 2558
+    },
+    {
+      "name": "common/story/6419/0.txt",
+      "bytes": 33230,
+      "compressed": 6657
+    },
+    {
+      "name": "common/story/6419/1.txt",
+      "bytes": 25481,
+      "compressed": 5294
+    },
+    {
+      "name": "common/story/6420/0.txt",
+      "bytes": 12618,
+      "compressed": 2602
+    },
+    {
+      "name": "common/story/6421/0.txt",
+      "bytes": 34638,
+      "compressed": 7448
+    },
+    {
+      "name": "common/story/6421/1.txt",
+      "bytes": 14517,
+      "compressed": 3710
+    },
+    {
+      "name": "common/story/6422/0.txt",
+      "bytes": 33912,
+      "compressed": 6681
+    },
+    {
+      "name": "common/story/6422/1.txt",
+      "bytes": 34307,
+      "compressed": 6866
+    },
+    {
+      "name": "common/story/6422/2.txt",
+      "bytes": 24029,
+      "compressed": 5254
+    },
+    {
+      "name": "common/story/6423/0.txt",
+      "bytes": 35371,
+      "compressed": 7711
+    },
+    {
+      "name": "common/story/6423/1.txt",
+      "bytes": 5572,
+      "compressed": 1616
+    },
+    {
+      "name": "common/story/6424/0.txt",
+      "bytes": 26417,
+      "compressed": 6003
+    },
+    {
+      "name": "common/story/6425/0.txt",
+      "bytes": 33707,
+      "compressed": 6699
+    },
+    {
+      "name": "common/story/6425/1.txt",
+      "bytes": 33313,
+      "compressed": 6762
+    },
+    {
+      "name": "common/story/6425/2.txt",
+      "bytes": 3805,
+      "compressed": 1075
+    },
+    {
+      "name": "common/story/6426/0.txt",
+      "bytes": 33448,
+      "compressed": 6885
+    },
+    {
+      "name": "common/story/6426/1.txt",
+      "bytes": 33326,
+      "compressed": 6780
+    },
+    {
+      "name": "common/story/6426/2.txt",
+      "bytes": 4983,
+      "compressed": 1340
+    },
+    {
+      "name": "common/story/6427/0.txt",
+      "bytes": 33473,
+      "compressed": 6639
+    },
+    {
+      "name": "common/story/6427/1.txt",
+      "bytes": 18674,
+      "compressed": 3177
+    },
+    {
+      "name": "common/story/6428/0.txt",
+      "bytes": 31648,
+      "compressed": 5357
+    },
+    {
+      "name": "common/story/6428/1.txt",
+      "bytes": 33663,
+      "compressed": 7064
+    },
+    {
+      "name": "common/story/6428/2.txt",
+      "bytes": 32984,
+      "compressed": 6911
+    },
+    {
+      "name": "common/story/6428/3.txt",
+      "bytes": 32034,
+      "compressed": 6364
+    },
+    {
+      "name": "common/story/6428/4.txt",
+      "bytes": 2520,
+      "compressed": 818
+    },
+    {
+      "name": "common/story/6429/0.txt",
+      "bytes": 21918,
+      "compressed": 4665
+    },
+    {
+      "name": "common/story/6430/0.txt",
+      "bytes": 31897,
+      "compressed": 6497
+    },
+    {
+      "name": "common/story/6430/1.txt",
+      "bytes": 34941,
+      "compressed": 7742
+    },
+    {
+      "name": "common/story/6430/2.txt",
+      "bytes": 34732,
+      "compressed": 6676
+    },
+    {
+      "name": "common/story/6430/3.txt",
+      "bytes": 34315,
+      "compressed": 7710
+    },
+    {
+      "name": "common/story/6430/4.txt",
+      "bytes": 34750,
+      "compressed": 7930
+    },
+    {
+      "name": "common/story/6430/5.txt",
+      "bytes": 34322,
+      "compressed": 6926
+    },
+    {
+      "name": "common/story/6430/6.txt",
+      "bytes": 4112,
+      "compressed": 1184
+    },
+    {
+      "name": "common/story/6444/0.txt",
+      "bytes": 28581,
+      "compressed": 5724
+    },
+    {
+      "name": "common/story/6445/0.txt",
+      "bytes": 13213,
+      "compressed": 2986
+    },
+    {
+      "name": "common/story/6501/0.txt",
+      "bytes": 33900,
+      "compressed": 7094
+    },
+    {
+      "name": "common/story/6501/1.txt",
+      "bytes": 23179,
+      "compressed": 4733
+    },
+    {
+      "name": "common/story/6502/0.txt",
+      "bytes": 33593,
+      "compressed": 7281
+    },
+    {
+      "name": "common/story/6502/1.txt",
+      "bytes": 9132,
+      "compressed": 2398
+    },
+    {
+      "name": "common/story/6503/0.txt",
+      "bytes": 21575,
+      "compressed": 4951
+    },
+    {
+      "name": "common/story/6504/0.txt",
+      "bytes": 22969,
+      "compressed": 5130
+    },
+    {
+      "name": "common/story/6505/0.txt",
+      "bytes": 31794,
+      "compressed": 7003
+    },
+    {
+      "name": "common/story/6506/0.txt",
+      "bytes": 35036,
+      "compressed": 7749
+    },
+    {
+      "name": "common/story/6506/1.txt",
+      "bytes": 1348,
+      "compressed": 540
+    },
+    {
+      "name": "common/story/6507/0.txt",
+      "bytes": 6852,
+      "compressed": 2044
+    },
+    {
+      "name": "common/story/6508/0.txt",
+      "bytes": 15285,
+      "compressed": 3976
+    },
+    {
+      "name": "common/story/6510/0.txt",
+      "bytes": 35037,
+      "compressed": 7791
+    },
+    {
+      "name": "common/story/6510/1.txt",
+      "bytes": 399,
+      "compressed": 237
+    },
+    {
+      "name": "common/story/6511/0.txt",
+      "bytes": 34262,
+      "compressed": 7240
+    },
+    {
+      "name": "common/story/6511/1.txt",
+      "bytes": 8360,
+      "compressed": 2225
+    },
+    {
+      "name": "common/story/6512/0.txt",
+      "bytes": 16146,
+      "compressed": 3864
+    },
+    {
+      "name": "common/story/6513/0.txt",
+      "bytes": 2948,
+      "compressed": 974
+    },
+    {
+      "name": "common/story/6514/0.txt",
+      "bytes": 29794,
+      "compressed": 6304
+    },
+    {
+      "name": "common/story/666/0.txt",
+      "bytes": 20114,
+      "compressed": 4271
+    },
+    {
+      "name": "common/story/6726/0.txt",
+      "bytes": 34044,
+      "compressed": 6821
+    },
+    {
+      "name": "common/story/6726/1.txt",
+      "bytes": 14258,
+      "compressed": 3162
+    },
+    {
+      "name": "common/story/6727/0.txt",
+      "bytes": 31546,
+      "compressed": 6528
+    },
+    {
+      "name": "common/story/6728/0.txt",
+      "bytes": 20106,
+      "compressed": 4321
+    },
+    {
+      "name": "common/story/6729/0.txt",
+      "bytes": 32065,
+      "compressed": 6046
+    },
+    {
+      "name": "common/story/6729/1.txt",
+      "bytes": 25355,
+      "compressed": 5320
+    },
+    {
+      "name": "common/story/6800/0.txt",
+      "bytes": 34579,
+      "compressed": 7484
+    },
+    {
+      "name": "common/story/6800/1.txt",
+      "bytes": 34849,
+      "compressed": 7598
+    },
+    {
+      "name": "common/story/6800/10.txt",
+      "bytes": 34926,
+      "compressed": 7720
+    },
+    {
+      "name": "common/story/6800/11.txt",
+      "bytes": 34795,
+      "compressed": 7520
+    },
+    {
+      "name": "common/story/6800/12.txt",
+      "bytes": 37778,
+      "compressed": 8576
+    },
+    {
+      "name": "common/story/6800/13.txt",
+      "bytes": 35631,
+      "compressed": 7608
+    },
+    {
+      "name": "common/story/6800/14.txt",
+      "bytes": 34034,
+      "compressed": 7566
+    },
+    {
+      "name": "common/story/6800/15.txt",
+      "bytes": 33562,
+      "compressed": 7041
+    },
+    {
+      "name": "common/story/6800/16.txt",
+      "bytes": 32929,
+      "compressed": 6518
+    },
+    {
+      "name": "common/story/6800/17.txt",
+      "bytes": 35187,
+      "compressed": 7502
+    },
+    {
+      "name": "common/story/6800/18.txt",
+      "bytes": 34180,
+      "compressed": 7270
+    },
+    {
+      "name": "common/story/6800/19.txt",
+      "bytes": 36001,
+      "compressed": 7646
+    },
+    {
+      "name": "common/story/6800/2.txt",
+      "bytes": 34597,
+      "compressed": 7565
+    },
+    {
+      "name": "common/story/6800/20.txt",
+      "bytes": 35657,
+      "compressed": 8043
+    },
+    {
+      "name": "common/story/6800/21.txt",
+      "bytes": 34703,
+      "compressed": 7725
+    },
+    {
+      "name": "common/story/6800/22.txt",
+      "bytes": 14529,
+      "compressed": 3706
+    },
+    {
+      "name": "common/story/6800/3.txt",
+      "bytes": 35907,
+      "compressed": 7927
+    },
+    {
+      "name": "common/story/6800/4.txt",
+      "bytes": 34995,
+      "compressed": 7603
+    },
+    {
+      "name": "common/story/6800/5.txt",
+      "bytes": 34504,
+      "compressed": 7129
+    },
+    {
+      "name": "common/story/6800/6.txt",
+      "bytes": 36706,
+      "compressed": 8558
+    },
+    {
+      "name": "common/story/6800/7.txt",
+      "bytes": 36337,
+      "compressed": 7984
+    },
+    {
+      "name": "common/story/6800/8.txt",
+      "bytes": 35808,
+      "compressed": 7686
+    },
+    {
+      "name": "common/story/6800/9.txt",
+      "bytes": 36247,
+      "compressed": 7874
+    },
+    {
+      "name": "common/story/6801/0.txt",
+      "bytes": 33713,
+      "compressed": 7212
+    },
+    {
+      "name": "common/story/6801/1.txt",
+      "bytes": 34903,
+      "compressed": 7711
+    },
+    {
+      "name": "common/story/6801/2.txt",
+      "bytes": 37256,
+      "compressed": 8081
+    },
+    {
+      "name": "common/story/6801/3.txt",
+      "bytes": 35541,
+      "compressed": 7451
+    },
+    {
+      "name": "common/story/6801/4.txt",
+      "bytes": 34954,
+      "compressed": 7908
+    },
+    {
+      "name": "common/story/6801/5.txt",
+      "bytes": 15678,
+      "compressed": 2978
+    },
+    {
+      "name": "common/story/6802/0.txt",
+      "bytes": 32524,
+      "compressed": 6673
+    },
+    {
+      "name": "common/story/6802/1.txt",
+      "bytes": 34071,
+      "compressed": 7302
+    },
+    {
+      "name": "common/story/6802/2.txt",
+      "bytes": 35498,
+      "compressed": 7526
+    },
+    {
+      "name": "common/story/6802/3.txt",
+      "bytes": 36141,
+      "compressed": 7221
+    },
+    {
+      "name": "common/story/6802/4.txt",
+      "bytes": 34739,
+      "compressed": 7808
+    },
+    {
+      "name": "common/story/6802/5.txt",
+      "bytes": 33822,
+      "compressed": 6743
+    },
+    {
+      "name": "common/story/6802/6.txt",
+      "bytes": 34346,
+      "compressed": 7228
+    },
+    {
+      "name": "common/story/6802/7.txt",
+      "bytes": 33201,
+      "compressed": 6759
+    },
+    {
+      "name": "common/story/6802/8.txt",
+      "bytes": 33761,
+      "compressed": 7301
+    },
+    {
+      "name": "common/story/6802/9.txt",
+      "bytes": 2807,
+      "compressed": 732
+    },
+    {
+      "name": "common/story/6803/0.txt",
+      "bytes": 31602,
+      "compressed": 5694
+    },
+    {
+      "name": "common/story/6803/1.txt",
+      "bytes": 3701,
+      "compressed": 403
+    },
+    {
+      "name": "common/story/6900/0.txt",
+      "bytes": 33440,
+      "compressed": 6851
+    },
+    {
+      "name": "common/story/6900/1.txt",
+      "bytes": 32339,
+      "compressed": 6509
+    },
+    {
+      "name": "common/story/6900/2.txt",
+      "bytes": 10877,
+      "compressed": 2347
+    },
+    {
+      "name": "common/story/7000/0.txt",
+      "bytes": 38164,
+      "compressed": 8299
+    },
+    {
+      "name": "common/story/7000/1.txt",
+      "bytes": 34443,
+      "compressed": 7044
+    },
+    {
+      "name": "common/story/7000/2.txt",
+      "bytes": 6001,
+      "compressed": 1874
+    },
+    {
+      "name": "common/story/7100/0.txt",
+      "bytes": 37415,
+      "compressed": 8432
+    },
+    {
+      "name": "common/story/7100/1.txt",
+      "bytes": 39441,
+      "compressed": 9317
+    },
+    {
+      "name": "common/story/7100/2.txt",
+      "bytes": 36924,
+      "compressed": 7986
+    },
+    {
+      "name": "common/story/7100/3.txt",
+      "bytes": 34476,
+      "compressed": 7135
+    },
+    {
+      "name": "common/story/7100/4.txt",
+      "bytes": 21719,
+      "compressed": 4659
+    },
+    {
+      "name": "common/story/7200/0.txt",
+      "bytes": 34522,
+      "compressed": 7280
+    },
+    {
+      "name": "common/story/7200/1.txt",
+      "bytes": 34472,
+      "compressed": 7107
+    },
+    {
+      "name": "common/story/7200/2.txt",
+      "bytes": 22200,
+      "compressed": 5510
+    },
+    {
+      "name": "common/story/7300/0.txt",
+      "bytes": 25543,
+      "compressed": 5890
+    },
+    {
+      "name": "common/story/7400/0.txt",
+      "bytes": 34352,
+      "compressed": 7462
+    },
+    {
+      "name": "common/story/7400/1.txt",
+      "bytes": 33897,
+      "compressed": 7236
+    },
+    {
+      "name": "common/story/7400/10.txt",
+      "bytes": 35077,
+      "compressed": 7149
+    },
+    {
+      "name": "common/story/7400/11.txt",
+      "bytes": 36674,
+      "compressed": 8397
+    },
+    {
+      "name": "common/story/7400/12.txt",
+      "bytes": 35180,
+      "compressed": 7494
+    },
+    {
+      "name": "common/story/7400/13.txt",
+      "bytes": 35703,
+      "compressed": 7754
+    },
+    {
+      "name": "common/story/7400/14.txt",
+      "bytes": 32891,
+      "compressed": 6794
+    },
+    {
+      "name": "common/story/7400/2.txt",
+      "bytes": 32969,
+      "compressed": 7031
+    },
+    {
+      "name": "common/story/7400/3.txt",
+      "bytes": 34057,
+      "compressed": 6542
+    },
+    {
+      "name": "common/story/7400/4.txt",
+      "bytes": 34069,
+      "compressed": 6867
+    },
+    {
+      "name": "common/story/7400/5.txt",
+      "bytes": 33512,
+      "compressed": 6758
+    },
+    {
+      "name": "common/story/7400/6.txt",
+      "bytes": 34232,
+      "compressed": 7313
+    },
+    {
+      "name": "common/story/7400/7.txt",
+      "bytes": 35217,
+      "compressed": 7738
+    },
+    {
+      "name": "common/story/7400/8.txt",
+      "bytes": 35488,
+      "compressed": 7253
+    },
+    {
+      "name": "common/story/7400/9.txt",
+      "bytes": 35779,
+      "compressed": 6975
+    },
+    {
+      "name": "common/story/7500/0.txt",
+      "bytes": 34456,
+      "compressed": 7260
+    },
+    {
+      "name": "common/story/7500/1.txt",
+      "bytes": 35910,
+      "compressed": 5521
+    },
+    {
+      "name": "common/story/7500/2.txt",
+      "bytes": 35351,
+      "compressed": 6842
+    },
+    {
+      "name": "common/story/7500/3.txt",
+      "bytes": 36389,
+      "compressed": 7590
+    },
+    {
+      "name": "common/story/7500/4.txt",
+      "bytes": 33789,
+      "compressed": 6413
+    },
+    {
+      "name": "common/story/7500/5.txt",
+      "bytes": 36993,
+      "compressed": 7265
+    },
+    {
+      "name": "common/story/7500/6.txt",
+      "bytes": 36477,
+      "compressed": 7505
+    },
+    {
+      "name": "common/story/7500/7.txt",
+      "bytes": 14333,
+      "compressed": 2910
+    },
+    {
+      "name": "common/story/7600/0.txt",
+      "bytes": 34936,
+      "compressed": 7267
+    },
+    {
+      "name": "common/story/7600/1.txt",
+      "bytes": 36488,
+      "compressed": 7971
+    },
+    {
+      "name": "common/story/7600/2.txt",
+      "bytes": 35761,
+      "compressed": 7726
+    },
+    {
+      "name": "common/story/7600/3.txt",
+      "bytes": 34140,
+      "compressed": 7321
+    },
+    {
+      "name": "common/story/7600/4.txt",
+      "bytes": 35190,
+      "compressed": 7352
+    },
+    {
+      "name": "common/story/7600/5.txt",
+      "bytes": 34651,
+      "compressed": 7247
+    },
+    {
+      "name": "common/story/7600/6.txt",
+      "bytes": 35115,
+      "compressed": 7207
+    },
+    {
+      "name": "common/story/7600/7.txt",
+      "bytes": 32298,
+      "compressed": 6201
+    },
+    {
+      "name": "common/story/7600/8.txt",
+      "bytes": 32142,
+      "compressed": 6090
+    },
+    {
+      "name": "common/story/7600/9.txt",
+      "bytes": 431,
+      "compressed": 162
+    },
+    {
+      "name": "common/story/9035/0.txt",
+      "bytes": 65,
+      "compressed": 22
+    },
+    {
+      "name": "common/story/9054/0.txt",
+      "bytes": 6957,
+      "compressed": 513
+    },
+    {
+      "name": "common/story/9070/0.txt",
+      "bytes": 5010,
+      "compressed": 741
+    },
+    {
+      "name": "common/story/9071/0.txt",
+      "bytes": 11426,
+      "compressed": 993
+    },
+    {
+      "name": "common/story/9072/0.txt",
+      "bytes": 81,
+      "compressed": 22
+    },
+    {
+      "name": "common/story/9073/0.txt",
+      "bytes": 81,
+      "compressed": 22
+    },
+    {
+      "name": "common/story/9074/0.txt",
+      "bytes": 5239,
+      "compressed": 398
+    },
+    {
+      "name": "common/story/9076/0.txt",
+      "bytes": 4238,
+      "compressed": 348
+    },
+    {
+      "name": "common/story/9077/0.txt",
+      "bytes": 4157,
+      "compressed": 336
+    },
+    {
+      "name": "common/story/9078/0.txt",
+      "bytes": 15675,
+      "compressed": 716
+    },
+    {
+      "name": "common/story/9079/0.txt",
+      "bytes": 1009,
+      "compressed": 214
+    },
+    {
+      "name": "common/story/9080/0.txt",
+      "bytes": 2694,
+      "compressed": 306
+    },
+    {
+      "name": "common/story/9081/0.txt",
+      "bytes": 279,
+      "compressed": 147
+    },
+    {
+      "name": "common/story/9082/0.txt",
+      "bytes": 33,
+      "compressed": 22
+    },
+    {
+      "name": "common/story/9083/0.txt",
+      "bytes": 86,
+      "compressed": 38
+    },
+    {
+      "name": "common/story/9600/0.txt",
+      "bytes": 7081,
+      "compressed": 645
+    },
+    {
+      "name": "common/story/9999/0.txt",
+      "bytes": 23709,
+      "compressed": 2114
+    },
+    {
+      "name": "common/ui/dialogue.jpg",
+      "bytes": 1794,
+      "compressed": 488
+    },
+    {
+      "name": "common/ui/paper.jpg",
+      "bytes": 5866,
+      "compressed": 5722
+    },
+    {
+      "name": "META-INF/build.txt",
+      "bytes": 117,
+      "compressed": 107
+    }
+  ],
+  "actualFirmwarePeakHeapNotMeasured": true
+}

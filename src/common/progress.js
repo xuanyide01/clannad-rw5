@@ -12,3 +12,6 @@ export function withProgress(state,progress){for(const k of Object.keys(progress
 export function lightCount(progress){return progress.variables['g:0']||0;}
 // Matches the bundled original _system_title condition, not an orb-count guess.
 export function afterUnlocked(progress){return [1,2,3,4,5,6,9,12,13,15,30,31].every(n=>progress.variables['g:'+n]===1);}
+// Original seen6803 sets g[45] only after the true ending.
+export function trueEndingSeen(progress){return progress.variables['g:45']===1;}
+export function titleBackground(progress){return trueEndingSeen(progress)?'/common/ui/title.jpg':'/common/ui/title-before.jpg';}

@@ -1,8 +1,8 @@
 {
   "package": "com.codex.clannad.rw5",
   "name": "CLANNAD",
-  "versionName": "0.1.3",
-  "versionCode": 6,
+  "versionName": "0.2.0",
+  "versionCode": 9,
   "minPlatformVersion": 1000,
   "minAPILevel": 1,
   "icon": "/common/logo.png",
@@ -18,6 +18,9 @@
     },
     {
       "name": "system.prompt"
+    },
+    {
+      "name": "system.audio"
     }
   ],
   "config": {

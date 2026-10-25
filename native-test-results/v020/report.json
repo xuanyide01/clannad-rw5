@@ -1,0 +1,22 @@
+{
+  "version": "0.2.0",
+  "passed": true,
+  "runtime": "official vela-watch-5.0",
+  "physicalDeviceTested": false,
+  "completeNativeRepeats": 2,
+  "initialPlays": 3,
+  "guardedStops": 2,
+  "unexpectedEOF": 0,
+  "observations": [],
+  "checks": [
+    "Two complete full-length music repeats without EOF or panic",
+    "CONFIG sound off/on works",
+    "Music stops during save selector and story",
+    "Previous slot 4 loads",
+    "Reading controls share the green style",
+    "Automatic reading still advances and chapter skip stops at choices",
+    "Gallery lists 68 CG groups / 174 images and the first group switches a difference",
+    "Route first-page navigation returns normally"
+  ],
+  "packageSha256": "3460cdbbf751bafd92ee945ffcd2b5367c3932bf47e6eb8998c469f2763757e0"
+}

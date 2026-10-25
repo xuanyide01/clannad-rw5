@@ -1,0 +1,4360 @@
+{
+  "passed": true,
+  "baseVersion": "0.1.4",
+  "pngImagesCompared": 395,
+  "allPngPixelsDimensionsColorTypesAndProfilesIdentical": true,
+  "jpegFilesByteIdentical": 730,
+  "otherCommonFilesByteIdentical": 414,
+  "unusedRemovedResources": [
+    "common/title_bg.png",
+    "common/ui/button.png"
+  ],
+  "pngRows": [
+    {
+      "file": "common/images/cgak10.png",
+      "size": [
+        180,
+        194
+      ],
+      "rgbaSha256": "edb2f2783dbb529c5343f5427ed6dd9b916511750b9f5cdd26f061cbb532aac1",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgak10a.png",
+      "size": [
+        180,
+        215
+      ],
+      "rgbaSha256": "f4a0ac6e2d4f105370dfccf805796c711b66544d5806a8e0efdf42f747320dd9",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgak10e.png",
+      "size": [
+        180,
+        194
+      ],
+      "rgbaSha256": "23b77866589324a7b70f69f00c6dced9abd2e44299e3aefa8a9c84aeda4fdecd",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgak10p.png",
+      "size": [
+        180,
+        218
+      ],
+      "rgbaSha256": "ace1c11c0c61a03494690bd82d7fdb4f8615d1a703075274405889b08feeea52",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgak11b.png",
+      "size": [
+        180,
+        213
+      ],
+      "rgbaSha256": "841ef15bbea28aded1b7e4c4d0d9f21c9888cd9cc91b6f1aa46c12f4ece35ed8",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgak12c.png",
+      "size": [
+        180,
+        197
+      ],
+      "rgbaSha256": "b0f28f0a7207688da126d458eaaccd50b30b2e06d19999d539a82297c56fd64d",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgak19c.png",
+      "size": [
+        180,
+        197
+      ],
+      "rgbaSha256": "e33545a9d9e1a3a4701b3e616c7f86239745f3ef0b1370c914d2a46b29a765b4",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgbt10.png",
+      "size": [
+        180,
+        149
+      ],
+      "rgbaSha256": "ffabd8ddefc96667eb411432320ee7445129e9e2a78ce258bc839c9b3c569bdf",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgbt20.png",
+      "size": [
+        180,
+        149
+      ],
+      "rgbaSha256": "ede7a33c78c4a4ea6d9eb0ff1bd4fdd70175c228dbc4ee8027e62929768c1679",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgbt21.png",
+      "size": [
+        180,
+        149
+      ],
+      "rgbaSha256": "917adb9e96c44eb8b6d88033c4f60b2ed09fbff9b906b4dce2cb2c6312751718",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgbt23.png",
+      "size": [
+        180,
+        149
+      ],
+      "rgbaSha256": "98747fcbfdaf03c827beeb1acf0b1205c827025d998de8c82c283004d53d3c56",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgbt25.png",
+      "size": [
+        180,
+        149
+      ],
+      "rgbaSha256": "7269ade0722121a44427614bd6476086a6b83ba3c563bc4b76660e234e0adf31",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu10.png",
+      "size": [
+        180,
+        189
+      ],
+      "rgbaSha256": "571ff3fc1c25628bfda0955562b0e4cad21308af30a52c0c15ea7ba89214a1c3",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu10a.png",
+      "size": [
+        180,
+        189
+      ],
+      "rgbaSha256": "250e18c2320592c41924f42fe2620b4dde67632a0fdf11d72437c1093170558f",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu10c.png",
+      "size": [
+        180,
+        189
+      ],
+      "rgbaSha256": "d84a710c02a53f7eaa675692103274599de1454f3c01f2df18adb188faa65959",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu12b.png",
+      "size": [
+        172,
+        240
+      ],
+      "rgbaSha256": "303b3dba2c5998a01267b772aee7627be20de4cf361b3ae9e3e4ee742451d91a",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu13.png",
+      "size": [
+        180,
+        189
+      ],
+      "rgbaSha256": "b09672f7eb1f1214386d7f7784a9921cb01e0664b8036a67918f70c1a56e1116",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu13a.png",
+      "size": [
+        180,
+        189
+      ],
+      "rgbaSha256": "a96c407f80e6223974d3155f42a3408da2aaef743587538155a7a554d07daf1b",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu13c.png",
+      "size": [
+        180,
+        189
+      ],
+      "rgbaSha256": "35439d9c418865e9dc655090ab72864d4a94e7f1e0b0e5b7653636ed0bb4a897",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu15.png",
+      "size": [
+        180,
+        189
+      ],
+      "rgbaSha256": "0e86f6a7a6ed854c0eea9f1c25a7d938140265140de9732bce7603afc47771ba",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu15a.png",
+      "size": [
+        180,
+        189
+      ],
+      "rgbaSha256": "e40e9ac86fe29f470a78dbb75ae4d805aee888cf2058427592a2e72c941c3a8a",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu15b.png",
+      "size": [
+        172,
+        240
+      ],
+      "rgbaSha256": "42cd83fd464b7efd031e4402c37f4d75854eec743705edf9dbea1d04edb8b178",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu16.png",
+      "size": [
+        180,
+        189
+      ],
+      "rgbaSha256": "f75e259e7f0089d78d4e58e563d9b6d01bbd7ff49725c5a984d28943cf671ff3",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu16a.png",
+      "size": [
+        180,
+        189
+      ],
+      "rgbaSha256": "61f2f30ebf88436542785d0556eae6176aa4106edf3df91d360d2760e0beef55",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu16b.png",
+      "size": [
+        172,
+        240
+      ],
+      "rgbaSha256": "11fde5b8fc719f6d20d20d153bf47857ffb15cab2e0a03bd34a0c6aa5ec5d48f",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu16c.png",
+      "size": [
+        180,
+        189
+      ],
+      "rgbaSha256": "4c57f292adc804f308a758c050b27459eb1f6427fd2ae36d1db77c33790e7624",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu17.png",
+      "size": [
+        180,
+        189
+      ],
+      "rgbaSha256": "3484c4a304e84eb3fec582fddeadb6f22f485de02594a610ec9acbb7c0ae6ddf",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu17a.png",
+      "size": [
+        180,
+        189
+      ],
+      "rgbaSha256": "bb4865c3a2acf7498b07121e2989bf61c7ed581789da343f09902cad9b8897b3",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu17b.png",
+      "size": [
+        172,
+        240
+      ],
+      "rgbaSha256": "30989d5589080184c4a84a17532c20fe416846272bcaaa6c68e8ec70eb8df7a3",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu17c.png",
+      "size": [
+        180,
+        189
+      ],
+      "rgbaSha256": "9af1098b225a66ccc1ec50250ed25617b74a534aaa01cde154ea8c3d17b505a0",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu18.png",
+      "size": [
+        180,
+        189
+      ],
+      "rgbaSha256": "4533a897c9e18091d164ae637b7b7716b32a7c05bdca88590d4db78b8e4565f1",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu18a.png",
+      "size": [
+        180,
+        189
+      ],
+      "rgbaSha256": "a91fe30485b456924d41c87aa1b139145a01557cdacdff792b6e4390c9f70274",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu18c.png",
+      "size": [
+        180,
+        189
+      ],
+      "rgbaSha256": "8e89493870838bcf10e53a1bd85da79db98a2b7c27ae2cc879bd0276bd1f328e",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu19.png",
+      "size": [
+        180,
+        189
+      ],
+      "rgbaSha256": "b227c9c9b607fa60ace34411436de5ce6a12c49dbba412b1431696b02a0753cc",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu19a.png",
+      "size": [
+        180,
+        189
+      ],
+      "rgbaSha256": "9fab0bfb2b56585070f87a102705ea86fabcbedf63a186c6d022bb56a135ce2a",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu19b.png",
+      "size": [
+        172,
+        240
+      ],
+      "rgbaSha256": "a4ffee74d53070372ad0bdd29baac05896f79e429cb117020f1ae643dd4d6e31",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu19c.png",
+      "size": [
+        180,
+        189
+      ],
+      "rgbaSha256": "f1cf3776dc4961e4b13a6b2656dac7caff73d8d0a16f9e5ae2e70a43d9332058",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu20.png",
+      "size": [
+        180,
+        189
+      ],
+      "rgbaSha256": "21a31f6a61c417e021241c65da2f6b1038ee700b9260ffaba18dcab6382321d2",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu20a.png",
+      "size": [
+        180,
+        189
+      ],
+      "rgbaSha256": "214daa6464c1d2d3bbe1c87aed8578abd9906a6aa00068a5545887b3b9d6e036",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu20b.png",
+      "size": [
+        172,
+        240
+      ],
+      "rgbaSha256": "9c6cf27bc88b62d81016cbe56af07bae05dbc8fc1d3cbbaae83968b6d40b1b73",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu20c.png",
+      "size": [
+        180,
+        189
+      ],
+      "rgbaSha256": "8a68501090d0c4030d39028dca0ea446e99b8fb9df2470e5a0d07c1320631d4e",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu21.png",
+      "size": [
+        180,
+        189
+      ],
+      "rgbaSha256": "1a07f3a298a12613dd02e972968d77c6d96c190c17da9141dcad120b124641bc",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu21a.png",
+      "size": [
+        180,
+        189
+      ],
+      "rgbaSha256": "6512b8be5f29be452bb7d40d045e45907d14fe5a7e75eb740ef536790acabfcd",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu21b.png",
+      "size": [
+        172,
+        240
+      ],
+      "rgbaSha256": "d77bb3b7a91c7dcec9dcbe52a5a8ab0ef5ee98cfe88c175895b165d7f0623508",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu21c.png",
+      "size": [
+        180,
+        189
+      ],
+      "rgbaSha256": "ac8a6e8c794c9d69d5107be45997dc77d9c56de507663f47c85a129f3db82d6d",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu22.png",
+      "size": [
+        180,
+        189
+      ],
+      "rgbaSha256": "3bee096927c1f07a14b9def4c687544536bf1ed1611513a43d945b48070b32a0",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu22a.png",
+      "size": [
+        180,
+        189
+      ],
+      "rgbaSha256": "929bf91fbb1a80fcea8bc9067053e56e2879f51442201ed5e53ccec536e85a87",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu22c.png",
+      "size": [
+        180,
+        189
+      ],
+      "rgbaSha256": "9fca05e9d02d375b2333cb87bb5db0393c57af141c7037efe0623d5b7ed19020",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu23.png",
+      "size": [
+        180,
+        189
+      ],
+      "rgbaSha256": "8d903962e946c7c8627170a199c990c1cda3006b5e5ede22d2fd50927e15e488",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu23a.png",
+      "size": [
+        180,
+        189
+      ],
+      "rgbaSha256": "b621baf5c412f1fe7cbf96fcb928b07bca94f966c6fe17ef91a7c05f7d484e86",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu24b.png",
+      "size": [
+        172,
+        240
+      ],
+      "rgbaSha256": "92711568c27964d69b4536efa3a5e24377ceb43e8445b59fcdd807b7b9c705e4",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu30.png",
+      "size": [
+        180,
+        181
+      ],
+      "rgbaSha256": "a6be5be6e25ab30c7b7342d157b74efdd57f8b6c0c251a6ad7026ca5c0965bf2",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu30a.png",
+      "size": [
+        180,
+        181
+      ],
+      "rgbaSha256": "56a630655e64facce306936e1dbbeaeed5ccc9cb20d6bca81b2122504eed49d0",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu30b.png",
+      "size": [
+        180,
+        238
+      ],
+      "rgbaSha256": "163d8380e035e2582223a814d5d2afabeeea28866d1498136fd04c77115398c2",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu30c.png",
+      "size": [
+        180,
+        181
+      ],
+      "rgbaSha256": "85bc6ecec00a5e5a43068b8366b6cc0c47c3fea6304b31aa7a1f653cc49f1395",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu31.png",
+      "size": [
+        180,
+        181
+      ],
+      "rgbaSha256": "33bd2c9d715d9e34f835c226d743d062f3bbf53c3d8a3c4844318e3431c6956a",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu31a.png",
+      "size": [
+        180,
+        181
+      ],
+      "rgbaSha256": "4aeef485da7d50d9864e7c75f4f85a0cebf432e67b25005a402e543fc3d5eb54",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu31b.png",
+      "size": [
+        180,
+        238
+      ],
+      "rgbaSha256": "8b473e3946420fc6d480500162c3454bece2ecc1a24d43c43af521d00713fee8",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu31c.png",
+      "size": [
+        180,
+        181
+      ],
+      "rgbaSha256": "9fe947e7707ca8b9f13f4b0912e3cfc642092c9cf63bf9a54ee0a2b71986f160",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu32.png",
+      "size": [
+        180,
+        181
+      ],
+      "rgbaSha256": "9905e7689b4714729487636e1908787518896239ae318d60a62e5ea20af3b9e0",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu32a.png",
+      "size": [
+        180,
+        181
+      ],
+      "rgbaSha256": "18684b443f2425955b28109e21ede8f0232885c4d119b8be6136fa668818c83d",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu32c.png",
+      "size": [
+        180,
+        181
+      ],
+      "rgbaSha256": "96bc01965fdff19bd8aacf25099c6cdf31d20158d43afd2c6cc88986bc12f099",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu33.png",
+      "size": [
+        180,
+        181
+      ],
+      "rgbaSha256": "0ed887db554369208aaf7879fa356c40d196604ee7db8c15e852f62a1b6d55cf",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu33a.png",
+      "size": [
+        180,
+        181
+      ],
+      "rgbaSha256": "9d9e0325c9a2b182c65c1b10ab4055a3a626e22d957ee55339e0f72f24f048ad",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu33c.png",
+      "size": [
+        180,
+        181
+      ],
+      "rgbaSha256": "5e5549b6eee485794360104bb59cded677433664688aa1966ea80741cd7aaf0b",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu34.png",
+      "size": [
+        180,
+        181
+      ],
+      "rgbaSha256": "f6bc265ede972f496c75777b02f5c4647111f5624512c09f7e9c5f7c60b00578",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu34a.png",
+      "size": [
+        180,
+        181
+      ],
+      "rgbaSha256": "5eb83d02587b56c3d8c537692a1cec85e0f8c3ed5d272070b4908f69b966130c",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu34b.png",
+      "size": [
+        180,
+        238
+      ],
+      "rgbaSha256": "3a79d6d853b4d40a367e62d61b709b9fb853d913afe0c26ba837ae859a6c669e",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgfu40.png",
+      "size": [
+        80,
+        240
+      ],
+      "rgbaSha256": "66fa77c22997100f405a53a172c8d677d864d2dcbd677462c57b8822dc6fa9e7",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgko10.png",
+      "size": [
+        152,
+        240
+      ],
+      "rgbaSha256": "17f9f3f3c5d1bb069a980acf1e66eb71fae14d9b35540059c7e97d3868ad2aa6",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgko10b.png",
+      "size": [
+        180,
+        180
+      ],
+      "rgbaSha256": "8da591d7821a8a6170f3c4ab2e3702527b0f586969c15ad6aa23a447baee541b",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgko11h.png",
+      "size": [
+        152,
+        240
+      ],
+      "rgbaSha256": "89b5eaf8c4ae3786c5d5237950d3d584229e5aa9edbddf7fbd1bef3b31b75e19",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgkp10.png",
+      "size": [
+        180,
+        236
+      ],
+      "rgbaSha256": "3c186eae10d93bcd992b3cc2484966244df0d7ef36c3facdec5cc15d17161b32",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgkp10a.png",
+      "size": [
+        180,
+        236
+      ],
+      "rgbaSha256": "b10588c3c353bfd2e0f216668134840492f3cb0db7bc4f150b68515df1f4b422",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgkp10b.png",
+      "size": [
+        171,
+        240
+      ],
+      "rgbaSha256": "545ca319cbdc8db70c0207af6086072b0370e017030a223e675d09483a419956",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgkt10a.png",
+      "size": [
+        180,
+        239
+      ],
+      "rgbaSha256": "551a1e95608f3bf2000d5c7eb3eb06ea0df8699fb040029484e62fa3b612d23e",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgkt10b.png",
+      "size": [
+        180,
+        238
+      ],
+      "rgbaSha256": "77e869310d3e42097954c5c8bb8ffc1ac9e0c6c909905339c7a190b5bc819517",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgkt10c.png",
+      "size": [
+        180,
+        236
+      ],
+      "rgbaSha256": "cc7597063483e4e2d9a5882aabaa9c59d465878c24fe56340245a4ea0c960c50",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgkt10d.png",
+      "size": [
+        180,
+        236
+      ],
+      "rgbaSha256": "1d82db417438cb834d420452576555ad7c4e1060cf9dde6b44d1b242b2ff95b4",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgkt30a.png",
+      "size": [
+        180,
+        225
+      ],
+      "rgbaSha256": "eefd4458a1d4b3edd7c38b3139313a18c3fcc88c6a9868107034d629d89bda96",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgkt30b.png",
+      "size": [
+        180,
+        225
+      ],
+      "rgbaSha256": "055a1fbf333f5b8f4b61ab00c5ae3d44983c0cd9fb6482292bb53d7334152618",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgkt30c.png",
+      "size": [
+        180,
+        225
+      ],
+      "rgbaSha256": "1a06784e9513e3949ddab7aa582ef27dcccc89bb0fe38eefb6ba8ee7b95db5ee",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgkt30d.png",
+      "size": [
+        180,
+        225
+      ],
+      "rgbaSha256": "256ec2912991fcb1666b2c5e6593431daff6330b7cf69fa6d788c1b5fc42f98d",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgkt30e.png",
+      "size": [
+        180,
+        138
+      ],
+      "rgbaSha256": "5cf5c321d1071c3125696557e6e3152275c1458429cd0c9c0d4aa46be19bacba",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgky10.png",
+      "size": [
+        180,
+        188
+      ],
+      "rgbaSha256": "2677672ba3cfe2979ee64e887e42491449bc279f046e5af80e2dec459f247f7c",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgky10a.png",
+      "size": [
+        180,
+        188
+      ],
+      "rgbaSha256": "44ae485d747c2f6fca7603b48128444181a3194e05dcfc6af6151a50ca8b266f",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgky10b.png",
+      "size": [
+        180,
+        188
+      ],
+      "rgbaSha256": "9be15b02c6cd5c0f42dd2460eff3a7b98deef79f5d75bf3bf1fc454d556e9863",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgky10c.png",
+      "size": [
+        180,
+        188
+      ],
+      "rgbaSha256": "72bd7eff196093b1cbc8a2278ff20092b7ff58c0d8e9922e0af3f226ea02937b",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgky10d.png",
+      "size": [
+        180,
+        188
+      ],
+      "rgbaSha256": "1750f759f1b935f2561e00c26e2dc0bfb43c2941b1141a02c5a829ae0a6ea998",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgky10f.png",
+      "size": [
+        159,
+        240
+      ],
+      "rgbaSha256": "d3af70f5d354fdd75462f4d9f266d535d57f5d12b045167856f38401e921180a",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgky10g.png",
+      "size": [
+        165,
+        240
+      ],
+      "rgbaSha256": "c72ee78ad81a81f13dbe3b4c6268f0e6b684f31d3d93b2676d462a6dc049e604",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgky10k.png",
+      "size": [
+        180,
+        188
+      ],
+      "rgbaSha256": "8c26d48180219c1d7bf5c7f1443a926c261edc5c9e3a53f0beaf8661158f4fe1",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgky11e.png",
+      "size": [
+        180,
+        188
+      ],
+      "rgbaSha256": "bfdd341b45056e33b5c08ca01c1a0e83f8ea48b49fe215930b140838fdce57cb",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgky11i.png",
+      "size": [
+        180,
+        188
+      ],
+      "rgbaSha256": "08194f40ba4c8552f84d69c460c2a540ea9e12c336bf839a5c217a47513a1591",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgky18h.png",
+      "size": [
+        165,
+        240
+      ],
+      "rgbaSha256": "acaf84f0cb01dd88c5644da7d1a2d3b9ef3e89b35a0fb33a3d36dd7fc626f978",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgky22j.png",
+      "size": [
+        180,
+        188
+      ],
+      "rgbaSha256": "7491c5112b4379566955de0d615cd14ba0b42011b5b0d8e5ed4455be18d80a14",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgky30.png",
+      "size": [
+        180,
+        188
+      ],
+      "rgbaSha256": "1d7add29ef5035a06d38159345f5525ece83ebb68d63e6bfaea1c055c7172ff2",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgky30a.png",
+      "size": [
+        180,
+        188
+      ],
+      "rgbaSha256": "35b26abae2df7efad6543fe8a5bdc8457c85d2f64584ea425d74664d8c35dbfc",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgky30c.png",
+      "size": [
+        180,
+        188
+      ],
+      "rgbaSha256": "9280da14193e0df4ff9243287a80c41a875e342ba8a6ea34ed38a4adf501ec94",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgky31b.png",
+      "size": [
+        180,
+        188
+      ],
+      "rgbaSha256": "de5fdc1a6fcc645bc03bc2123afb5ebeeb2ce0b81127fdb566432254336dfc25",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgky32.png",
+      "size": [
+        180,
+        188
+      ],
+      "rgbaSha256": "e69b4f8ae7bdc8c7081cad0d9628d151ed78aa7ded0f860b0d3445dfb28b1579",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgky33d.png",
+      "size": [
+        180,
+        188
+      ],
+      "rgbaSha256": "8fcd3cab426528779b6feeda50a568d878df6661898255c355bf464d9da991a9",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgky33e.png",
+      "size": [
+        180,
+        188
+      ],
+      "rgbaSha256": "096bc20a7e0c7f05f18cbc48beb0a11723f8ff125329b8044c3cc9b2b8b301c5",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgme10.png",
+      "size": [
+        180,
+        158
+      ],
+      "rgbaSha256": "ba8d47e9b5304fedbe51dd26dea489f8676b9a61d5e7dde9b53df3e88217d644",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgme10h.png",
+      "size": [
+        180,
+        172
+      ],
+      "rgbaSha256": "71a025c97e9ca24eed4c67ca599cd97920932d4c237ad9c1fc03c85ea4c348b1",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgme12.png",
+      "size": [
+        180,
+        158
+      ],
+      "rgbaSha256": "d53182579ca1929054f21bf89f71de903ef4388a89488398b81f3485566ff6e9",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgme12h.png",
+      "size": [
+        180,
+        172
+      ],
+      "rgbaSha256": "4987688b2d5507c1b2495335bb553112a3284240b272e0a73b9594160f261fa2",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgme20.png",
+      "size": [
+        180,
+        158
+      ],
+      "rgbaSha256": "3aef896cbbe7020ffa1fcaac53c9ed945b0ffeb03f665e9dc954064836f02e7d",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgme20h.png",
+      "size": [
+        180,
+        172
+      ],
+      "rgbaSha256": "48eaf824af5eff3d2b1adec45b32e5d49f760cd59d726490eeddeb3f5139aa95",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgme25.png",
+      "size": [
+        180,
+        158
+      ],
+      "rgbaSha256": "bbde62512b357207b41de0992b24e5dfb1cfd8bbedb852913caf710a09705494",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgms10.png",
+      "size": [
+        180,
+        203
+      ],
+      "rgbaSha256": "bae12fb527fadd549f22a46f950c2c74131f7fc752331b95c30f3a5efd7d9292",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgms10e.png",
+      "size": [
+        180,
+        203
+      ],
+      "rgbaSha256": "03fe7144f5515280362966649c1db4e8db282716c4b95d13c0f51d9225636c78",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgms10eh.png",
+      "size": [
+        166,
+        240
+      ],
+      "rgbaSha256": "6f2128bc05c753438b83d77f077d2c1c5ca8de233e86841e16dcceebb627e8e7",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgms10h.png",
+      "size": [
+        166,
+        240
+      ],
+      "rgbaSha256": "fc890a24a2cc3f363245a4f3dd06271211843f32dc30de5da03dc78582c7afb1",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgms18h.png",
+      "size": [
+        166,
+        240
+      ],
+      "rgbaSha256": "7aa335cbc3acbf9d16477cabb4567adf74760b32c7a4ab589d8a007ff00464c4",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgms31.png",
+      "size": [
+        180,
+        215
+      ],
+      "rgbaSha256": "b7441c021b5433f4d683725a25b86423843a1abc3e9d3235912887d3bf388e07",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgms31h.png",
+      "size": [
+        180,
+        184
+      ],
+      "rgbaSha256": "e785d44fd830340a047f9533de8d3a9e03a83878321148af2c315bb1f9e46bca",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng10.png",
+      "size": [
+        153,
+        240
+      ],
+      "rgbaSha256": "7d41fe2236cc6199843be148337c745cbb51455f8eb4fb03bc58f956a7a3330a",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng10a.png",
+      "size": [
+        154,
+        240
+      ],
+      "rgbaSha256": "c5060efc7e24f355bffc8cfa35652ef20a5e32cf723dc84f53c8f222122d5883",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng10az.png",
+      "size": [
+        154,
+        240
+      ],
+      "rgbaSha256": "756775b06444c7c63eee7453a7c814207fcc50da0cc4992472e3885ff4594939",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng10b.png",
+      "size": [
+        152,
+        240
+      ],
+      "rgbaSha256": "6dd137b827e5d090e5033c7b284f33987414fffe82a6248d03cab6936da7aef0",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng10bz.png",
+      "size": [
+        152,
+        240
+      ],
+      "rgbaSha256": "9b41463edcf13539f4c6972d6303d8e5eeadec77fc4fd8f71afc731bcd88482c",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng10c.png",
+      "size": [
+        152,
+        240
+      ],
+      "rgbaSha256": "19697204092bb852feaf1ea1e22e5ca8afd5b9d66cd24c8e9563f6850237273d",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng10d.png",
+      "size": [
+        152,
+        240
+      ],
+      "rgbaSha256": "0152949d01c33954cebd3746aeff2272bd1504cc84f88287e2ccc56d5790a69d",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng10dz.png",
+      "size": [
+        152,
+        240
+      ],
+      "rgbaSha256": "5fc15c1ac8b46f6ce5444f12ab2d3ee580d1b60f1220a9aeb336a5cb93f56367",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng10e.png",
+      "size": [
+        180,
+        209
+      ],
+      "rgbaSha256": "251676d2d70ab96387bedb608116f5e43f02226212c4b48215b960ca45a7cd4e",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng10ez.png",
+      "size": [
+        180,
+        209
+      ],
+      "rgbaSha256": "988987937d07d19a462f93e4f741dcc80c5e0a3c0ba19784b9ea72bd2c77d337",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng10f.png",
+      "size": [
+        164,
+        240
+      ],
+      "rgbaSha256": "07df8d51b4226977fafc8fe5820ae6f5afd3c352eef9b111c3fb1566ef9f189d",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng10fz.png",
+      "size": [
+        164,
+        240
+      ],
+      "rgbaSha256": "a7399f68ed1d4d21154a48c36c1a47709f974275b2840d73e3de51691c549982",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng10y.png",
+      "size": [
+        153,
+        240
+      ],
+      "rgbaSha256": "12aa0d761539e78af6e23df4b5f5d71f118cc0a5a1dd1f8b277606c211f39b35",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng10z.png",
+      "size": [
+        153,
+        240
+      ],
+      "rgbaSha256": "de8787140625f54f6c2b55357c8476b60d926d3a0669ca24b367bc08f097a985",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng12.png",
+      "size": [
+        153,
+        240
+      ],
+      "rgbaSha256": "5b010f9db30454a6f3baeccc1a0a849c72e5afc155e3ed3e7b66847d9fe63faf",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng12a.png",
+      "size": [
+        154,
+        240
+      ],
+      "rgbaSha256": "8e27e2511a130e80f24128a0e3ddf7b07e688f97009b09a2d4757f55b18c1bf6",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng12az.png",
+      "size": [
+        154,
+        240
+      ],
+      "rgbaSha256": "5ccb2af2e520e014c7aa664b0338bc7a8b9e281ee11d8e5896625a3dae243d45",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng12b.png",
+      "size": [
+        152,
+        240
+      ],
+      "rgbaSha256": "786526500be1ce51d6021766aef8dd923b00ea519ccd7390f3797d2b03cfeaf3",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng12d.png",
+      "size": [
+        152,
+        240
+      ],
+      "rgbaSha256": "c3c7f9d5a8bb85099139ae282d9790651e56aa8a6c879811a094bb397bd053a1",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng12dz.png",
+      "size": [
+        152,
+        240
+      ],
+      "rgbaSha256": "0ddae3f194ca6a44b8bba3bc1b0dc66c66e1fe8618a24793662773dd06ac5a60",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng12e.png",
+      "size": [
+        155,
+        240
+      ],
+      "rgbaSha256": "58eda9575a1f5c3fb9ba35e13f0e060eaa6ef929c94ffe21240bf8fade8b398d",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng12ez.png",
+      "size": [
+        155,
+        240
+      ],
+      "rgbaSha256": "46b88f527b3df19a367179ed03d1e5867bbc3e34e4a3a012054088955e0b4673",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng12z.png",
+      "size": [
+        153,
+        240
+      ],
+      "rgbaSha256": "8835b09ee2a48f1a8f4239508862df3968eb4ab971ce163fbd30765529b3a840",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng13.png",
+      "size": [
+        153,
+        240
+      ],
+      "rgbaSha256": "9049d3d17a652d65d759eefc12198e5d86f48bc9544b454bc83dad17763670d8",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng13a.png",
+      "size": [
+        154,
+        240
+      ],
+      "rgbaSha256": "7013b61cb011dca0056b8cac9c0a5e3fe53e3501871f8e13c682dded0b7594da",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng13az.png",
+      "size": [
+        154,
+        240
+      ],
+      "rgbaSha256": "30a0f7b99d68f76a8b545939e95fec552b6927e07395e4efb910f1de4eb61978",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng13b.png",
+      "size": [
+        152,
+        240
+      ],
+      "rgbaSha256": "f9dbb2ffdf4d58c8197cb37fc55728615f5dee4778dcec634f551579a7490252",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng13c.png",
+      "size": [
+        152,
+        240
+      ],
+      "rgbaSha256": "5f41437b7b4ffd899b767fd7b239eea647f8eab9220133072c731c4792145ec7",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng13d.png",
+      "size": [
+        152,
+        240
+      ],
+      "rgbaSha256": "4077db620a434f44536d3c4b14ce3594b691c38c880f43b9be0f2edc6de6ac23",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng13dz.png",
+      "size": [
+        152,
+        240
+      ],
+      "rgbaSha256": "36debc5c93f9a81e3d4c9356845677af6c2505d6ed1557d689982927e1675319",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng13e.png",
+      "size": [
+        155,
+        240
+      ],
+      "rgbaSha256": "4bcfbc64d6cf3a7c47f2501cc240bc5758c8e3bd765dba783aeb5db7903e4edd",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng13ez.png",
+      "size": [
+        155,
+        240
+      ],
+      "rgbaSha256": "d1186c9edbce82ce1801da002755fddfc55729e45f3331542d94cda6945e5e4a",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng13f.png",
+      "size": [
+        164,
+        240
+      ],
+      "rgbaSha256": "cc055320685f2de88f914c8f198fe78493e1c74b4bbc4bc945fb4ade025e2829",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng13z.png",
+      "size": [
+        153,
+        240
+      ],
+      "rgbaSha256": "76b8f70fef3abd4dd063e88c0f0e89414756be19b1214f093a5fbf6b038c8e32",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng14.png",
+      "size": [
+        153,
+        240
+      ],
+      "rgbaSha256": "bb9c68521d7438273eec7b1e1daf987eaf35c3b88e2bf5c06d32cb3ab578bb4d",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng14a.png",
+      "size": [
+        154,
+        240
+      ],
+      "rgbaSha256": "ff754591eeca81cc2da5d6b8da8a0f96a4ded7aed1f7a5e14d0bdff05f1077ae",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng14az.png",
+      "size": [
+        154,
+        240
+      ],
+      "rgbaSha256": "e88a785a74b00179fed83c7225aa9a5ae7f94f2b620352a00a31474ef0700e18",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng14b.png",
+      "size": [
+        152,
+        240
+      ],
+      "rgbaSha256": "c297eddc70d5bfa538b7a13632b795a3e6a8548ef66cdb676e07d4b1f28ab413",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng14c.png",
+      "size": [
+        152,
+        240
+      ],
+      "rgbaSha256": "db495f8dfb1bb24097b2a288125368c5627cbc2a9803574ed85b804bd9efa563",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng14d.png",
+      "size": [
+        152,
+        240
+      ],
+      "rgbaSha256": "d4973d55084e36708dd296e54eeb40c1da5f18981e8e374632893051d04a5a64",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng14ez.png",
+      "size": [
+        155,
+        240
+      ],
+      "rgbaSha256": "ec6376597fcff831d5ced7cc82455b9f676f7f425058283934aedc72580022a0",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng14f.png",
+      "size": [
+        164,
+        240
+      ],
+      "rgbaSha256": "68532639c112f8840f8794c954aef1cbf46877fd36ae1e2609d836b914f6ee4c",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng14z.png",
+      "size": [
+        153,
+        240
+      ],
+      "rgbaSha256": "987f29aa87dce01f275326d6ccf8863205c244f4de0ec4a17b05c7f031308c24",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng15.png",
+      "size": [
+        153,
+        240
+      ],
+      "rgbaSha256": "cd619b58126ee1aa0784741e4f0b5e528710ff5107672c780261ba86f89fe928",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng15a.png",
+      "size": [
+        154,
+        240
+      ],
+      "rgbaSha256": "fd9712c3e9e5f83006e761bc12d45a20f57cec6778c7e93c9ec175c18df01a75",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng15az.png",
+      "size": [
+        154,
+        240
+      ],
+      "rgbaSha256": "c1059f514850b3ffe658a647613eefe9d5635670986a0d90c90fa79dafd470a5",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng15d.png",
+      "size": [
+        152,
+        240
+      ],
+      "rgbaSha256": "0f745b94b14389ad551229c445076005e2238060d269175ff008d0e97279fc6a",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng15e.png",
+      "size": [
+        155,
+        240
+      ],
+      "rgbaSha256": "ff09e5519fb1db90528729ac7693955bac4b78faab82fa179a1944fa636355af",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng15z.png",
+      "size": [
+        153,
+        240
+      ],
+      "rgbaSha256": "e06a723801962c9f58d5283566bb230f089b3ab496f7fe2bcd9dd3ca074183c0",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng16.png",
+      "size": [
+        153,
+        240
+      ],
+      "rgbaSha256": "388a9b0776d489eab42b376386307c0b33a6bf3f2f12920378c8846c12a1459f",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng16a.png",
+      "size": [
+        154,
+        240
+      ],
+      "rgbaSha256": "f3da372382a31e7e5151c4665542fffa163dab3cd66da04f1c5841e0e658303e",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng16az.png",
+      "size": [
+        154,
+        240
+      ],
+      "rgbaSha256": "cc65dbc2d81c8a6dbad9b74cf5fcfbd30eec65634f6dfa432c22ce70dba74288",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng16b.png",
+      "size": [
+        152,
+        240
+      ],
+      "rgbaSha256": "fd8019b3eaef0f2d140f7c8e52e230c71c7e90aaed42b9b1f32cfff990a2db4f",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng16bz.png",
+      "size": [
+        152,
+        240
+      ],
+      "rgbaSha256": "0bfab397bd43144bd029075ee4c99c006f6921abc8c08e5f676ae685c05c5c5d",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng16d.png",
+      "size": [
+        152,
+        240
+      ],
+      "rgbaSha256": "5422e5568eb29589d0d1c6019455c0499f8ee4ebbbf274606e9704bf6188c175",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng16dz.png",
+      "size": [
+        152,
+        240
+      ],
+      "rgbaSha256": "96e9dcb94c14e8c7514e2b5856e7e1318ee61a3079459fe85041b2d9fa8c16d4",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng16e.png",
+      "size": [
+        155,
+        240
+      ],
+      "rgbaSha256": "1a18a23a302b14d44c181426bad3a46b4b57e7df4ec59657df4afc60f5fab718",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng16ez.png",
+      "size": [
+        155,
+        240
+      ],
+      "rgbaSha256": "d3021ca3f4b874fa107618bc78c370e69078ca7b3d2b955db4d76e50bc38a123",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng16f.png",
+      "size": [
+        164,
+        240
+      ],
+      "rgbaSha256": "2a4e1543dac915353ff524389ddbc992709b57fc392c45be1c0bf88d03662970",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng16fz.png",
+      "size": [
+        164,
+        240
+      ],
+      "rgbaSha256": "cfb5b6a2797490f482c854401ea3470ea998551521b4acc5a6f71a2f439301e5",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng16z.png",
+      "size": [
+        153,
+        240
+      ],
+      "rgbaSha256": "0891658f01dc1052404f52b24bc0480b1d7788077052b47353fb03fda1888e07",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng17.png",
+      "size": [
+        153,
+        240
+      ],
+      "rgbaSha256": "9f8d8c2e31b5ec6433859b730f1e9ebca81a1370bd1764ec74e7e24aabea5c37",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng17a.png",
+      "size": [
+        154,
+        240
+      ],
+      "rgbaSha256": "f6112a1905d5eafc1e7e7915313edc9ffe714584d8bfab8302cd2ec6c1239107",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng17ay.png",
+      "size": [
+        154,
+        240
+      ],
+      "rgbaSha256": "8b0c4b4d6213228b7e6f296d267a0912ecf0e66773244e14704c5a5712074152",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng17az.png",
+      "size": [
+        154,
+        240
+      ],
+      "rgbaSha256": "7e902c4d2e4e3bda33d57292efc4e733cd6e90ca4925aff6bc8d6d76af409649",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng17b.png",
+      "size": [
+        152,
+        240
+      ],
+      "rgbaSha256": "801f86937440b39d11ccf451e48d7784bcfcc0ae348f012cfc45827fd57dab51",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng17by.png",
+      "size": [
+        152,
+        240
+      ],
+      "rgbaSha256": "7a9ce35f2ea5bf91184b62d2fb0c5e72d259fd257add2f1400b3c9e81c0e82db",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng17bz.png",
+      "size": [
+        152,
+        240
+      ],
+      "rgbaSha256": "94403e78c8eb67d5e11faabaaa510e2703f619b0598d14069864f689f0d4808f",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng17c.png",
+      "size": [
+        152,
+        240
+      ],
+      "rgbaSha256": "e0fe9fc2bc2f301256b5d4ec103158bdfeaa92379fef0bbc063433e5068bd7ee",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng17d.png",
+      "size": [
+        152,
+        240
+      ],
+      "rgbaSha256": "904f75e5385d975652822c369e0b9f3cab0b13c488c0a0f964a44c6004d97a28",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng17dy.png",
+      "size": [
+        152,
+        240
+      ],
+      "rgbaSha256": "cdcdacf8088023d6b879e4758c0f429cddd393b97d8ae0c3a76cd523a23d2a9a",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng17dz.png",
+      "size": [
+        152,
+        240
+      ],
+      "rgbaSha256": "ceb2c723d9531f52656a503402c25202b426da0eda0f364393c7f3f130efc656",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng17e.png",
+      "size": [
+        155,
+        240
+      ],
+      "rgbaSha256": "0211e1e9eff389afc7ebc63c35deb19def855b2c29b2c75790a4e212f848def4",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng17ez.png",
+      "size": [
+        155,
+        240
+      ],
+      "rgbaSha256": "2f5cae8b7eef5dc8ecaeadc58c2eadf0b4a76cd9510ce3ab987e1bdec6b32f28",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng17f.png",
+      "size": [
+        164,
+        240
+      ],
+      "rgbaSha256": "5af28894c3f48b1ccc73b83cf93ebc963ed37ad08163a04af7a81390935e70f0",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng17y.png",
+      "size": [
+        153,
+        240
+      ],
+      "rgbaSha256": "b4a139d495d6f4153c5e821c0bbe3522bc1f3120a16c33cdf4c428053a7af7ca",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng17z.png",
+      "size": [
+        153,
+        240
+      ],
+      "rgbaSha256": "e69b2f8917cd591bb96430f548e11c157887b0e1c40bd1fd477a4dd01c2804b0",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng18.png",
+      "size": [
+        153,
+        240
+      ],
+      "rgbaSha256": "6b652887e24f2cb0631f03f0808700703c0e871dda2944964c380d592c1aefeb",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng18a.png",
+      "size": [
+        154,
+        240
+      ],
+      "rgbaSha256": "aaa6afc201118ea9163c15c227fa7ae4f771b640bd13d6e659441a8ddc5aaa86",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng18az.png",
+      "size": [
+        154,
+        240
+      ],
+      "rgbaSha256": "4ef260f369ea8fbc9571024d5dd989d6d0bac58878d8cfa29393a6fe60620926",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng18b.png",
+      "size": [
+        152,
+        240
+      ],
+      "rgbaSha256": "182d2cea1f70634ae9a2b7be308dee0b03c21529d692a37970095d7aadd9615f",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng18bz.png",
+      "size": [
+        152,
+        240
+      ],
+      "rgbaSha256": "7d1fc1f072cfef64b74922ec8ec460ee4e835f25d14d3ef59f55edb9d41f65de",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng18d.png",
+      "size": [
+        152,
+        240
+      ],
+      "rgbaSha256": "e0467894593c7babc919e13138467f46d4e4bad9de3943b37b8c19f546f44049",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng18dz.png",
+      "size": [
+        152,
+        240
+      ],
+      "rgbaSha256": "a97776473afb094715f0706b20126e9707837c482b3b925d84bc436966f52d50",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng18e.png",
+      "size": [
+        155,
+        240
+      ],
+      "rgbaSha256": "1647f0ac2b43d48433f56e09d1d69f4ee5120ebf9c71f4f45e09964d99615cf1",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng18ez.png",
+      "size": [
+        155,
+        240
+      ],
+      "rgbaSha256": "c333134633f0decda74177b60b9ae28363d4ae0945ed86591220d9a4e6941a1b",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng18z.png",
+      "size": [
+        153,
+        240
+      ],
+      "rgbaSha256": "a4bd0d6c74f232792f07b420a12f5c7cdad3d51568631621fa9d2c9bbfced7de",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng19.png",
+      "size": [
+        153,
+        240
+      ],
+      "rgbaSha256": "286dd86ab27a946391b8dc8186c705b0521223afc6ffd22edc3d8bbcb2820186",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng19a.png",
+      "size": [
+        154,
+        240
+      ],
+      "rgbaSha256": "16753c2618700bf0016bac34a86e4100b6589c218a0aebdd037898cbd6ab40d9",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng19b.png",
+      "size": [
+        152,
+        240
+      ],
+      "rgbaSha256": "0457b64003460c23bd6994ed63a665fc8ee6778b16b36896214b3d642fee70f1",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng19bz.png",
+      "size": [
+        152,
+        240
+      ],
+      "rgbaSha256": "9509ec573626857345505a962294fb0cf2c1cf883f4114bde5c00b6b45389bb2",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng19d.png",
+      "size": [
+        152,
+        240
+      ],
+      "rgbaSha256": "28fd13eb64ff8e7d681414305fd4536d1bf826c8a702e10b796fb9affae202f7",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng19ez.png",
+      "size": [
+        155,
+        240
+      ],
+      "rgbaSha256": "0538e9a6a6603193b2cd25dd8f2c8f7f90bb4c8c51879406b8445296ad9a2581",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng19z.png",
+      "size": [
+        153,
+        240
+      ],
+      "rgbaSha256": "52ab343b5770682a7e227694e67fc6355719fdd1747c125e19051d8c58f91311",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng20.png",
+      "size": [
+        153,
+        240
+      ],
+      "rgbaSha256": "3205687c89962a3581279bc84526eac2b8122922fe88e4dc73286e2cf22773c9",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng20a.png",
+      "size": [
+        154,
+        240
+      ],
+      "rgbaSha256": "b5066a901391e49a0a793f743b32a228e0b770ca3e712caad44047fa0ec1aff8",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng22.png",
+      "size": [
+        153,
+        240
+      ],
+      "rgbaSha256": "7704f378afcb2185fc2d4984cae24d33c1c0445ec54f390492cfd71d1a2a9823",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng22a.png",
+      "size": [
+        154,
+        240
+      ],
+      "rgbaSha256": "f4c7bf008795f0f77bf56ee6159de63501990d24c813f362dbc8255f3592cafd",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng22az.png",
+      "size": [
+        154,
+        240
+      ],
+      "rgbaSha256": "b62ceb50ac437e4aac77245d3098a427dc5df158078e2a412945a652a0e53de8",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng22b.png",
+      "size": [
+        152,
+        240
+      ],
+      "rgbaSha256": "0eef5f04f72cf8339054f371db5a526070248204f1994be2cfed1d669e9c0fe5",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng22bz.png",
+      "size": [
+        152,
+        240
+      ],
+      "rgbaSha256": "96ae317a1eda99bc72c5608437822de5e54047fe8b629f979863e7a590fa7c58",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng22d.png",
+      "size": [
+        152,
+        240
+      ],
+      "rgbaSha256": "bfb7724d11389e2d9d50337a50780eabcb0efa52d75081a9c13fe4622a40adc2",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng22dz.png",
+      "size": [
+        152,
+        240
+      ],
+      "rgbaSha256": "87abdff5e99be581410997b524370e68872eb50eefd3202936f66f8fde34d66a",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng22e.png",
+      "size": [
+        155,
+        240
+      ],
+      "rgbaSha256": "b8a8ef787c35efd18279626b24cd1d97dc2b57b382320e26dbacb6593e3de215",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng22f.png",
+      "size": [
+        164,
+        240
+      ],
+      "rgbaSha256": "186cc3c7dca2ad332eedd432c3b6f56bcf39b53953797988a24a4d857b92d971",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng22z.png",
+      "size": [
+        153,
+        240
+      ],
+      "rgbaSha256": "1eb28fe7bc0d9e6e97aae8036c1baf06424574d90032facb73efb792c4fd215a",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng23.png",
+      "size": [
+        153,
+        240
+      ],
+      "rgbaSha256": "a695ee19bef18b4cf15299858086300e5d2b6e8bae7661b75c77aedbfcff44d5",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng23a.png",
+      "size": [
+        154,
+        240
+      ],
+      "rgbaSha256": "d5af01203ebca20eb9faee022584517fcb8f66c7c8f9b0cdd77cb021fcff2647",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng23az.png",
+      "size": [
+        154,
+        240
+      ],
+      "rgbaSha256": "517eb486311fb6c1da0669e9f47b97551d6141da92174724b8425a7433686e09",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng23b.png",
+      "size": [
+        152,
+        240
+      ],
+      "rgbaSha256": "1c604e0162024a6d53e4cd6a48bb48f532fbf28ef8c8f1324263902ed6d7002c",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng23bz.png",
+      "size": [
+        152,
+        240
+      ],
+      "rgbaSha256": "6642d3903e79abc05e4313bae14243962e1aba328ffd86613c0fc40dd8a697d5",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng23c.png",
+      "size": [
+        152,
+        240
+      ],
+      "rgbaSha256": "446da76633985f09cc228bfccaec3ed894f236b20bcbe5f902c14f5a31154eb9",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng23d.png",
+      "size": [
+        152,
+        240
+      ],
+      "rgbaSha256": "fa1a818b925b5326942f729dc43c96052b3243024182c14e8022bfc35ee3e3bf",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng23dz.png",
+      "size": [
+        152,
+        240
+      ],
+      "rgbaSha256": "a538bb8f5ac3f0c3a4672ae51757a565eee501eaf5143c592aa6e7388a386b2f",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng23e.png",
+      "size": [
+        155,
+        240
+      ],
+      "rgbaSha256": "587d6e0144fcb0c096b7e88471385f7df5d56e1f503e11ce073b7b6a61ff7bb1",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng23ez.png",
+      "size": [
+        155,
+        240
+      ],
+      "rgbaSha256": "721fd7dfcc72d33bdaebc3a7c215454821b8ad1e0b2593486e2234d27e76400d",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng23f.png",
+      "size": [
+        164,
+        240
+      ],
+      "rgbaSha256": "6059d208bfc8eb21ed2729e307326f8667cb5ae828188537bec7ad6a7323e55a",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng23fz.png",
+      "size": [
+        164,
+        240
+      ],
+      "rgbaSha256": "7f29113e33e6d715e59ccc72a68615dd2272e06fdead0a420049ed8b5a87aa6e",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng23z.png",
+      "size": [
+        153,
+        240
+      ],
+      "rgbaSha256": "83e91f288ea269afe245f564574db56dceff18bdaf521136840c21d4f1557276",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng25.png",
+      "size": [
+        153,
+        240
+      ],
+      "rgbaSha256": "fe4c4f5e9ece4831f1e6b8d63022cb632153280ece62028cd0a361a68debad25",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng25a.png",
+      "size": [
+        154,
+        240
+      ],
+      "rgbaSha256": "ac3ebb17b9f11c74ea1c505e1f21e4f67596cddae33cd1a47c9cfc5b80b6da49",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng25az.png",
+      "size": [
+        154,
+        240
+      ],
+      "rgbaSha256": "6d0b411da339418aa12216374d69ea92243e51e65f13b1208dfd9ddc833be390",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng25b.png",
+      "size": [
+        152,
+        240
+      ],
+      "rgbaSha256": "4bb720ff78f58af84e9c53f0ccccf45de2531742ed83a9c8cf84c77dcf71f20c",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng25c.png",
+      "size": [
+        152,
+        240
+      ],
+      "rgbaSha256": "0bd9d32810340a1fec17897194716fdd4259d56398921adcdc01826d2967021c",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng25d.png",
+      "size": [
+        152,
+        240
+      ],
+      "rgbaSha256": "a5864b7581b563da17caa735304328358c14d0fe4b6a1211b7e45daf7c513ee5",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng25dz.png",
+      "size": [
+        152,
+        240
+      ],
+      "rgbaSha256": "b4154dc467914409c849ddd5217455f46d24e8fa4faa827b65926e90d43ba621",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng25e.png",
+      "size": [
+        155,
+        240
+      ],
+      "rgbaSha256": "16c85314faa729b824ca8a4c2425dcd8b664d3afd8fe5ae239508011d3918991",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng25f.png",
+      "size": [
+        164,
+        240
+      ],
+      "rgbaSha256": "8175096866443a446d12ce52278a8c824e057877a65631fb0ac585252686fcb8",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng25z.png",
+      "size": [
+        153,
+        240
+      ],
+      "rgbaSha256": "261ea6a1f5444637aaa2981afb4f40c026b11c14a70c8076339bbf58e5cee026",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng26.png",
+      "size": [
+        153,
+        240
+      ],
+      "rgbaSha256": "301e5542b45dbeef4797d196a44c84af9dff7f8cfdaffe0b72b923d959f9cedc",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng26a.png",
+      "size": [
+        154,
+        240
+      ],
+      "rgbaSha256": "081883b53123005555ce8c782dd2ea5af685e339cd570a5437de36d59e37197f",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng26d.png",
+      "size": [
+        152,
+        240
+      ],
+      "rgbaSha256": "87d034c110b20dca6566993e4509c121dec77515ead5b8c3e8fc22148cbb75c5",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng26ez.png",
+      "size": [
+        155,
+        240
+      ],
+      "rgbaSha256": "c7a0288a67e9a6d23274e4bd5245eb3421207487a2e89e3207ee7f94e2459344",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng26z.png",
+      "size": [
+        153,
+        240
+      ],
+      "rgbaSha256": "27b2ff29bc70791d8edf1fa0fddcb5780e60d515bc6b70c7b25b6762183c796c",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng30.png",
+      "size": [
+        155,
+        240
+      ],
+      "rgbaSha256": "533d4f43d6f1b62230db507fa94ce2edd1360a3625d6a12795fa67e4630c83c5",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng30a.png",
+      "size": [
+        151,
+        240
+      ],
+      "rgbaSha256": "3e7665ac0d75b1e712578e9e1648189e2473c9a5307fbace0ce83e512ba50c76",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng30b.png",
+      "size": [
+        151,
+        240
+      ],
+      "rgbaSha256": "1c8adc7db85db7be8bbd3511af42246781088a09172419daed913417232719e2",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng30d.png",
+      "size": [
+        151,
+        240
+      ],
+      "rgbaSha256": "4aef8219310960c7ee0378111c14775fddbcabee95463c3ce4207b7f574ee9f5",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng30e.png",
+      "size": [
+        151,
+        240
+      ],
+      "rgbaSha256": "bd88c0198c56998f631a22087c32cf670fd70f4b464d851234273b1ff5ce8259",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng30f.png",
+      "size": [
+        160,
+        240
+      ],
+      "rgbaSha256": "519d5a785ea5a6c831fdecb8b41883aec6b715ee7edce998c397ab2dc2b47c82",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng31.png",
+      "size": [
+        155,
+        240
+      ],
+      "rgbaSha256": "3eabaf4e1942d18db8b7f7de539a5c05e9ca36f01e8f1594239764c28166ac5c",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng31a.png",
+      "size": [
+        151,
+        240
+      ],
+      "rgbaSha256": "b4bfaf71929d6aebfa68c371124b07b99701e1ddaeb58d349d34a808a436f272",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng31b.png",
+      "size": [
+        151,
+        240
+      ],
+      "rgbaSha256": "deabfa774b45141a2e5061571ce221a31bd27388fafbbc5a5aacf19998057a02",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng31d.png",
+      "size": [
+        151,
+        240
+      ],
+      "rgbaSha256": "11cc681179596e8a1b4df5890a4146832100a6f8d682183865062b1b6c4cd60d",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng31e.png",
+      "size": [
+        151,
+        240
+      ],
+      "rgbaSha256": "04b3dfb37ea5b1f19807636a3497e615ff63ded8cb33acff16164188a0a9a928",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng32.png",
+      "size": [
+        155,
+        240
+      ],
+      "rgbaSha256": "29dd4bb5f88179975829854179efed213e1db28b538122ffe66cdeaa347ec12c",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng32a.png",
+      "size": [
+        151,
+        240
+      ],
+      "rgbaSha256": "2df454aa40d271151a5765843bb6a7b379a5c55b2b05b29d001c22625dc46520",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng32b.png",
+      "size": [
+        151,
+        240
+      ],
+      "rgbaSha256": "c76c3626a3b44caa3be613265232a010479cdd400d6f7dc24c9a89eeefdaf56f",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng32d.png",
+      "size": [
+        151,
+        240
+      ],
+      "rgbaSha256": "837cada90872f90021fa18097ed226781379831eb300ec7117c03414f1702a03",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng32e.png",
+      "size": [
+        151,
+        240
+      ],
+      "rgbaSha256": "c1e723f0d59c751b3afcabd42d0b1704698c97ae6811a9ab5099306e7558a0be",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng32f.png",
+      "size": [
+        160,
+        240
+      ],
+      "rgbaSha256": "bfc273a0a5e65eb9893fca091346e338d0224a07d889c7226417b6e3c4cee3a4",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng33.png",
+      "size": [
+        155,
+        240
+      ],
+      "rgbaSha256": "21c8e7c58279848487c469d4ad36fb66da1650fb147630ec68baa6a9dd62d0e8",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng33a.png",
+      "size": [
+        151,
+        240
+      ],
+      "rgbaSha256": "cd430dbf524a72223b72cd20dd19699fcdc4a4eda894b4de35def1ee609f8597",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng33b.png",
+      "size": [
+        151,
+        240
+      ],
+      "rgbaSha256": "cc25d81cad3d5f5f473b0308f560fc62fb38e86e6f7e5eef1f55c74e794b1111",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng33d.png",
+      "size": [
+        151,
+        240
+      ],
+      "rgbaSha256": "98bf3447ee7094b85c3887c8536045cebd01d83d7f793b6f94b7bdfff4ef491d",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng33e.png",
+      "size": [
+        151,
+        240
+      ],
+      "rgbaSha256": "f1fc131df85dc3f41044ba3d95dfee39689133556d8bb045f68a74f2657801b1",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng34.png",
+      "size": [
+        155,
+        240
+      ],
+      "rgbaSha256": "d832f7ff0d54d6e85aed2eba704ec67607da014434e3577af17c78d15570a8d0",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng34a.png",
+      "size": [
+        151,
+        240
+      ],
+      "rgbaSha256": "72f4cbbcbcbe58eb34fe163f1180f7f0feaefe23d4e82d616c0a106ce68b916f",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng34e.png",
+      "size": [
+        151,
+        240
+      ],
+      "rgbaSha256": "81041a671cce84237144fefc63c6d6fc483ea56afb20708944659b1d1d8c3e97",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng35.png",
+      "size": [
+        155,
+        240
+      ],
+      "rgbaSha256": "ee898ceec5f35a0155c1d350a5dee0170132d09a10e6cf0059f47da23aac4176",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng35a.png",
+      "size": [
+        151,
+        240
+      ],
+      "rgbaSha256": "dbe3b3120d8d91e0a32bd75f8328e841fc7b0012170313f6b667b25e98d051b7",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng35e.png",
+      "size": [
+        151,
+        240
+      ],
+      "rgbaSha256": "7aeb54c673894cf49c34bf10f6c03fcd0d13346e26898017a10822a271567e24",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng36.png",
+      "size": [
+        155,
+        240
+      ],
+      "rgbaSha256": "10dc8f55d63f31d788a09b249b5fe14b4912951a39e16d3e1ed37b20ffb6d9d0",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng36a.png",
+      "size": [
+        151,
+        240
+      ],
+      "rgbaSha256": "fd307cc68e8ef550030f54951be2892d7991e4a5ae1f9c6ad82b7de0e4d9d7fb",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgng36e.png",
+      "size": [
+        151,
+        240
+      ],
+      "rgbaSha256": "0d11ece00cdb531c6f5fcbba212f51ea87da7f9ba0ef28b26653f283466b5cb3",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgny10.png",
+      "size": [
+        155,
+        240
+      ],
+      "rgbaSha256": "8153dda84be326c04d05106d5e8152a47e43cc5e9afdc1205697ae1e88da81a3",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgny10a.png",
+      "size": [
+        155,
+        240
+      ],
+      "rgbaSha256": "aa4a052d5cd2b9a44bbf3462df41a74fe31cf8f5ce24fb5eda3bcee54df79b14",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgry10.png",
+      "size": [
+        149,
+        240
+      ],
+      "rgbaSha256": "c5f15fffa3d0e21fea7ebf6354dcc6947eb3641dfb8d150dcf8ccbf41ca43b58",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgry10b.png",
+      "size": [
+        152,
+        240
+      ],
+      "rgbaSha256": "b9455ccebc1e7c87ffd55a4c2118fe49d0ba88fdb22f4c6ee21ddbfbd694189e",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgry11a.png",
+      "size": [
+        155,
+        240
+      ],
+      "rgbaSha256": "64d7250921b42f0d02dda8b50dcd41d263130b028f2dfb92536f936fe2c60ce2",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgry11d.png",
+      "size": [
+        145,
+        240
+      ],
+      "rgbaSha256": "8f5455ff40edf1097d67dd046e85fd68370fb361c9d48e816eac693158f88a24",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgry11e.png",
+      "size": [
+        153,
+        240
+      ],
+      "rgbaSha256": "f69434b25c819e30297584ecae0d1caf4080afa1ace938d1bd61e9c63e5c216c",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgry11g.png",
+      "size": [
+        154,
+        240
+      ],
+      "rgbaSha256": "880ec5a2e1769b6f7b9153486d474b5c72dab8f00cbb57adc6436247fe9cdfc5",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgry11h.png",
+      "size": [
+        146,
+        240
+      ],
+      "rgbaSha256": "f03edff33a4bbe020c24a14b1efeb8dce00be21a983b52081e85128d4519fa22",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgry20i.png",
+      "size": [
+        146,
+        240
+      ],
+      "rgbaSha256": "362acccdbc4a903f1c5e4b36f936b4140d9011cf34579d92a3ceba40268140e5",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgsh10.png",
+      "size": [
+        180,
+        182
+      ],
+      "rgbaSha256": "4038406a06c20c31d7db296d9ce2ed7ffdd44c94cd4624a68fe6b53bebcb9ca5",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgsh10b.png",
+      "size": [
+        180,
+        183
+      ],
+      "rgbaSha256": "624410c1a64c91407415ab73f2cc45b759a9c8019bdc23463418a532edffd728",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgsh10d.png",
+      "size": [
+        180,
+        186
+      ],
+      "rgbaSha256": "d204619d463238533416b7f3c5e531429229add3f337cd99290ae2173636b5b6",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgsh23.png",
+      "size": [
+        180,
+        190
+      ],
+      "rgbaSha256": "a55aa5eda97d24d06f6fa4a54747ac785ed4f41d6aa49bbe07076509add89c94",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgsh23b.png",
+      "size": [
+        180,
+        191
+      ],
+      "rgbaSha256": "9ab089f1081c025b4e272a75ce21bb52a78ab782e42aa3a145eb20316232207b",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgsh30.png",
+      "size": [
+        180,
+        222
+      ],
+      "rgbaSha256": "6e1282cd7f2b168a419c0823bd419f95e8e0d00b29861e998fbe4b7c1f341a9a",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgsn10.png",
+      "size": [
+        173,
+        240
+      ],
+      "rgbaSha256": "298f2ed249c32be5690223d30eaf3a5eba88b50a6b4564cb99b7d64b1fe7f4cf",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgsn10a.png",
+      "size": [
+        173,
+        240
+      ],
+      "rgbaSha256": "90944b948bf4eca35646905d29aaba61616c1934d556a7e495a4149268a5f51c",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgsn10ae.png",
+      "size": [
+        173,
+        240
+      ],
+      "rgbaSha256": "7408ad62d6b01afdc1a8d8a9ac009af3bd6f8ef501fc0eb8fc04bc23d49a2cf8",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgsn10ah.png",
+      "size": [
+        173,
+        240
+      ],
+      "rgbaSha256": "cd8f304891b4c99a96847dd1f95d9bae30413a8663484769b936bafe01de9020",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgsn10b.png",
+      "size": [
+        173,
+        240
+      ],
+      "rgbaSha256": "260a22a4425ecb775f80dc51bcc56b6781f99b071228d267dc53e8e0e6dd0ada",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgsn10c.png",
+      "size": [
+        173,
+        240
+      ],
+      "rgbaSha256": "00d8fa5ef7ba255c1d26d53bb53124f3122cb47f55d82806d128288e3c49ec34",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgsn10e.png",
+      "size": [
+        173,
+        240
+      ],
+      "rgbaSha256": "a2675f82ed76da1169464e1efd4da8d0837f6d5c244b627c272fc49d5ab71fc6",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgsn10h.png",
+      "size": [
+        173,
+        240
+      ],
+      "rgbaSha256": "402595a3ff2e69a738424615351edeff8c3884dab701a91edc3bbea2ff1ab92f",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgsn10he.png",
+      "size": [
+        173,
+        240
+      ],
+      "rgbaSha256": "afe361560f611ee45840113ecff75c65dc2656b882d53817c91252ecaac013ac",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgsn11bh.png",
+      "size": [
+        173,
+        240
+      ],
+      "rgbaSha256": "d227dcc8c7dc6dfa291ac0f6b4f5b087b7092705cf012608c616358fbfca5d54",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgsn11ch.png",
+      "size": [
+        173,
+        240
+      ],
+      "rgbaSha256": "762d573490c3cf016f7c5a30b88dc80ad0cf92533bbe7d0e1beb068f80fca895",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgsn13he.png",
+      "size": [
+        173,
+        240
+      ],
+      "rgbaSha256": "eecff7a9618beae6cd1955772c4197e216a64245c1d385dbbc0e0acfedc141e3",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgtm10.png",
+      "size": [
+        180,
+        204
+      ],
+      "rgbaSha256": "211dc3288a3e10e0d88b2577c11e6ceaa450d9f4b52058b8a01c1ff6bcbd32ee",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgtm10s.png",
+      "size": [
+        180,
+        204
+      ],
+      "rgbaSha256": "4d5d7e2c672bc63fd0aa06dfa76e74329a56c5d246d9a87aef15bfc5ef0deb9e",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgtm12h.png",
+      "size": [
+        180,
+        188
+      ],
+      "rgbaSha256": "2e3d48d61a46e3846c41808a95fd28d8f6ad5aa8e982e20bf422d9bee3ea8f2e",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgtm13a.png",
+      "size": [
+        180,
+        204
+      ],
+      "rgbaSha256": "0e57c1bd1f95d56b65b20be217fd8d6bb919a4548bbb9903c432f5b04ed733a7",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgtm30.png",
+      "size": [
+        180,
+        204
+      ],
+      "rgbaSha256": "4e2b28a540b3e24cf86375febd75df4bb0c0d9acbb22a5e6a94c1d5fbb77bdf7",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgtm30a.png",
+      "size": [
+        180,
+        204
+      ],
+      "rgbaSha256": "0d6e8eb65051e1f87e6da122761ce394848bc649817f845186eb63e3712b89d8",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgtm30h.png",
+      "size": [
+        180,
+        204
+      ],
+      "rgbaSha256": "5697b765bfd47523e3e9e05e6e97f85b5e81cadd688cdf2f4f0cf2a682336367",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgtm30s.png",
+      "size": [
+        180,
+        204
+      ],
+      "rgbaSha256": "f0257d72ae70b5d8aff7b29610fb6a566c059bfb66dee7a7c3c2979547c9be19",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgtm40.png",
+      "size": [
+        180,
+        235
+      ],
+      "rgbaSha256": "57bf20c47509b5ab3668622856d0283fca408ca4ce09ce67c66b35b55469b90d",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgts10.png",
+      "size": [
+        180,
+        170
+      ],
+      "rgbaSha256": "0f85ed37e9d675d12deac01724ab98a0b8fafafc170d8db62384bb4fde132cda",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgts11.png",
+      "size": [
+        180,
+        170
+      ],
+      "rgbaSha256": "749670e92f3cc3920ba674218326de22a52e0728c8ac63d0c83b176daf423063",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgus10.png",
+      "size": [
+        162,
+        240
+      ],
+      "rgbaSha256": "8905cb11172b66be50a4d6866e25c319267e9f68e6315120c26fa10783cade6d",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgus10a.png",
+      "size": [
+        162,
+        240
+      ],
+      "rgbaSha256": "345cf3f153f6337ea65018f449251e6108e76a662fca7dbc901f919af23d483d",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgus10c.png",
+      "size": [
+        162,
+        240
+      ],
+      "rgbaSha256": "1fca2ecfbedcbfb69db0a7dac0063b70c9b3405bf01502175664261f8682f802",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgus10hr.png",
+      "size": [
+        180,
+        240
+      ],
+      "rgbaSha256": "ddff71bc31a7e5137f3c288013b2856b922ca57b9f00bf18582df2ed4a24dbaa",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgus10k.png",
+      "size": [
+        180,
+        240
+      ],
+      "rgbaSha256": "bf73875d38cb57be70550a89fb8053b82ddeb2c641778d3a733eab784affd153",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgus11a.png",
+      "size": [
+        162,
+        240
+      ],
+      "rgbaSha256": "4b566cf6d68a7f1edfafc4feb4e2601c1bb6e0914ed6d9eec8d584d6bac36934",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgus11hr.png",
+      "size": [
+        180,
+        240
+      ],
+      "rgbaSha256": "03ff9e5013e743cb0713fd46893d43db4faed1ca166009f14db742362b72d2a5",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgus11k.png",
+      "size": [
+        180,
+        240
+      ],
+      "rgbaSha256": "a01b01c7c06c30e637fd7a9a1b8325eacecbd818a94fe327c0852a5b628c1bd7",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgus12.png",
+      "size": [
+        162,
+        240
+      ],
+      "rgbaSha256": "c0ee5053f5fc9014a988d97910f9d903feb677cf12d49c498da6146a6580a045",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgus12a.png",
+      "size": [
+        162,
+        240
+      ],
+      "rgbaSha256": "3a5d28f7d9bbb7961fb490fc5d5883fbf02591a70c1352809b3d6df6620c3a05",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgus12c.png",
+      "size": [
+        162,
+        240
+      ],
+      "rgbaSha256": "ca674ac7bb40bdfe83bae100a38cd8fbd88d283e591f4ad3535d6a405ce59e5d",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgus12hr.png",
+      "size": [
+        180,
+        240
+      ],
+      "rgbaSha256": "5f39fdc25f6f4c994d756dc57a794240300afc81890ded1bfb7acd53c8bee7d1",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgus13.png",
+      "size": [
+        162,
+        240
+      ],
+      "rgbaSha256": "97fc54c1b0ecd3459b287adc8eef2a799d60e8ae53a64024c677d35180aad735",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgus13hr.png",
+      "size": [
+        180,
+        240
+      ],
+      "rgbaSha256": "f424b93639c034fbda84068d20fe08f2a592080d923ca04a917d72bbffd3579b",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgus14hr.png",
+      "size": [
+        180,
+        240
+      ],
+      "rgbaSha256": "6b7819505e9ada174d09422669bcf665bc81da336e053725ca13e04c2379273a",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgus15.png",
+      "size": [
+        162,
+        240
+      ],
+      "rgbaSha256": "104e6be0945200a736d366e6d04929a7afca9a4aa295d0408cd75435dd771f4b",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgus15hr.png",
+      "size": [
+        180,
+        240
+      ],
+      "rgbaSha256": "abd94a85e434824caf22db2dedaca0d076e583ee123226d3a7de43ca5f705429",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgus16.png",
+      "size": [
+        162,
+        240
+      ],
+      "rgbaSha256": "38f2a0414611490f7c8ceaf2792976f42fc83c11445c56382e981553b58b084f",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgus18.png",
+      "size": [
+        162,
+        240
+      ],
+      "rgbaSha256": "be63f98e73e396eac17bc330177176b3cef572b4de9eb633546a2f743ff379a1",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgus18a.png",
+      "size": [
+        162,
+        240
+      ],
+      "rgbaSha256": "10e42edd9280116c7c870f2a741a356a4986a192527d49f825d2ba8f6cb339fb",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgus18b.png",
+      "size": [
+        178,
+        240
+      ],
+      "rgbaSha256": "14a5319faa5de93b248cd4cae73a46602f47e5e7b409966a4e0589925248b927",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgus18hr.png",
+      "size": [
+        180,
+        240
+      ],
+      "rgbaSha256": "02550ae6ac120225dea2aed9eda469aecb2dc0e43490715ba27466648940bf10",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgus18k.png",
+      "size": [
+        180,
+        240
+      ],
+      "rgbaSha256": "ca3b15eea16a3c9a26e82d5377909729267c254bfc9192500ce9acf9f63975f8",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgus19.png",
+      "size": [
+        162,
+        240
+      ],
+      "rgbaSha256": "0f7871693ca7a5a0087d530d7487ed6ca1fa83bab0efb3732ed606a133d7e82e",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgus19a.png",
+      "size": [
+        162,
+        240
+      ],
+      "rgbaSha256": "539c96ea25445f4cf25851e0e4a308102fed6825f73c50f1de1bfd22676b2ec5",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgus19c.png",
+      "size": [
+        162,
+        240
+      ],
+      "rgbaSha256": "a1935a68326ff20ed6d3e235186390091cd108edf57b2bac1517b24905ad3ae1",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgus19hr.png",
+      "size": [
+        180,
+        240
+      ],
+      "rgbaSha256": "607866c8eff02d345a9a26d8b08a0f5571291a428d5df2dd8861b4b79b085f50",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgus19k.png",
+      "size": [
+        180,
+        240
+      ],
+      "rgbaSha256": "d6bcd56bb042df2820cb0ebeea96791a27cb1915ad1d1c15870bdb56c2a31810",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgus21.png",
+      "size": [
+        162,
+        240
+      ],
+      "rgbaSha256": "9b720e3c371b20c7155337065ddbc034681dd4783423a2c18490bfc3deb121dd",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgus21b.png",
+      "size": [
+        178,
+        240
+      ],
+      "rgbaSha256": "d168d25f560ef51d3dc8c58293b87cd88b8125c1e5b66af7c1e13d241e5d6db0",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgus21c.png",
+      "size": [
+        162,
+        240
+      ],
+      "rgbaSha256": "bb0283d8af69a4dd2480bddbc56632287ae674b64bf3f184818904a0a9c52947",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgus21k.png",
+      "size": [
+        180,
+        240
+      ],
+      "rgbaSha256": "0815d33cd351c2e6fb7a763fc57428c2261a069f3770690b92fa4468830c34c7",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgus23.png",
+      "size": [
+        162,
+        240
+      ],
+      "rgbaSha256": "ee4041fe2d28a3d613538021b57ebcdb4e26dd5f53fbe054da899565d89da601",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgus23b.png",
+      "size": [
+        178,
+        240
+      ],
+      "rgbaSha256": "f07e0c0312ddb02bcf5132df2c2b8f836e150665c2a7e75c98686f8ed55b17c0",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgus23c.png",
+      "size": [
+        162,
+        240
+      ],
+      "rgbaSha256": "8ee2fd7e39222dc29e4f1c9ee62d74c94eef0ae906803188acd03b5a53a2dab1",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgus23hr.png",
+      "size": [
+        180,
+        240
+      ],
+      "rgbaSha256": "3d9c219ed9b64ecd330589a31914d2624fd9cae60949e9e0c4dd2758caa80bb6",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgus24a.png",
+      "size": [
+        162,
+        240
+      ],
+      "rgbaSha256": "a732874fac7023e1d61fd8fb27024b509d5ebaa9bf29798a69c0e87708636824",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgus24b.png",
+      "size": [
+        178,
+        240
+      ],
+      "rgbaSha256": "7ff9a733d964352ab5377a152e9246ee5e51e3e9abde65179491369b8355aba2",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgus25hr.png",
+      "size": [
+        180,
+        240
+      ],
+      "rgbaSha256": "d8e30f43089b892a9d8442954befe9e01e5527880f7b4aba0cfe94f92f223345",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgyk10.png",
+      "size": [
+        160,
+        240
+      ],
+      "rgbaSha256": "11d1138b5f9d0a79fd5f9c2e99f666be2210d1fd28cde90ff3f3be6afccddb49",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgyk10a.png",
+      "size": [
+        160,
+        240
+      ],
+      "rgbaSha256": "0a5dd8ae8dbef440ac79f96e57eb4f85cec0937e3835c353f1f2027a43d85ae8",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgyk11.png",
+      "size": [
+        160,
+        240
+      ],
+      "rgbaSha256": "b4a1948e3e6a0430cccfa0bcd6e0270ad0ecafe254c6efd282cb6c3c72a6b18a",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgyk11a.png",
+      "size": [
+        160,
+        240
+      ],
+      "rgbaSha256": "a201bdd94c97f98f11f1356a931dd506d586ddb9491fdf948ec02504e21236f7",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgyk12.png",
+      "size": [
+        160,
+        240
+      ],
+      "rgbaSha256": "5deece6b9d045204d1a734cae636ac5d04feb58d72115bc90a12e9e8ecd2c2a2",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgyk12a.png",
+      "size": [
+        160,
+        240
+      ],
+      "rgbaSha256": "7e9f536678c885c05bc253ea1919b64ef849ecdc7d91cdffd60f283deace2c09",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgyk13.png",
+      "size": [
+        160,
+        240
+      ],
+      "rgbaSha256": "24cd4831bc756671a07fb05a766489337c1e65cf125a27d3614bd1e4ce55a116",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgyk13a.png",
+      "size": [
+        160,
+        240
+      ],
+      "rgbaSha256": "b9d6e048f73a4ef58934b2f9240fa5571f330c479c0b9dfecfcf60b8a801d761",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgyk14.png",
+      "size": [
+        160,
+        240
+      ],
+      "rgbaSha256": "7f201bfa714f106f42d5f0558efcf6e06eae466c0d42e7dee8f679650992025f",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgyk14a.png",
+      "size": [
+        160,
+        240
+      ],
+      "rgbaSha256": "8577a39c0727a7e4fe3cad76207f545bf4f63d4052e716d1426a05c0232c488f",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgyk15.png",
+      "size": [
+        160,
+        240
+      ],
+      "rgbaSha256": "a50d3b8b2b6a1c3c432b86b07d0377d316b059ec2cf52163073f25eddb4545fe",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgyk15a.png",
+      "size": [
+        160,
+        240
+      ],
+      "rgbaSha256": "5d2e11946fa11e2081da239ad52385776e6c511dc5262cb8381f1d37582add1e",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgyk16.png",
+      "size": [
+        160,
+        240
+      ],
+      "rgbaSha256": "4f32b91c13460d919d3b1b622b9510c1c26fa3045d41902e74e85479d4ac831d",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgyk16a.png",
+      "size": [
+        160,
+        240
+      ],
+      "rgbaSha256": "e53ee955143bf3f12b405382fbc0b7c4148f43616264ec07107b9b7e75792e2f",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgyk17.png",
+      "size": [
+        160,
+        240
+      ],
+      "rgbaSha256": "1a1656791b04d5a385c19ab536f1d50db107ae920f83ecd9740e14ccf19bdf61",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgyk17a.png",
+      "size": [
+        160,
+        240
+      ],
+      "rgbaSha256": "0449c372a667769d71d721d7b6bbe803f88b19293ee2e81b599e51d9b33ecd93",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgyk18a.png",
+      "size": [
+        160,
+        240
+      ],
+      "rgbaSha256": "6ebea6092d64c1783df89d13adfc92178bd6806693365b2f71f1b970774d461f",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgyk20.png",
+      "size": [
+        160,
+        240
+      ],
+      "rgbaSha256": "36419d98c44aca52db17a3bfc590e280eb0cdc2d659697205a8e98ebab657404",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgyk20a.png",
+      "size": [
+        160,
+        240
+      ],
+      "rgbaSha256": "8f4744273da2d8378fc55114defe39b167328c7c487600748af7782cf437a916",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgyk21.png",
+      "size": [
+        160,
+        240
+      ],
+      "rgbaSha256": "ceb86b330b41dc3005a5d49bbe5e9a44e9da4a90064b0086db1663cbda0732b0",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgys10.png",
+      "size": [
+        180,
+        203
+      ],
+      "rgbaSha256": "afa8481d07cececb02d0209dc5d9bc69b47f3861f6311f3470143f88974cd745",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgys10a.png",
+      "size": [
+        180,
+        203
+      ],
+      "rgbaSha256": "485ce7e8c253a0454853198a4de51a23ccb15c6a32ffad53ee989c3479b36649",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgys18.png",
+      "size": [
+        180,
+        210
+      ],
+      "rgbaSha256": "62bcabd6e15844f82028097ddd4b04fbd3f811e0951ab5f9f1999c9d64e15226",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/cgys18a.png",
+      "size": [
+        180,
+        210
+      ],
+      "rgbaSha256": "81866ecc87296d97487d43adc2498486abb1d6ca73dd373cbd998d3a0ef0e4ff",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/images/stt_logo00.png",
+      "size": [
+        243,
+        190
+      ],
+      "rgbaSha256": "5e4fb67d446f2484c37e555c02899a9374dc6a145e9a58f83201b61ad51bf62b",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/logo.png",
+      "size": [
+        192,
+        192
+      ],
+      "rgbaSha256": "d534171edbb217c2090e171aaa53145c363aecaae31ab83d905863a82b9abc3c",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/ui/after-story.png",
+      "size": [
+        188,
+        25
+      ],
+      "rgbaSha256": "66720212fd0d10462d2d01ecc464a6c329a4c2dc02293ff4dbd0bd5b63a5ffc8",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/ui/cg-mode.png",
+      "size": [
+        188,
+        25
+      ],
+      "rgbaSha256": "b537a0bbd2e4fd577adc76ba8998f36d6581d31ca39f85a3b490d4654f474e2b",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/ui/config.png",
+      "size": [
+        188,
+        25
+      ],
+      "rgbaSha256": "9fac8c91f15710a795555ef6510ea023309101d739c492e73221738f1fccc966",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/ui/copyright.png",
+      "size": [
+        154,
+        19
+      ],
+      "rgbaSha256": "56324959948bf1766fa1b6d911e3430f8d6a19eef97e4a3c8084430ee6398ea8",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/ui/load.png",
+      "size": [
+        188,
+        25
+      ],
+      "rgbaSha256": "d8ab4c3abd3dd9d3946098dde89cbce10fb0385210e1a85a59bee4d0b782b7a5",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/ui/logo.png",
+      "size": [
+        288,
+        66
+      ],
+      "rgbaSha256": "709fb0f5aebcf2282a0e9f79d7340baa770fd1387006adea5879044a9608c275",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/ui/new-game.png",
+      "size": [
+        188,
+        25
+      ],
+      "rgbaSha256": "22197f08f153705bd86fd1dbe44b8ddfbdbf900a7424cec0dbe6e88f880e035e",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/ui/subtitle.png",
+      "size": [
+        184,
+        36
+      ],
+      "rgbaSha256": "b3f65c5adbcca6cae54e70b007fc7da12365aedca2ce91ddd02b9d6854229d0a",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    },
+    {
+      "file": "common/ui/title-panel.png",
+      "size": [
+        216,
+        300
+      ],
+      "rgbaSha256": "4a5bede97a5e624aee7b1a0b5494b5a830542729f97e9015ad2bd19eea415e4a",
+      "pixelsIdentical": true,
+      "pngColorTypeUnchanged": true,
+      "colorProfileUnchanged": true
+    }
+  ],
+  "nativePortraitAndCgPixelsIdenticalToV014": true
+}

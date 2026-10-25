@@ -12,7 +12,7 @@ test('walkthrough paths from prologue earn school flags, unlock After Story and 
  check('after');for(const n of [8,10,11,14,35])assert.equal(progress.variables['g:'+n],1);assert.equal(progress.variables['g:0'],12);
  cases.akio={start:6800,flag:7,reload:true,choices:{'6800:5314':1,'7200:448':0,'7200:586':0}};
  check('akio');assert.equal(progress.variables['g:0'],13);
- cases.trueEnd={...cases.after,flag:45};const end=check('trueEnd');assert.equal(end.state.chapter,6803);
+ assert.notEqual(progress.variables['g:45'],1);cases.trueEnd={...cases.after,flag:45};const end=check('trueEnd');assert.equal(end.state.chapter,6803);assert.equal(progress.variables['g:45'],1);
  fs.writeFileSync(path.join(root,'reports/guide-validation.json'),JSON.stringify({source:'https://kazamatsuri.org/clannad-walkthrough/',edition:'user-supplied Steam Chinese SceneZH.pck',result:'passed',flagsGeneratedByPlaying:true,progressSavedAcrossPlaythroughs:true,chunkSize:512,paths:results},null,2)+'\n');
 });
 

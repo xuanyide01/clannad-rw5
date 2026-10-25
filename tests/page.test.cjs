@@ -2,11 +2,33 @@ const {test}=require('node:test'),assert=require('node:assert/strict'),vm=requir
 const root=path.resolve(__dirname,'..');
 const cat=fs.readFileSync(path.join(root,'src/common/catalog.js'),'utf8').replace('export const','const');
 const script=name=>fs.readFileSync(path.join(root,'src/common',name+'.js'),'utf8').replace(/^import[^\n]*\n/gm,'').replace(/export /g,'');
-const api=new Function(cat+['text-font','portrait-layout','progress','engine','saves','gallery','assets'].map(script).join('\n')+';return {checkpoint,portraitBox,PROGRESS_KEY,emptyProgress,decodeProgress,progressFromState,withProgress,lightCount,afterUnlocked,textFont,catalog,newState,restore,readFrame,readChapterSkip,next,nextChapter,choose,previous,previewMap,SLOT_COUNT,LEGACY_KEY,slotKey,decodeSave,createSave,slotRow,imagePath,groupGallery,stepVariant};')();
+const api=new Function(cat+['auto-reader','text-font','portrait-layout','progress','engine','saves','gallery','assets'].map(script).join('\n')+';return {titleBackground,autoSpeeds,autoWait,checkpoint,portraitBox,PROGRESS_KEY,emptyProgress,decodeProgress,progressFromState,withProgress,lightCount,afterUnlocked,textFont,catalog,newState,restore,readFrame,readChapterSkip,next,nextChapter,choose,previous,previewMap,SLOT_COUNT,LEGACY_KEY,slotKey,decodeSave,createSave,slotRow,imagePath,groupGallery,stepVariant};')();
 function page(progressFailure=false){const pending=[],timers=[];const source=fs.readFileSync(path.join(root,'src/pages/index/index.ux'),'utf8').split('<script>')[1].split('</script>')[0].replace(/^import[^\n]*\n/gm,'').replace('export default','globalThis.page=');
- const writes=[];const context=vm.createContext({...api,file:{readText:o=>o.success({text:fs.readFileSync(path.join(root,'src',o.uri),'utf8')})},storage:{get:o=>pending.push(o),set:o=>writes.push(o)},prompt:{showToast(){}},console:{log(){},error(){}},Date,setTimeout:fn=>{timers.push(fn);return timers.length;},clearTimeout(){}});
- vm.runInContext(source,context);const p=context.page;Object.assign(p,p.private);p.onInit();pending.shift().success('');const progress=pending.shift();if(progressFailure)progress.fail();else progress.success('');return {p,pending,timers,writes};
+ const writes=[];const context=vm.createContext({...api,audio:{play(){},stop(){}},file:{readText:o=>o.success({text:fs.readFileSync(path.join(root,'src',o.uri),'utf8')})},storage:{get:o=>pending.push(o),set:o=>writes.push(o)},prompt:{showToast(){}},console:{log(){},error(){}},Date,setTimeout:fn=>{timers.push(fn);return timers.length;},clearTimeout(){}});
+ const music=fs.readFileSync(path.join(root,'src/common/title-music.js'),'utf8').replace(/export /g,'');
+ vm.runInContext(music+'\n'+source,context);const p=context.page;Object.assign(p,p.private);p.onInit();pending.shift().success('{"soundEnabled":false}');const progress=pending.shift();if(progressFailure)progress.fail();else progress.success('');return {p,pending,timers,writes};
 }
+
+test('CONFIG keeps settings and route navigation returns through the original title flow',()=>{
+ const {p,writes}=page();p.openConfig();assert.equal(p.mode,'config');p.toggleFont();assert.equal(p.fontSize,28);assert.equal(writes.length,1);assert.equal(writes[0].key,'clannad_rw5_settings_v1');
+ p.openRoutes();assert.equal(p.mode,'routes');p.closeBrowse();assert.equal(p.mode,'config');p.openHelp();assert.equal(p.mode,'help');p.swipe({direction:'right'});assert.equal(p.mode,'config');p.swipe({direction:'right'});assert.equal(p.mode,'title');
+ const before=api.checkpoint(p.session);p.startAfter();assert.equal(p.mode,'title');assert.deepEqual(api.checkpoint(p.session),before);assert.equal(p.afterAvailable,false);
+});
+
+test('late gallery and chapter taps cannot reopen old content after returning to title or settings',()=>{
+ const {p}=page();p.openGallery();p.viewCg(0);assert.equal(p.mode,'cg');p.toTitle();p.viewCg(3);assert.equal(p.mode,'title');p.backToGallery();assert.equal(p.mode,'title');p.openConfig();p.viewCg(0);assert.equal(p.mode,'config');p.selectBrowse(0);assert.equal(p.mode,'config');
+});
+
+test('title switches from the same fixed view only after earned true-ending progress',()=>{
+ const {p}=page();assert.equal(p.titleBackgroundSrc,'/common/ui/title-before.jpg');p.session=api.newState(6803);p.session.variables['g:45']=1;p.syncProgress();assert.equal(p.titleBackgroundSrc,'/common/ui/title-before.jpg');
+ p.session.progression='story';p.syncProgress();assert.equal(p.titleBackgroundSrc,'/common/ui/title.jpg');p.toTitle();assert.equal(p.titleBackgroundSrc,'/common/ui/title.jpg');
+});
+
+test('long dialogue has room to scroll and a drag does not advance the story',()=>{
+ const {p}=page();p.fullText='长段落，保持剧情和滚动位置。'.repeat(30);p.measureDialogue();assert.ok(p.dialogueHeight>128);const standard=p.dialogueHeight;p.fontSize=28;p.measureDialogue();assert.ok(p.dialogueHeight>=standard);
+ let advances=0;p.advance=()=>advances++;p.dialogueTouchStart({touches:[{clientX:160,clientY:410}]});p.dialogueTouchMove({touches:[{clientX:160,clientY:350}]});p.dialogueTouchEnd();p.dialogueTap();assert.equal(advances,0);
+ p._dialogueIgnoreUntil=0;p.dialogueTouchStart({touches:[{clientX:160,clientY:410}]});p.dialogueTouchEnd();p.dialogueTap();assert.equal(advances,1);
+});
 test('actual slot UI reads one slot at a time and keeps all 30 loaded previews',()=>{
  const {p,pending,timers}=page(),saved=JSON.stringify(api.createSave(api.newState(),'play',1));p.openSlots('load');assert.equal(p.loading,true);
  for(let i=0;i<30;i++){assert.equal(pending.length,1);const read=pending.shift();assert.equal(read.key,api.slotKey(i));read.success(i===7?'{}':saved);if(i<29){assert.equal(pending.length,0);assert.equal(timers.length,1);timers.shift()();}}

@@ -1,0 +1,11 @@
+[INFO] aiot-toolkit: 1.1.0; babel: 7.29.7; webpack: 5.88.1;
+[INFO] Configuration environment：{"NODE_PLATFORM":"native","NODE_PHASE":"prod"}
+[INFO] Get the app file suffix: ux
+[WARN] Label img must be closed, please follow the XML specification C:\Users\HP\Documents\Codex\2026-10-08\zhe\work\clannad-rw5\src\pages\index\index.ux@7:7
+[WARN] Label img must be closed, please follow the XML specification C:\Users\HP\Documents\Codex\2026-10-08\zhe\work\clannad-rw5\src\pages\index\index.ux@59:121
+[WARN] Label img must be closed, please follow the XML specification C:\Users\HP\Documents\Codex\2026-10-08\zhe\work\clannad-rw5\src\pages\index\index.ux@60:124
+[WARN] Label img must be closed, please follow the XML specification C:\Users\HP\Documents\Codex\2026-10-08\zhe\work\clannad-rw5\src\pages\index\index.ux@64:7
+[INFO] Build Time Cost: 7.547s
+[LOG] ### App Loader ### Built-in debug signature is enabled by project build
+[LOG] ### App Loader ### Project build and generate files：com.codex.clannad.rw5.debug.0.1.0.rpk
+BUILD_OUTPUT com.codex.clannad.rw5.debug.0.1.0.rpk 24827713
