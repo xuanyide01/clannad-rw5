@@ -1,1 +1,0 @@
-[{"op":"return"},{"op":"native","call":["call","global.counter[].start",[],["v","counter",0]]},{"op":"ifFalse","to":4,"condition":["&&",["<",["call","global.counter[].get",[],["v","counter",0]],155900],["==",["v","g",43],1]]},{"op":"goto","to":4},{"op":"return"},{"op":"return"}]

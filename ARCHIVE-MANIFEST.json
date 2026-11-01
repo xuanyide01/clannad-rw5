@@ -1,0 +1,211 @@
+{
+  "archived_at": "2026-11-01",
+  "repository": "xuanyide01/clannad-rw5",
+  "versions": [
+    {
+      "tag": "v0.1.0",
+      "files": [
+        {
+          "name": "CLANNAD-RW5-0.1.0-SHA256.txt",
+          "bytes": 178,
+          "sha256": "916bb788e16e6961b01db5c3b2daef69f94861d3436532b72cbe84b7c58f6e05"
+        },
+        {
+          "name": "CLANNAD-RW5-0.1.0-安装说明.md",
+          "bytes": 5216,
+          "sha256": "d69b84d72b2071c1a6768765ea08614c5ebed0dc1c4e30085bb2f1be654ba20b"
+        },
+        {
+          "name": "CLANNAD-RW5-0.1.0-检查报告.json",
+          "bytes": 543,
+          "sha256": "9b9ccec1b6ef52e8a1ce82089d4cc2d864aaf387d508875d587d617f64644f23"
+        },
+        {
+          "name": "CLANNAD-RW5-0.1.0.bin",
+          "bytes": 24598675,
+          "sha256": "0b2caba62c5a015ab48b6258e290aa2a2201ae9d53da438f636bb1b64d5794c5"
+        },
+        {
+          "name": "CLANNAD-RW5-0.1.0.rpk",
+          "bytes": 24598675,
+          "sha256": "0b2caba62c5a015ab48b6258e290aa2a2201ae9d53da438f636bb1b64d5794c5"
+        }
+      ]
+    },
+    {
+      "tag": "v0.1.1",
+      "files": [
+        {
+          "name": "CLANNAD-RW5-0.1.1-SHA256.txt",
+          "bytes": 178,
+          "sha256": "4e8d6c8adc69e245030e6c87735f572bedf0c6a9b2e2d61972644d9d762422d9"
+        },
+        {
+          "name": "CLANNAD-RW5-0.1.1-安装说明.md",
+          "bytes": 6717,
+          "sha256": "cafbfec75d23aa292ba77bb60ca808d50616448146a1d73a108c8834e9f707df"
+        },
+        {
+          "name": "CLANNAD-RW5-0.1.1-标题.png",
+          "bytes": 149483,
+          "sha256": "76463264c509ff1dad3bbacca623d93a74eb6f6fe692e7b271fe97956bb9154e"
+        },
+        {
+          "name": "CLANNAD-RW5-0.1.1-检查报告.json",
+          "bytes": 560,
+          "sha256": "361065665e6d2ff75afeb6f4e63af0bca52168fe92948591bce547930c36103c"
+        },
+        {
+          "name": "CLANNAD-RW5-0.1.1-立绘.png",
+          "bytes": 146235,
+          "sha256": "8eed5262382c87b2849f2c8d84bfcd3b796c3d8662ea9124c7887370ea0278be"
+        },
+        {
+          "name": "CLANNAD-RW5-0.1.1.bin",
+          "bytes": 24623344,
+          "sha256": "487404d9f44d736a3be7ab0ec4fb4e8214ef7d7cf8264441f6fbc57c9283c053"
+        },
+        {
+          "name": "CLANNAD-RW5-0.1.1.rpk",
+          "bytes": 24623344,
+          "sha256": "487404d9f44d736a3be7ab0ec4fb4e8214ef7d7cf8264441f6fbc57c9283c053"
+        }
+      ]
+    },
+    {
+      "tag": "v0.1.2",
+      "files": [
+        {
+          "name": "CLANNAD-RW5-0.1.2-SHA256.txt",
+          "bytes": 178,
+          "sha256": "80e142cee3e938b2fdacd31b8afef7a1a10bf1e894896a3d58f29fe956564850"
+        },
+        {
+          "name": "CLANNAD-RW5-0.1.2-安装说明.md",
+          "bytes": 8039,
+          "sha256": "d27e7c0b07390bf862faff13bb6e78329e26b78f53d8bf16bec3e6b34d1821bf"
+        },
+        {
+          "name": "CLANNAD-RW5-0.1.2-检查报告.json",
+          "bytes": 1277,
+          "sha256": "1a832addb1e70ff787513aae2a168a675d59b5a0fae900b2ebdfb17957aa66eb"
+        },
+        {
+          "name": "CLANNAD-RW5-0.1.2.bin",
+          "bytes": 24623555,
+          "sha256": "f67d6dc500a7e3467d003685deb9a60f1d00a86489397732dea49b7c1de4fdaa"
+        },
+        {
+          "name": "CLANNAD-RW5-0.1.2.rpk",
+          "bytes": 24623555,
+          "sha256": "f67d6dc500a7e3467d003685deb9a60f1d00a86489397732dea49b7c1de4fdaa"
+        }
+      ]
+    },
+    {
+      "tag": "v0.1.4",
+      "files": [
+        {
+          "name": "CLANNAD-RW5-0.1.4-SHA256.txt",
+          "bytes": 178,
+          "sha256": "2d6452f3e2c3b8e290109d37b52143dcacb63d458adab425e73c69e135b52048"
+        },
+        {
+          "name": "CLANNAD-RW5-0.1.4-对白.png",
+          "bytes": 146263,
+          "sha256": "0e99de8f2f2162f0f3b8feb7d9ef3c7e9ef0f8d92bfb6b34f3b2fcdfe9f2bc8a"
+        },
+        {
+          "name": "CLANNAD-RW5-0.1.4-标题.png",
+          "bytes": 268016,
+          "sha256": "d2254e604668034bd8e5dd0b403a9550431a7c9c0f2792910ad1fe8c33f2c43e"
+        },
+        {
+          "name": "CLANNAD-RW5-0.1.4-检查报告.json",
+          "bytes": 2916,
+          "sha256": "82823fade8fbfcf3adcd84fc3288d56bc41eaa1ad2a6332d57b6f2e9dc9be02d"
+        },
+        {
+          "name": "CLANNAD-RW5-0.1.4-源码与检查.zip",
+          "bytes": 35931720,
+          "sha256": "20d73be6e74d3b400bfefc44bb2ce9a8953ff6f748f219cc79d9933dbfd32ebf"
+        },
+        {
+          "name": "CLANNAD-RW5-0.1.4-自动播放菜单.png",
+          "bytes": 36632,
+          "sha256": "027c7420190ee884fb33e66ad41ae4b4845a5b5899578adf3ef0ff3e36796e63"
+        },
+        {
+          "name": "CLANNAD-RW5-0.1.4-设置.png",
+          "bytes": 37398,
+          "sha256": "7d84f306840d8657906e8496970b64f2230058f79f97719dbb63af9bbc866f53"
+        },
+        {
+          "name": "CLANNAD-RW5-0.1.4-说明.md",
+          "bytes": 1967,
+          "sha256": "0c67ec33653e33fd488b4c6366cd0250106ce65b6e6a46a054915b229dc9d3b8"
+        },
+        {
+          "name": "CLANNAD-RW5-0.1.4.bin",
+          "bytes": 24749319,
+          "sha256": "ed5e8483498e6898913a7604daea00b370b56dce81fab6019ed4b4c582699e2a"
+        },
+        {
+          "name": "CLANNAD-RW5-0.1.4.rpk",
+          "bytes": 24749319,
+          "sha256": "ed5e8483498e6898913a7604daea00b370b56dce81fab6019ed4b4c582699e2a"
+        }
+      ]
+    },
+    {
+      "tag": "v0.1.5",
+      "files": [
+        {
+          "name": "CLANNAD-RW5-0.1.5-SHA256.txt",
+          "bytes": 178,
+          "sha256": "a26a0f3c1a4964c414f53f305ce2dbdbb66939da512573fa2af30175878dd6fc"
+        },
+        {
+          "name": "CLANNAD-RW5-0.1.5-标题.png",
+          "bytes": 268016,
+          "sha256": "d2254e604668034bd8e5dd0b403a9550431a7c9c0f2792910ad1fe8c33f2c43e"
+        },
+        {
+          "name": "CLANNAD-RW5-0.1.5-检查报告.json",
+          "bytes": 4926,
+          "sha256": "2a9f55c0fb02c8c32bc43a7aec2db4265dbf41689a8cd65795ba16748a4748c4"
+        },
+        {
+          "name": "CLANNAD-RW5-0.1.5-源码与检查.zip",
+          "bytes": 37777240,
+          "sha256": "f908fbae38346517abf677a1d5336db4c5f5a522784455ec81f321cf05c96bf6"
+        },
+        {
+          "name": "CLANNAD-RW5-0.1.5-绿色菜单.png",
+          "bytes": 35844,
+          "sha256": "c93bf617d0810ce5150b5bda640dc72b6849b617fe719955176f3d12a3ae8f51"
+        },
+        {
+          "name": "CLANNAD-RW5-0.1.5-说明.md",
+          "bytes": 1449,
+          "sha256": "fd2cc2962dbb51a0f8a886d3d348f92bb0b98ad540d87ffa5f87ba0959964f1c"
+        },
+        {
+          "name": "CLANNAD-RW5-0.1.5-音乐设置.png",
+          "bytes": 35646,
+          "sha256": "7778adfaa17abda84f879c9395e1eb2ff8441010856c1bbcf7109bd466657341"
+        },
+        {
+          "name": "CLANNAD-RW5-0.1.5.bin",
+          "bytes": 24606358,
+          "sha256": "0da0f72c8fd2bd9871caa11286ec0ada20911b5b95c5596b0205354c3e64f9b9"
+        },
+        {
+          "name": "CLANNAD-RW5-0.1.5.rpk",
+          "bytes": 24606358,
+          "sha256": "0da0f72c8fd2bd9871caa11286ec0ada20911b5b95c5596b0205354c3e64f9b9"
+        }
+      ]
+    }
+  ]
+}

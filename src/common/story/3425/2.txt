@@ -1,1 +1,0 @@
-[{"op":"text","speaker":"朋也","text":"「呃…没什么。你别在意。」"},{"op":"set","target":["v","f",1118],"value":0},{"op":"jumpScene","scene":3426,"entry":0},{"op":"return"}]
